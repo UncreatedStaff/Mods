@@ -1,0 +1,16 @@
+GUID 6076243873fe410cb4c3c91bb82f3248
+Type Magazine
+ID 26029
+
+Size_X 5
+Size_Y 3
+Size_Z 0.45
+
+Amount 5
+Count_Min 5
+Count_Max 5
+
+Calibers 1
+Caliber_0 26029
+
+Delete_Empty

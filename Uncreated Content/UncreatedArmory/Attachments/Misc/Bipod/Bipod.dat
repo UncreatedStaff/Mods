@@ -1,0 +1,13 @@
+GUID fe2d2c34d4294146a136538b768e2311
+Type Grip
+ID 32314
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Sway 0.08
+Shake 0.6
+
+Bipod
+Exclude_From_Master_Bundle

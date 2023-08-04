@@ -1,0 +1,18 @@
+GUID 933b759284a245a5835eb8cd8cf8b5df
+Type Barrel
+ID 38451
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 38451
+
+Recoil_X 0.75
+Recoil_Y 0.75
+
+Spread 0.95
+Shake 0.75
+
+Paintable

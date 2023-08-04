@@ -1,0 +1,10 @@
+GUID 1060cf8c088949ab99938c7f4c9ab20d
+Type Medium
+ID 38306
+
+LOD None
+
+Rubble Destroy
+Rubble_Reset 1800
+Rubble_Health 275
+Rubble_Effect 66

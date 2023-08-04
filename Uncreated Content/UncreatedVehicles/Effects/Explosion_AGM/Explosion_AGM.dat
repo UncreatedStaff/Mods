@@ -1,0 +1,9 @@
+GUID fce656155daa49feb3e4b2effb532306
+Type Effect
+ID 26030
+
+Relevant_Distance 600
+Spawn_Explosion_On_Dedicated_Server
+
+CameraShake_Radius 80
+CameraShake_MagnitudeDegrees 60

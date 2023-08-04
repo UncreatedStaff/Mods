@@ -1,0 +1,747 @@
+STRUCTURE            Vehicle Spawn Pad                                          20002     c076f9e9f35f42a4b8b5711dfb230010
+(5998 IDs skipped)
+GUN                  Mi-28 S-8 Rocket                                           26001     fc81c5f027364023b212900e9c3c7697
+MAGAZINE             S-8 HEAT Rockets                                           26002     d93f1afc99664922a06746969a799dda
+GUN                  Mi-28 Autocannon                                           26003     222f108a7c50462f9c2f4d8730365df3
+(1 IDs skipped)
+GUN                  AH-1Z Hydra-70 Rocket                                      26005     06cdbbf06436409b9c3ba9237cc486aa
+MAGAZINE             Hydra-70 M247 HEAT Rockets                                 26006     a2066a6074564bdf8502db1dd8a11e80
+GUN                  AH-1Z Rotary Cannon                                        26007     e929441a7bf7471b80072654275255c1
+MAGAZINE             20x102mm AP Incendiary Shells                              26008     3044aff8e6624aee97c342e7a224a082
+GUN                  Su-25 Rotary Cannon                                        26009     dcb4b10af72341cc980573f035152019
+MAGAZINE             30x165mm SAPHEI Incendiary Shells                          26010     6ba7875fc17e4d28adf3ed6bb541f677
+GUN                  Su-25 S-13 Rocket                                          26011     ff450b8058774cc382ba227f5b46e17d
+MAGAZINE             S-13 AGM Rockets                                           26012     15f3da5725464a1999021a011090a69b
+GUN                  BTR-82A                                                    26013     aaa2ffb8a5fc4deca1a5b719ad7325a6
+GUN                  Su-34 Autocannon                                           26014     65dd802cd2e64463bb2198e2e4074453
+(1 IDs skipped)
+GUN                  Su-34 Ground Attack Rocket                                 26016     b5b6a2d39ed9419693c60e8ade56baed
+GUN                  F-15E Rotary Cannon                                        26017     58750df71e0e484f97b7d3dd3d115fd2
+(1 IDs skipped)
+GUN                  F-15E Ground Attack Rocket                                 26019     5d010144b470447db9185d189dccb71a
+GUN                  FIM-92 Stinger                                             26020     58b18a3fa1104ca58a7bdebef3ab6b29
+MAGAZINE             Stinger Anti-Air Missiles                                  26021     3c0a94af5af24901a9e3207f3e9ed0ba
+BARRICADE            FIM-92 Stinger                                             26022     3c2dd7febc854b7f8859852b8c736c8e
+GUN                  BRDM-2                                                     26023     0feaa315938d4ed8a117b05f06694c23
+GUN                  9K38 Igla                                                  26024     5ae39e59d299415d8c4d08b233206302
+MAGAZINE             9K38 Igla Anti-Air Missiles                                26025     a54d571983c2432a9624eec39d602997
+GUN                  AIM-9 Sidewinder Missile                                   26026     661a347f5e56406e85510a1b427bc4d6
+MAGAZINE             AIM-9 Sidewinder Missiles                                  26027     bc2b7c9e44ee42df93a5eebd693d554b
+GUN                  Mk 82 Bomb                                                 26028     e3f296f798b64a6c98009fb071cb45f8
+MAGAZINE             Mk 82 Bombs                                                26029     6076243873fe410cb4c3c91bb82f3248
+GUN                  AGM-65 Maverick Guided Missile                             26030     433ea5249699420eb7adb67791a98134
+MAGAZINE             AGM-65 Maverick Laser-Guided Missile                       26031     ccf8a9df6160420788af150378355ee7
+GUN                  Vympel R-27 Missile                                        26032     ad70852b3d31401b9001a13d64a13f78
+MAGAZINE             Vympel R-27 Missiles                                       26033     6a45f1c0c8544cc487d844ec2cc7ce9b
+GUN                  FAB-250 Bomb                                               26034     8b61f77fa7194baaba65d1ec0a5c0e87
+MAGAZINE             FAB-250 M-62 Bombs                                         26035     c936c8ba22c1498b87d4fe113b65287b
+GUN                  Kh-29 Guided Missile                                       26036     3754ca2527ee40e2ad0951c8930efb07
+MAGAZINE             Kh-29 Laser-Guided Missile                                 26037     c224c0f10f014bbabf106a121499403a
+GUN                  TOW Missile                                                26038     9ed685df6df34527b104ab227465489d
+(1 IDs skipped)
+GUN                  9M113 Konkurs                                              26040     d6312ceb00ad4530bdb07735bc02f070
+MAGAZINE             Konkurs Missile Capsule                                    26041     08ad431876f4428296b5af2c92240170
+BARRICADE            9K38 Igla                                                  26042     b50cb548734946ffa5f88d6691a2c7ce
+(4657 IDs skipped)
+SHIRT                Flora Jacket                                               30700     f5c88106d5324175815e730b3b1b897e
+PANTS                Flora Pants                                                30701     cede4da725eb4749b66b9d138b0e557d
+(1 IDs skipped)
+HAT                  Flora Ballistic Helmet                                     30703     bd1e37ece7854683a0e157877b411eea
+HAT                  Flora Ballistic Helmet                                     30704     e495734ebe274a0085d8b299b5897cb4
+HAT                  Flora Medic Helmet                                         30705     f12b6c24f3634dfeb5a81f22f8ca8aca
+HAT                  Flora Flex Cap                                             30706     64b0d3b82df3461795a87639f205cab9
+HAT                  Green Beret                                                30707     8f30d92410f94318912b8a09f3ccdb9d
+BACKPACK             Flora Camo Rugged Pack                                     30708     25679323c2f44fc98686864bf193385d
+BACKPACK             Flora Camo Dufflebag                                       30709     e2f28aeff06d4a578015243347839d84
+SHIRT                Woodlands Jacket                                           30710     a16f575745384744bf99033faea1052e
+PANTS                Woodlands Pants                                            30711     0b3743eb566d416ea309daa54f218e71
+(1 IDs skipped)
+HAT                  Woodlands Ballistic Helmet                                 30713     90c733b2aad742db958b834387ca65e0
+HAT                  Woodlands Ballistic Helmet                                 30714     6e54ef44e4154b5bb643c71d4f3a7ff5
+HAT                  Woodlands Ballistic Helmet                                 30715     ecb249c3bf42492e9a84b093328f0417
+HAT                  Woodlands Medic Helmet                                     30716     3debb53ccd604cf2861af014980cb89d
+HAT                  Woodlands Flex Cap                                         30717     98c4087de8ca4b059bb26f0fed7f7e51
+BACKPACK             Woodlands MOLLE Pack                                       30718     878c39a860954e22a799f92ddc7fb707
+BACKPACK             Woodlands Camo Rugged Pack                                 30719     7f49caf0357f4a9e8bb873b0da2a2ab8
+BACKPACK             Woodlands Camo Dufflebag                                   30720     ac75cf9849324fb3b4fa8fed3be12c69
+(59 IDs skipped)
+SHIRT                Lizard Jacket                                              30780     b9d5f63ed6f84a5c8c339a86828e0642
+PANTS                Lizard Pants                                               30781     3f0ad0fd305f4deea96a84d4c9ebaae0
+(8 IDs skipped)
+SHIRT                Soviet Coat                                                30790     157148a3ebfb447e948b04cdd83d9335
+PANTS                Soviet Pants                                               30791     ef9852b99d9e4591904fb42ab9f46134
+HAT                  Soviet Helmet                                              30792     d8c9b02f6ad74216ae25ddd4a98d721c
+HAT                  Soviet Beret                                               30793     87e9589a0593497e808af86e12a1545e
+(5 IDs skipped)
+SHIRT                Drip Jacket                                                30799     1e0ad1c7047a4a179e28e9a7398d3158
+SHIRT                Urban Jacket                                               30800     ee5ecff41ebd4ee082bea183db01193c
+PANTS                Urban Pants                                                30801     ad3740ed150040edafef80594b89357d
+VEST                 Urban Tactial Rig                                          30802     b5c9c2284ac547b59bad4bf7ad23b602
+VEST                 Urban Ballistic Plate Carrier L-III                        30803     aedbc45bb0554e54867d871f703c2f1b
+(1 IDs skipped)
+HAT                  Urban Ballistic Helmet                                     30805     05e3c4d7ecd34df19306f84cce5e39f3
+HAT                  Urban Ballistic Helmet                                     30806     ad3953faea8f4fb5a16bc5df8c2196aa
+HAT                  Urban Ballistic Helmet                                     30807     0cd25f11b5864c0e99c1ad7ca4f8ad7d
+HAT                  Urban Medic Helmet                                         30808     d69038a8854c440b9954649804d473c6
+BACKPACK             Urban MOLLE Pack                                           30809     83075cc3512f4f209a0b32d309c22f56
+BACKPACK             Urban Camo Rugged Pack                                     30810     187f80da72a34138be98e0d47da9565f
+BACKPACK             Urban Camo Dufflebag                                       30811     e15ec137bf23452a8ae045681581714d
+HAT                  Urban Flex Cap                                             30812     673d555ef57e4ec9941cb227b59d6a7c
+(7 IDs skipped)
+SHIRT                SURPAT Jacket                                              30820     58e6b06c1d5744d6a70a142eb01ecaea
+PANTS                SURPAT Pants                                               30821     df5e23e8e71143978deca7c7ea05e6c4
+VEST                 SURPAT Tactial Rig                                         30822     c9156965ad864b29aa16f51da1ae6c7e
+VEST                 SURPAT Ballistic Plate Carrier L-III                       30823     0a14289884ff4e55b04bacd492b9daf4
+HAT                  SURPAT Flex Cap                                            30824     19531b378ee94857b87472b81226c0e7
+(1 IDs skipped)
+HAT                  Urban Ballistic Helmet                                     30826     1841e1db325f4b0e95df8c13a41a91cb
+(13 IDs skipped)
+SHIRT                Flecktarn Jacket                                           30840     fc4a2a49f335489a84e294ca03031a82
+PANTS                Flecktarn Pants                                            30841     31ed5cd8918e4693bc7431483b130e05
+VEST                 Flecktarn Tactial Rig                                      30842     2499cebdfc6646c59103a48f06c4838a
+VEST                 Flecktarn Ballistic Plate Carrier L-III                    30843     8054f85c70ac428699153ef5395d074d
+HAT                  Flecktarn Flex Cap                                         30844     b71473d6e2b44b62aa5aa0911a19c2b0
+HAT                  Flecktarn Ballistic Helmet                                 30845     835dc9e72f46431a9bed591bcbbfb081
+HAT                  Flecktarn Ballistic Helmet                                 30846     2813e9e1f9f5430482313cbd09c338a4
+(2 IDs skipped)
+BACKPACK             Flecktarn MOLLE Pack                                       30849     b07cb55b781f453ba1c09edfefa36d09
+BACKPACK             Flecktarn Camo Rugged Pack                                 30850     9addb6f54920495cb4826cb5c000ed4b
+BACKPACK             Flecktarn Camo Dufflebag                                   30851     006e53351ee74ebc8a228423ae26adf2
+(8 IDs skipped)
+SHIRT                Pantera Jacket                                             30860     71d35bb681f34b7196bb0e6685106ec4
+PANTS                Pantera Pants                                              30861     bf302a8dda994fc08897ed372d8c8cd7
+VEST                 Pantera Tactial Rig                                        30862     44bc4c4333564c61a2e86bd4c2809203
+VEST                 Pantera Ballistic Plate Carrier L-III                      30863     18a50a13426d4bc6895b7095e1dc4884
+HAT                  Pantera Flex Cap                                           30864     2d969172b039473ab1bdbc7f5b962cf5
+HAT                  Pantera Ballistic Helmet                                   30865     ece14052a9d64994a3ef2ab1dc27a073
+(4 IDs skipped)
+BACKPACK             Pantera Camo Rugged Pack                                   30870     90f7aa3817834edd82c6458fffbc2780
+(9 IDs skipped)
+SHIRT                Legionnaire Jacket                                         30880     e301b323c52d4feba57fe31e8dea2bca
+PANTS                Legionnaire Pants                                          30881     af4625a9a5e04aa8b9105e08c869998f
+VEST                 Legionnaire Tactial Rig                                    30882     5ead83aa50984bc085e1dcf34afc606c
+VEST                 Legionnaire Ballistic Plate Carrier L-III                  30883     7a0997d76e8f4c15a28a3926712c76b2
+HAT                  Legionnaire Flex Cap                                       30884     daf06b1d894f49e8a8352c9a9a0c1125
+HAT                  Legionnaire Ballistic Helmet                               30885     b53b694277184045a01ce82c55f81029
+HAT                  Legionnaire Ballistic Helmet                               30886     394adeb51d584e32960a4a58300cb1d9
+(2 IDs skipped)
+BACKPACK             Legionnaire MOLLE Pack                                     30889     a5d911ba6c464f89a9913cf198316c53
+(10 IDs skipped)
+SHIRT                CADPAT Jacket                                              30900     ae976b9a82ba48a488ae71e4ca3cee55
+PANTS                CADPAT Pants                                               30901     573275f5925c452c96805e9fc5e52d37
+VEST                 CADPAT Tactial Rig                                         30902     4626fb373ab648d0b2a67d3fe58017cc
+VEST                 CADPAT Ballistic Plate Carrier L-III                       30903     06de9e65b58e440288becea0695e0692
+HAT                  CADPAT Flex Cap                                            30904     2c02f688654948fdb58b7b303a9a4fc0
+HAT                  CADPAT Ballistic Helmet                                    30905     6e25bcbc24f047698a26d1da3831068f
+HAT                  CADPAT Ballistic Helmet                                    30906     365054b2139e4b119209d809dcb5cfb6
+(2 IDs skipped)
+BACKPACK             CADPAT MOLLE Pack                                          30909     efb51b45aca34676a5d45ce8f28b7ed7
+BACKPACK             CADPAT Camo Rugged Pack                                    30910     f5e8c11df7d64812988d3c7335f931bb
+BACKPACK             CADPAT Camo Dufflebag                                      30911     f8554a2a550b4e26a9a96ad647f4facd
+(8 IDs skipped)
+SHIRT                Olive Jacket                                               30920     77dc77768d8f4d6b921bbe9a876432d0
+PANTS                Olive Pants                                                30921     bc16600f78d248c7b108c912ee6a759f
+VEST                 Olive Tactial Rig                                          30922     5fbd2fdc5b454606993afff708244e20
+VEST                 Olive Ballistic Plate Carrier L-III                        30923     cc160021ea434a028eb4799859d12278
+HAT                  Olive Flex Cap                                             30924     4efb293de1e04ff4b12b500f02aa9dfd
+HAT                  Olive Ballistic Helmet                                     30925     6fa1828a5db147bca1c598e5b41fa319
+(4 IDs skipped)
+BACKPACK             Olive Camo Rugged Pack                                     30930     67e14c9892b4459bb0d5b7f394f7f91d
+(9 IDs skipped)
+SHIRT                Multicam Jacket                                            30940     1d8c612e186b4f1588099c663d9d7a44
+PANTS                Multicam Pants                                             30941     1a1c1a0065f64543b069e3784f58d5a7
+VEST                 Multicam Tactial Rig                                       30942     5a7753b4801948c6b875d6589a2c4398
+VEST                 Multicam Ballistic Plate Carrier L-III                     30943     35ea565ae6cd472baac8643b6285b61c
+HAT                  Multicam Flex Cap                                          30944     b26491c7869a47059f2406b45d327e49
+(1 IDs skipped)
+HAT                  Multicam Ballistic Helmet                                  30946     3b5515fb78f74b34bc67e52feb549e91
+HAT                  Multicam Ballistic Helmet                                  30947     b5aa25b5fc9d40eb9a0f639209d08855
+HAT                  Multicam Medic Helmet                                      30948     c73147f37cea4ca89bc0d62288fd986e
+BACKPACK             Multicam MOLLE Pack                                        30949     7971e03a140149f5bbad7d1c51bc7731
+BACKPACK             Multicam Camo Rugged Pack                                  30950     
+BACKPACK             Multicam Camo Dufflebag                                    30951     96a7b8b901d74697b39ce41260ebc1c7
+(8 IDs skipped)
+SHIRT                Kalahari Jacket                                            30960     760f1e854d904bcf902b42c22015aa2a
+PANTS                Kalahari Pants                                             30961     b1ca137776964c1f9bb2cd4f19b4d7b5
+VEST                 Kalahari Tactial Rig                                       30962     060cc097e5a642ff85bedaca7a46c188
+VEST                 Kalahari Ballistic Plate Carrier L-III                     30963     412d79398a4e49519cc589ed85d751f8
+HAT                  Kalahari Flex Cap                                          30964     c8ba6f5b90ca4fb69f5013b857159f87
+HAT                  Kalahari Ballistic Helmet                                  30965     1fb9ad79c8d14168bdbcdcb33ed50064
+HAT                  UN Ballistic Helmet                                        30966     3ca10cc73d9f4240b6bf519d1f117241
+(3 IDs skipped)
+BACKPACK             Kalahari Camo Rugged Pack                                  30970     0cd247d2c01643e49945ab37b16a6a0a
+(9 IDs skipped)
+SHIRT                Chocolate Jacket                                           30980     16d972440c704ad284155369cd5f1e13
+PANTS                Chocolate Pants                                            30981     3c0e787a6f034545800023ac3aa589e4
+VEST                 Chocolate Tactial Rig                                      30982     b9b61f2d8b1d472d8430991e08e9450e
+VEST                 Chocolate Ballistic Plate Carrier L-III                    30983     ff109681ff93457b84cdafb815ae7b79
+HAT                  Chocolate Ballistic Helmet                                 30984     f10b4420b7c74fa49e09c69ec27709f6
+HAT                  Chocolate Ballistic Helmet                                 30985     0de443ddb14e4ba099710078400a9783
+HAT                  Chocolate Ballistic Helmet                                 30986     5ce50e8846fc4f92b04f134f16cd76d8
+HAT                  Chocolate Ballistic Helmet                                 30987     cc826bcf8d224298815fa872cfe62f75
+HAT                  Chocolate Medic Ballistic Helmet                           30988     508bb1a5a3654fae88f8f87705386471
+HAT                  Chocolate Flex Cap                                         30989     55507c0c5f7e4e15abb4bd8380962df1
+HAT                  Black Beret                                                30990     d1ae2305f9f74b33b0a28ea98a99fcce
+BACKPACK             Chocolate Assault Pack                                     30991     2f077bfd25074bad9d8e24d5af29fab4
+BACKPACK             Chocolate Camo Rugged Pack                                 30992     aee6a50b0d134ec4a2866f44a9769d50
+(110 IDs skipped)
+VEST                 Khaki Tactial Rig                                          31103     9040a19be6ff4b08aa270a37dfd4f421
+(13 IDs skipped)
+HAT                  Multicam Ballistic Helmet                                  31117     9b14747d30c94b168898b14b3b03cbdd
+(5 IDs skipped)
+VEST                 Green Tactial Rig                                          31123     8bcb7b352fe841d88cf421f2d7aa760e
+(1 IDs skipped)
+SHIRT                Clover Fatigues Jacket                                     31125     8263185c06664c30a9b7a69bae4ffbf0
+PANTS                Clover Fatigues Pants                                      31126     ee3a9f07211d4291b5ae005a10ccd147
+HAT                  Clover Ballistic Helmet                                    31127     470f58998ea24200a165741b1311d049
+HAT                  Red Beret                                                  31128     32b273224e39400eb99be470c29f651a
+(22 IDs skipped)
+BACKPACK             Black Rugged Pack                                          31151     68170172cf2a4dff8ecbd83964a0c13f
+BACKPACK             Brown Rugged Pack                                          31152     8421b813dc2a4345bf0e96c4b8773661
+(1 IDs skipped)
+BACKPACK             Desert Rugged Pack                                         31154     ef13f4ebe7284a66925bea333ed82489
+(1 IDs skipped)
+BACKPACK             Green Rugged Pack                                          31156     21f6dd73c756470d9be43aaf694a3632
+(1 IDs skipped)
+BACKPACK             Tan Camo Rugged Pack                                       31158     118c5783814847e7bfe6eac1caa11568
+(2 IDs skipped)
+BACKPACK             Large Rucksack                                             31161     cb3c333eadc64b3d9d0a6d8699805862
+(1 IDs skipped)
+BACKPACK             Black Dufflebag                                            31163     e6ac27f970f1459885d16cb3372b51e3
+BACKPACK             Brown Dufflebag                                            31164     48c52a812d174a58819757234dd4264e
+(2 IDs skipped)
+BACKPACK             Green Dufflebag                                            31167     5288b670fc2449cfae945ba7692df45f
+(3 IDs skipped)
+BACKPACK             Black Stowpack                                             31171     a934c1e6f1b9446286af28fa4f9a7bbb
+BACKPACK             Blue Stowpack                                              31172     5e5abffd135741e3b2f733b8e90f80da
+BACKPACK             Green Stowpack                                             31173     dc157420d3294c58b358d8d764d2d1a3
+BACKPACK             Orange Stowpack                                            31174     6226e865663a44b2ac84b57d990de65c
+BACKPACK             Purple Stowpack                                            31175     e6c12695dff44f54b39eea2395db1e1c
+BACKPACK             Red Stowpack                                               31176     2ba3108e533f418e94f0d895d2968315
+BACKPACK             White Stowpack                                             31177     174b09d4844c450a9a504399af8adaac
+BACKPACK             Yellow Stowpack                                            31178     483751fae0b0445f84bed5e59c4e02be
+(1 IDs skipped)
+VEST                 Khaki Bullet-Proof Vest L-III                              31180     9e2ef658ffc84546a1621499aa773e39
+VEST                 Black Bullet-Proof Vest L-III                              31181     61b5e3823ab049c5957f3281fd1e7af0
+(1 IDs skipped)
+VEST                 Green Bullet-Proof Vest L-III                              31183     53739b5b9ca2415b92471493a7b8e281
+(1 IDs skipped)
+VEST                 Police Bullet-Proof Vest L-II                              31185     5991fe2c4e864f61876f88ab68675ab9
+(4 IDs skipped)
+HAT                  Red Headband                                               31190     9da7219b193d4c8b90e3eb74d951f73e
+HAT                  Blue Headband                                              31191     410dd86f0a774ea2ab112a43c01ab396
+HAT                  Brown Headband                                             31192     159410f932df48cd8e2f3538ac084200
+HAT                  Black Headband                                             31193     3545af1876e34456a6175eb2877a2e94
+HAT                  Green Headband                                             31194     96a175c3ecaf4056a1f8c8330ff2cf51
+HAT                  Orange Headband                                            31195     ee3936b656014b13ad61cdc5649ae16f
+(4 IDs skipped)
+HAT                  Black Durag                                                31200     a562af9785e04133bbc604c5d06cf61b
+HAT                  Red Durag                                                  31201     ff2815f646dc44ee94b4ca23a2a50cfb
+HAT                  Purple Durag                                               31202     81175840f0904626abe3fce326cdc26d
+HAT                  Tan Durag                                                  31203     dc523781e438481e8b89ecdddccb58ff
+HAT                  Brown Durag                                                31204     619c8e91f175468bb31f0dc153b76991
+HAT                  Khaki Durag                                                31205     99ab897d983c4892bdb1ad52a1286d0f
+(4 IDs skipped)
+HAT                  Purple Head Bandana                                        31210     5cbf256dc336417e82e669c65d864e6d
+(9 IDs skipped)
+MASK                 Brown Bandana                                              31220     60d1fa4ade504c819b42801c5003a50b
+MASK                 Black Bandana                                              31221     475b8c3e39df4280957a08073cec2562
+MASK                 Tan Bandana                                                31222     dca0fc67ca7a41caa967fd11ea8ac7df
+MASK                 Khaki Bandana                                              31223     3a7ff1898393450187e970abfc3efbf1
+MASK                 Purple Bandana                                             31224     9ff609199e464d3c86502c06f3cf1964
+MASK                 Red Bandana                                                31225     7c5720a13b934abea7ae1abee5841013
+(4 IDs skipped)
+HAT                  Clover Flex Cap                                            31230     97c0907e367e4833b394dbd2a24a4ec8
+(4 IDs skipped)
+HAT                  Black Flex Cap                                             31235     90796ccbccd44f09802aedc93b8267a2
+HAT                  Red Flex Cap                                               31236     61b94a03cc1c4e17be5cf775e525b1fd
+HAT                  Blue Flex Cap                                              31237     e589f1d00f2942a39a01a6fd9413b396
+HAT                  Brown Flex Cap                                             31238     687a92af78d649dcb5be0b73fffbae42
+HAT                  Purple Flex Cap                                            31239     0ef8ed3d728e4cccb1c22ca474ff331f
+HAT                  Tan Flex Cap                                               31240     1ee748a1631a4619abde8c98ec6c7f4d
+HAT                  Khaki Flex Cap                                             31241     94d03e64a5584c4f943018209c4c2568
+(7 IDs skipped)
+HAT                  Yankee with no brim                                        31249     951116d54416442e92ce39cb9350a025
+MASK                 Surgical Mask                                              31250     edf0f0d726244046a0047b6f77268578
+GLASSES              Plastic Sunglasses                                         31251     588933b9da0043d6896d3f6d3f2105b4
+GLASSES              Aviators                                                   31252     1c6f7ab65d404497949a1f60aa3fc46f
+HAT                  Altyn Helmet                                               31253     b40b402c2ff84ac9b55e4deeccaa53dc
+VEST                 Assault Bullet-Proof Vest L-IV                             31254     9bd148a39e524ece8f5820935da094e9
+(5 IDs skipped)
+HAT                  Crewman Helmet                                             31260     3ee3c7292ce340489b9afacda209e138
+HAT                  Pilot Helmet                                               31261     78656047d47a4ff1ad7aa8a2e4d070a0
+(38 IDs skipped)
+GUN                  AKM                                                        31300     3099f9fe1e9f448e996116f3ff8b03fa
+GUN                  AKMS                                                       31301     f657f18885c14b08baaf13b633fec508
+GUN                  AK-74                                                      31302     e3858fa5eac5423f80218dca2fcf0386
+MAGAZINE             5.45x39mm Magazine                                         31303     c103a5230c3d434abd7b93a530dc3b87
+GUN                  G36C                                                       31304     0cdc5fb5657f47d189ef9e4dc2c67990
+GUN                  AWM                                                        31305     3b43187a2ef1457193494329781360bf
+MAGAZINE             5rnd .338 Lapua Magazine                                   31306     31c22162ff56487684792da4fcab242b
+GUN                  AKS-74U                                                    31307     47dc44144d9f4826b18fc359ed2457da
+GUN                  M4A1                                                       31308     bbba052df7ad45469aa50920b0a1d003
+GUN                  Scorpion EVO 3 A1                                          31309     cb32957ca1f1464a8ac0b8dd085190e6
+(1 IDs skipped)
+GUN                  HK417                                                      31311     3c7f13c0424745709081e37399b120fc
+MAGAZINE             20rnd 7.62x51mm NATO Magazine                              31312     432e19bc1b8d4d749b074e20c708cdee
+MAGAZINE             10rnd 7.62x51mm NATO Magazine                              31313     90ae837e6d804f168412539e929873a9
+GUN                  M1A SOCOM                                                  31314     176cec2baddf40dfad27ccfbb4ae82f8
+GUN                  UMP 45                                                     31315     af9d5f6761c242f083b7b1bfb6e0627d
+MAGAZINE             25rnd .45 ACP Magazine                                     31316     10643698f76a4b50a699cdf43693ff71
+GUN                  Remington 870                                              31317     6f141f16eb8f4845ba0d21f856f58a73
+GUN                  R700                                                       31318     5ded5febfdfc4e0a9f0fd1c98dac1ad0
+MAGAZINE             .308 Rounds                                                31319     faa1bbf758454c26a6fe2c66c4c6a684
+GUN                  Vityaz-SN                                                  31320     ab9713258dc34af3906fcf7f9819f0d8
+(1 IDs skipped)
+GUN                  FN FAL                                                     31322     aee713e74a4e465e97ffbf232f89fdc5
+GUN                  MP5K                                                       31323     2ebb42e46d2349399fd26c7bf34856b6
+MAGAZINE             MP5 Magazine                                               31324     aeb1d1219c24493cbfe2b197af4a6056
+(1 IDs skipped)
+GUN                  P226                                                       31326     accd00a2d2eb4a0683f8f99d02ed9c83
+MAGAZINE             15rnd 9x19mm Magazine                                      31327     7395802689f34114b0f451b68318cd02
+GUN                  Mossberg M590A1                                            31328     364ef99af0a242fc83c32b23eeea9a1d
+GUN                  Skorpion vz. 61                                            31329     65314a943e8d481888e8d40b19575129
+MAGAZINE             Skorpion Magazine                                          31330     c91b65db08d946d6b612e1dce111ce55
+GUN                  SG552 Commando                                             31331     ecdaabba3d814c5aa8155a7064ce5e74
+GUN                  P90                                                        31332     df29380f478a47e4abb53ea82bfcbf77
+MAGAZINE             P90 Magazine                                               31333     db9a87ca10f1429a9cbdca1a00a0fea3
+GUN                  AUG A3                                                     31334     35befef74e634190860a91866e7597b2
+GUN                  Glock 21                                                   31335     f5313493de6d4de780c6a824dfb32ec2
+MAGAZINE             12rnd .45 ACP Magazine                                     31336     79705b361add4f678b0143fca07d3d95
+GUN                  S&W .357                                                   31337     ae47075e0a7a4d298ba35a4b56ed82c8
+(1 IDs skipped)
+GUN                  SCAR-L STD                                                 31339     21d9abe142ee4793887a0a9af3bb2faf
+GUN                  SCAR-L STD                                                 31340     d9b900ec96fe46aeaee7fdb317f41200
+(1 IDs skipped)
+SUPPLY               5.56x45mm NATO Rounds                                      31342     bbf682c245e24598a87e23381ab669ea
+MAGAZINE             30rnd STANAG                                               31343     0a9da71ee8d044df960442be63c45d76
+SUPPLY               Box of 5.56x45mm NATO Rounds                               31344     cfa3ba61cc32491f959aa283ac029424
+SUPPLY               7.62x39mm Rounds                                           31345     86a84fcff43041dd873dc29735cf5e2e
+MAGAZINE             7.62x39mm AK Magazine                                      31346     5acf9dfe9a1a43619184484445e99c7c
+SUPPLY               Box of 7.62x39mm Rounds                                    31347     3aa2a3ae085e491fb72631d31ae66b88
+SUPPLY               5.45x39mm Rounds                                           31348     cd45962ea80e4cb89cea29b7b0bca435
+SUPPLY               Box of 5.45x39mm Rounds                                    31349     bfc9cc00017743938feaa45bb2265fe8
+SUPPLY               7.62x51mm NATO Rounds                                      31350     cf331ab2d7214bcda8a023606ace050c
+SUPPLY               Box of 7.62x51mm NATO Rounds                               31351     f39ffcc257954c469c3b36805eacc61b
+MAGAZINE             .338 Lapua Magnum Rounds                                   31352     4c8d3340a3bd422c93b3331d934862ff
+SUPPLY               9x19mm Rounds                                              31353     ce6c24e62d8345019d0d1dc7bf653bcd
+SUPPLY               Box of 9x19mm Rounds                                       31354     cbffe3e7998d49e494efd9425032c0b8
+SUPPLY               .45 ACP Rounds                                             31355     43f259bb911d4b71b0cc925dfef7112e
+SUPPLY               Box of .45 ACP Rounds                                      31356     ce06922c5dfb490bb7e53469b9eff1a2
+MAGAZINE             .357 Magnum Rounds                                         31357     ce55d1b82a9842ebb51811bd29775abc
+SUPPLY               Box of .357 Magnum Rounds                                  31358     22652f8e83fc4b0c8fb8495b47d1756a
+SUPPLY               5.7x28mm Rounds                                            31359     9be43059cc2a4ce89f508be9bff77d05
+SUPPLY               Box of 5.7x28mm Rounds                                     31360     077fab1b5ad2453f975d6c2a4bf7c37e
+MAGAZINE             12ga 00 Buckshot                                           31361     6089c30d75b247259673d9cdaa513cbb
+MAGAZINE             12ga Rifled Slugs                                          31362     d053c04af59b4985b463d160a92af331
+MAGAZINE             12ga Birdshot                                              31363     728c98c9697b413cac5371a40757a5e1
+SUPPLY               Box of 12ga 00 Buckshot                                    31364     5b1a441053a142019046800e712564f6
+SUPPLY               Box of 12ga Rifled Slugs                                   31365     cc90f7282325464cb9f8815a0e9a4f8f
+SUPPLY               Box of 12ga Birdshot                                       31366     65389d352515457baf5b5dafae102437
+MAGAZINE             7.62x54mmR Rounds                                          31367     b2df317beb96421393cf59eced3f51cd
+(2 IDs skipped)
+GUN                  G3A3                                                       31370     d3b5e43326b24ae38ea901eae6d37de8
+GUN                  Saiga-12K                                                  31371     bf86e8bb0b254c148b4b3305465876bd
+MAGAZINE             Saiga-12K Magazine (00 Buckshot)                           31372     85980931dd8a4fa0bd5f7a3d93c9f37f
+MAGAZINE             Saiga-12K Magazine (Slugs)                                 31373     829d7df92972400abd652839f7e06e44
+MAGAZINE             Saiga-12K Magazine (Birdshot)                              31374     99399886aabc4fd0a3acbeb726bed5f0
+GUN                  SV-98                                                      31375     3277a66bcf8b46c1b22bb4f41d2af18b
+MAGAZINE             SV-98 Magazine                                             31376     89e53215da92443e8de1fb11f5f7a5b8
+GUN                  MP7A2                                                      31377     5f1a7fda82114c82a3f94444a4bcf3bf
+MAGAZINE             MP7 Magazine                                               31378     9ee6dfb9b1254a69b07a0f362b8aa950
+SUPPLY               4.6x30mm Rounds                                            31379     12366fcf1d0f4a47ba6dd243f2cf96e5
+SUPPLY               Box of 4.6x30mm Rounds                                     31380     6ea380a3acbe4420b6c49be2a3a9168a
+GUN                  X95 Micro                                                  31381     3ef34bf124cb41c7960150327a563983
+GUN                  CheyTac M200                                               31382     99ef872bc54f436eae5f7a31076bf854
+MAGAZINE             M200 Magazine                                              31383     3d040135d7ff426b9cb4ea0d0dbaa375
+SUPPLY               .408 Cheyenne Tactical Rounds                              31384     b536e8de0dbf43b88c95148e003cbc72
+GUN                  PKM                                                        31385     00e4b6a1947b44f2ad606ede8ad6039b
+MAGAZINE             PKM Box                                                    31386     bdb7b3f200fe4a03a5951f3eed6388b4
+GUN                  Vector .45                                                 31387     71b5e1bb346b4d2dbee967140d200122
+(1 IDs skipped)
+SIGHT                Holographic Sight                                          31389     ed88f61fb5ee452782a45981ab16b6eb
+GUN                  MPX                                                        31390     67a9a831c6b2401080380d8bafc1bfd8
+MAGAZINE             30rnd 9x19mm Magazine                                      31391     aaadfb9ad564476684bd063b666ccc26
+GUN                  MCX                                                        31392     fa1c2a389f944cc09b86723793f37893
+(1 IDs skipped)
+BARREL               9mm Suppressor                                             31394     f3bc299d16c7411ca1d51db84d66ae1d
+BARREL               .45 Suppressor                                             31395     d5bd27237dab4b3b8231bf12a8c50bd5
+BARREL               5.56mm Suppressor                                          31396     f1651608505b4938b2e4025959c2e71e
+BARREL               5.45mm AK Suppressor                                       31397     0f294c44bd184e3499069856bc3fa6da
+BARREL               7.62mm AK Suppressor                                       31398     af1683e2e680415dace1898bc7d3b2a2
+BARREL               7.62mm NATO Suppressor                                     31399     7ba9b463deb04c8c90a44c2947021b0b
+BARREL               7.62mmR Suppressor                                         31400     786186b02f414187bad49aaccb456e72
+BARREL               5.7mm Suppressor                                           31401     3d04a44ad5e24f73bc10e3c8c2c48bb1
+BARREL               4.6mm Suppressor                                           31402     e60f3dce22e3412cb4a12c716f6d1666
+(7 IDs skipped)
+GUN                  SVD                                                        31410     344ceeb663c54dfd805b611d1251db52
+MAGAZINE             10rnd 7.62x54mmR Magazine                                  31411     99615b702fec4aed93b16ecfd4f4b1d1
+GUN                  AK-74M                                                     31412     01490240cf144110b19fdeea8e15efd9
+MAGAZINE             5.45x39mm Magazine                                         31413     684c18339ae84348a90cea421f10486f
+GUN                  M16A4                                                      31414     a0089dc0d04e4232a3d23e9d9911e814
+GUN                  C7A2                                                       31415     8068954b06ed40b19a684b580a4d43d3
+GUN                  Mk 17                                                      31416     c53866f9670f4b0e910b763d37d736cc
+GUN                  AS Val                                                     31417     c4d3e9a959be41b0b5f02c5a27e543e1
+MAGAZINE             20rnd 9x39mm Magazine                                      31418     1b9347af94f34e05816aa4c36c0578a6
+SUPPLY               9x39mm Subsonic Rounds                                     31419     4ccc4c8841bf47159bf6dc630e9b7f8f
+SUPPLY               Box of 9x39mm Subsonic Rounds                              31420     d683409d218f44eababb080b59b0acb2
+BARREL               AS Val Suppressor                                          31421     bddc58b1a9254c6b937cffb086e31b2a
+GUN                  PM md. 63                                                  31422     d6c2dde610a34ffd9857b578c4233c34
+GUN                  M1014                                                      31423     8c691bac4f014c8cbbc12d3b03567d92
+GUN                  M110                                                       31424     d401727cd6b846acacf1acc21c411c5d
+GUN                  AK-12                                                      31425     85614386d9014f9896602343cbf2cdd2
+GUN                  682                                                        31426     11dea3472f6d4f32bcbd650b0715f5eb
+MAGAZINE             12ga 00 Buckshot                                           31427     768781cc5e90427c9f30eb858a5d2203
+MAGAZINE             12ga Rifled Slugs                                          31428     96555af8dc8f4c75a51b91b008ff05b4
+MAGAZINE             12ga Birdshot                                              31429     a2d85ea6d20943e29683de1d5bf3bba8
+GUN                  M70 New Haven                                              31430     c6fbf1f7bb56481cba74cb942a0456fa
+GUN                  USP 45                                                     31431     229e8b0ef1a04d5b87fd208906ef3ee2
+GUN                  M1911                                                      31432     065e84c5ee9c4a4b8c2b2e9332a77ad9
+MAGAZINE             7rnd .45 ACP Magazine                                      31433     f2f10126a19b4b4384b779b12ba4b0af
+GUN                  P250                                                       31434     1069d0d9ba7e451a8967bcc33a25527e
+MAGAZINE             P250 Magazine                                              31435     b0ed50288fd04fc1b3d0155cb60f7186
+GUN                  Glock 19                                                   31436     c895aa0a642e47dbaf5cf38d89c8b421
+GUN                  Makarov                                                    31437     b3a8e771cf1a4f2d82ccdd25e318f394
+MAGAZINE             8rnd 9x19mm Magazine                                       31438     90941aec27a84213a9b72aafb0c984da
+GUN                  AKS-74                                                     31439     7d1277bcba06460ab0a21d30bca81377
+GUN                  MP5A3                                                      31440     02405227a26c4fc5920ab27b5099a07a
+GUN                  Draco Pistol                                               31441     d94a3a2008f547aeb9405d5aae8c342c
+MAGAZINE             40rnd 7.62x39mm AK Magazine                                31442     bdceb4ed744846399f55263a2e263000
+MAGAZINE             80rnd 7.62x39mm AK Magazine                                31443     9441f668181041469269abcfe72e327f
+MAGAZINE             150rnd 7.62x39mm AK Magazine                               31444     3543cf72c0784bbb802e05c6b20c74a5
+GUN                  Mx4 Storm                                                  31445     202465340fae46268b30c52d2f4d150f
+MAGAZINE             40rnd STANAG                                               31446     5d5ac419b46d4bbba7df5ad96b3a0cc5
+MAGAZINE             20rnd STANAG                                               31447     5e4f4c19b170409d9b98b99e9cc42ecc
+GUN                  PP-91 KEDR                                                 31448     a1487b3b2f724403b848975c0bc5b3f7
+MAGAZINE             KEDR Magazine                                              31449     8dea3c634a7d489fb60cedc82819ce43
+GUN                  VSS Vintorez                                               31450     12359a610e4c47f6ae986a274ca744ff
+MAGAZINE             10rnd 9x39mm Magazine                                      31451     d226a560ebff44ed9218a7b7d01e4882
+GUN                  C-14 Timberwolf                                            31452     caeef6ae008f4ae5a2e8f4a7f328b8eb
+GUN                  Mini-14                                                    31453     e866e92feb4b4aeb85b1f148a2b4b9b0
+GUN                  Glock 18C                                                  31454     247aca2bdca94f178183d98defa58ad9
+MAGAZINE             33rnd Glock Magazine                                       31455     12037fe3e9f84835bc725d85b246bd20
+GUN                  Five-Seven                                                 31456     09aa31634c3846128b3a30911452f052
+MAGAZINE             Five-Seven Magazine                                        31457     9cac2e0d2d9e4f8586227465b9ffc0b1
+(1 IDs skipped)
+GUN                  SKS                                                        31459     bb49f2cfdbdb4a738d8699c5f1cbf016
+MAGAZINE             10rnd 7.62x39mm Magazine                                   31460     b5e2250469634555baee575d6dd9bbe1
+(1 IDs skipped)
+SIGHT                PSO-1 Scope                                                31462     f451d12e30094048a8ac00f14dc89eb5
+SIGHT                Hunting Scope                                              31463     d7923fda13ca42babfe44f6ce1fa90d6
+SIGHT                ACOG                                                       31464     61e227f1cec742858fd330f7e93dbb0a
+GUN                  Mosin Nagant M1891                                         31465     1db7463764624a9aa6541d868e409ece
+SIGHT                PU Scope                                                   31466     ebfb559db4cb4e1e942f324d129f6489
+GUN                  Model 1892                                                 31467     59c18de87c4d43608f477f70aa85a56a
+GUN                  AR-15                                                      31468     6d5060aeac5e4aa99376cd9a80091024
+SIGHT                M68 Reflex                                                 31469     363277adaad345bf869b1fb1498791ae
+GRIP                 Vertical Grip                                              31470     165b6a8c894c49528c3956cf55aeee8d
+SIGHT                Red Dot Reflex                                             31471     2250d75bb331472d8666b8912f80857e
+SIGHT                Kobra Reflex                                               31472     67417a3bf0124445bfee0b2b774191c6
+TACTICAL             Red Laser                                                  31473     5b1d1c8f9e184b45b4ed49d9ec54b047
+MAGAZINE             .223 Rounds                                                31474     2f4dcc8d3c3340829909d4abfbd293c2
+THROWABLE            Frag Grenade                                               31475     b01e414db03747509e87ebc515744216
+TRAP                 Frag Grenade Trap                                          31476     784bb6878b654d20a6ba48184c997b2f
+THROWABLE            White Smoke Grenade                                        31477     7bf622df8cfe4d8c8b740fae3e95b957
+THROWABLE            Green Smoke Grenade                                        31478     7bdd473ac66d43e4b5146c3c74020680
+THROWABLE            Red Smoke Grenade                                          31479     c9fadfc1008e477ebb9aeaaf0ad9afb9
+THROWABLE            Violet Smoke Grenade                                       31480     1344161ee08e4297b64b4dc068c5935e
+THROWABLE            Yellow Smoke Grenade                                       31481     18713c6d9b8f4980bdee830ca9d667ef
+SUPPLY               Mortar Shell                                               31482     4f520459dbe342eeb82630511f49250b
+(3 IDs skipped)
+GUN                  Uzi                                                        31486     017708a3d61748e78efc6a1946c29ae0
+GUN                  M9A1                                                       31487     85e44ca2aa6c4d94935f3f1b1abd6db7
+GUN                  M93R                                                       31488     7a9d87af584a40fb8d52a8ebb2c227a7
+MAGAZINE             17rnd 9x19mm Magazine                                      31489     3faec6be52dd4268b36cf42ebb7e1e62
+GUN                  Sawed Off 682                                              31490     dcacfb2a93c1442b9cf202c2b103ebaf
+GUN                  AMD-65                                                     31491     c1b7946ca8e04b47ab35487acb55f38c
+GUN                  .357 Snubnose                                              31492     911695ceb7c744f79b6da34e95fbacc0
+GUN                  AR-9                                                       31493     c4a261c8372d43a789afa2e46a0dd1ca
+MAGAZINE             32rnd 9x19mm Magazine                                      31494     7727a317f5d7474e84a111701d424724
+GUN                  AUG A3 9mm                                                 31495     7744fe2e0cdf4bb0bdb262860c17228d
+GUN                  HK416                                                      31496     b55175e0ccbd4b6ab97627f645c572b2
+GUN                  MP5SD                                                      31497     c81ffa25054d4925be101f5c41601a2f
+BARREL               MP5SD Suppressor                                           31498     dac0f137580d4d51a7668f72bffac189
+GUN                  MAC-10                                                     31499     633a3b46d04d4c35bd50b61478756344
+SIGHT                AK Rear Sights                                             31500     af18242725654a6fad0fe46f4dffe39f
+(3 IDs skipped)
+SIGHT                G36C Iron Sights                                           31504     fd46342aba4c4d1d846e4a7ad2d31b6b
+(2 IDs skipped)
+SIGHT                AKS-74U Rear Sights                                        31507     c974b9fa77734ca19bdf90ec7700f1ff
+SIGHT                M16 Carrier Handle                                         31508     f24f489500df48179204ab793fd7ce3c
+SIGHT                Scorpion EVO Rear Sight                                    31509     7aa41fb93cc0459889ac538141308108
+(1 IDs skipped)
+SIGHT                HK417 Iron Sights                                          31511     f175c35afaf44965bf7f533209102609
+(2 IDs skipped)
+SIGHT                M1A SOCOM Rear Sights                                      31514     fdb25861b96d434bae7b97420f0d7be5
+SIGHT                UMP 45 Rear Sight                                          31515     3ea0b95faec24106b5bc4b41993c18ff
+(4 IDs skipped)
+SIGHT                Vityaz Rear Sights                                         31520     1df5647878c24e0d9fd06e4c9061ad93
+(1 IDs skipped)
+SIGHT                FN FAL Rear Sights                                         31522     8fb7a15d553345dda37a9f12b802df31
+SIGHT                MP5 Rear Sights                                            31523     eb0484000324478ca0643e031f1ab97d
+(7 IDs skipped)
+SIGHT                SG552 Rear Sights                                          31531     d69b16eedfc54321b930362d3f3bedf6
+SIGHT                P90 Iron Sights                                            31532     3824554c89164c64b43c4088921ba2fe
+(1 IDs skipped)
+SIGHT                AUG A3 Iron Sights                                         31534     3079ee74fb4e440d9a02cdc1aad12a09
+(4 IDs skipped)
+SIGHT                SCAR Tan Iron Sights                                       31539     d3200963d7054cdfa20e14f9982f9c01
+SIGHT                SCAR Black Iron Sights                                     31540     0b9d573c53c74c90b220cdb41a0ccc2f
+(29 IDs skipped)
+SIGHT                G3A3 Rear Sights                                           31570     a0735206e8734d5a9645d95bb50cd682
+SIGHT                Saiga12-K Iron Sights                                      31571     05e5a4fa08174fe0ab4bba413dac4b4d
+(5 IDs skipped)
+SIGHT                MP7 Iron Sights                                            31577     8150b63f718542e09308849e609c781e
+(3 IDs skipped)
+SIGHT                X95 Iron Sights                                            31581     c788cad973344cf2960a8f2db57a76df
+(3 IDs skipped)
+SIGHT                PKM Rear Sights                                            31585     fab4951dfc05437e9151395e8d7ab88e
+(1 IDs skipped)
+SIGHT                Vector 45 Iron Sights                                      31587     30d19f5c491347ec80f07b499abcf00e
+(2 IDs skipped)
+SIGHT                MPX Iron Sights                                            31590     fe4b28bc94ee4f67afbfcc6e2ffe3d49
+(1 IDs skipped)
+SIGHT                MCX Iron Sights                                            31592     1aed57403670408b81bd62ae32346b85
+(117 IDs skipped)
+SIGHT                SVD Rear Sights                                            31710     a0c883c16fb44f189d79739667acb748
+(1 IDs skipped)
+SIGHT                AK-74M Rear Sights                                         31712     cdb6e4a582e64b369226853a759356ca
+(2 IDs skipped)
+SIGHT                C7A2 Carrier Handle                                        31715     b7b4679befa543b295ba7bc001767600
+(1 IDs skipped)
+SIGHT                AS Val Rear Sights                                         31717     c801e2480e9649e3ab1e5a054ba6646e
+(5 IDs skipped)
+SIGHT                M1014 Rear Sights                                          31723     7182121489804265858a50135fe2e7cb
+SIGHT                M110 Iron Sights                                           31724     6cb2fc47c4954c8692b8b329b324cfcd
+SIGHT                AK-12 Rear Sights                                          31725     83ad649136874d2da25241e7f20fc712
+(19 IDs skipped)
+SIGHT                Mx4 Storm Rear Sights                                      31745     851ad97440884229827de2a39c29f3ba
+(7 IDs skipped)
+SIGHT                Mini-14 Rear Sights                                        31753     5d901e7c658447b088bd50abee9eef7f
+(5 IDs skipped)
+SIGHT                SKS Rear Sights                                            31759     857b4a2ae4fc4fefba1231682ea25182
+(5 IDs skipped)
+SIGHT                Mosin Rear Sights                                          31765     4d71708a4fd742b480eaa88cccd94c46
+(1 IDs skipped)
+SIGHT                Model 92 Rear Sights                                       31767     ec08754f2f1b413e85230623d1694641
+SIGHT                AR-15 Rear sight                                           31768     d838f896573f45f981a33e0e87cf26d4
+(27 IDs skipped)
+SIGHT                HK416 Iron Sights                                          31796     e3fd2130619444d4a9723c7693e80d63
+(103 IDs skipped)
+SUPPLY               Artillery Shell                                            31900     5b7ab8605ff141ff80768cf34458bf54
+SUPPLY               81mm Mortar Shell                                          31901     f1be1d7bfc534437921c5f180a6dfa58
+TRAP                 Anti-Tank Mine                                             31902     92df865d6d534bc1b20b7885fddb8af3
+SUPPLY               150V Blast Cap                                             31903     e127d68fea364e1e9b2dce0e11b58c95
+DETONATOR            Cellphone                                                  31904     21cbdcec7a8a4c7d93b578d596fc623c
+CHARGE               Remote-Detonated Claymore                                  31905     6d5980d658c9449c941928bcc738f210
+TRAP                 Tripwire Claymore                                          31906     830ba3616d434914b682007b7f309d68
+SUPPLY               High-Voltage Capacitor                                     31907     c8fd8c72fa5b456ea3a702868fcaba22
+CHARGE               Artillery Shell IED                                        31908     1306b006433e4e408a0598df3ec6ab01
+CHARGE               Anti-Tank Mine IED                                         31909     5ad29066e2d341b88539b2274343ea04
+SUPPLY               Plastic Explosives                                         31910     40fb277789e14e859bc207260b8c7afe
+CHARGE               C-4 1-Pack Charge                                          31911     12baf44a3f154c86a1b320cbfcc7e2d7
+CHARGE               C-4 2-Pack Charge                                          31912     84c211711ee74f6e90a02c59edf39328
+CHARGE               C-4 4-Pack Charge                                          31913     85bcbd5ee63d49c19c3c86b4e0d115d6
+CHARGE               C-4 8-Pack Charge                                          31914     5dcdd5293e31475a9d9207a792fdc3e8
+CHARGE               Mortar Shell IED                                           31915     36bc0a7e9f814b99a409d3fd4a8da360
+DETONATOR            Detonator                                                  31916     618d0402c0724f1582fffd69f4cc0868
+(383 IDs skipped)
+GUN                  AA-12                                                      32300     e9db2c5326564bad882810c3595d46c0
+MAGAZINE             AA-12 Magazine (00 Buckshot)                               32301     e0cdfbac584647ddabdde936cd95c16b
+MAGAZINE             AA-12 Magazine (Slugs)                                     32302     cf86a89fcb7c4a11bb02b953425a84eb
+MAGAZINE             AA-12 Magazine (Birdshot)                                  32303     06fbae69bfb946e09e4f41d9c06c7c1e
+MAGAZINE             AA-12 Drum (00 Buckshot)                                   32304     1eb27e282298442d9e37b433213de6f2
+MAGAZINE             AA-12 Drum (Slugs)                                         32305     39d577e22556407b9ef4f34c3a8c48c7
+MAGAZINE             AA-12 Drum (Birdshot)                                      32306     2d9723e800bc4d92b7e9191b728d3fa3
+GUN                  OTs-14 Groza-1                                             32307     e66719e9307e42de985f2d8fc3102c36
+BARREL               OTs-14 Barrel Grip                                         32308     d8e39999a1174e3088ba3d33926c3fce
+GUN                  OTs-14 Groza-4                                             32309     2c9521b7a2c846ac8c87e8a61d36b7b0
+BARREL               OTs-14 Groza-4 Suppressor                                  32310     6801d33a610a4f7caf2a34f66750af44
+GUN                  FB Beryl wz. 96                                            32311     29c659108b4f453a82906db667ec2d30
+GUN                  FB Beryl M762                                              32312     4d1322dbda454e3795b8c4993e0b652b
+GUN                  GOL-Sniper Magnum                                          32313     58204804d8664ed497be83bd1b23347e
+GRIP                 Bipod                                                      32314     fe2d2c34d4294146a136538b768e2311
+GUN                  Browning Hi-Power                                          32315     6b93cecf3bb04173bd43be447f368041
+GUN                  PPSh-41                                                    32316     6db50cbf81a14ff5bde87cba0c7d964d
+MAGAZINE             PPSh-41 Stick Magazine                                     32317     20fa04b5af7944f6b2910ff45d376398
+MAGAZINE             PPSh-41 Drum Magazine                                      32318     b578b553d2b945ea8e47830d09bc6999
+SIGHT                1P78 Kashtan                                               32319     1278e95f03a14ab1ba820abb1be1258f
+GUN                  RPK-74M                                                    32320     3c2a61f5ada848e386f06165b20d1601
+MAGAZINE             45rnd 5.45x39mm Magazine                                   32321     daa60241a49d452ca0822c4bb29834ca
+(1 IDs skipped)
+GUN                  AK-105                                                     32323     6398062e445c47249128cbaec108471b
+GUN                  M249 PIP                                                   32324     a98b3bc4fa1540a881ee1e727f5fb5b2
+MAGAZINE             100rnd M249 Magazine                                       32325     22ed77b886134b5e9956dc599c4dcb43
+GUN                  M4                                                         32326     eaa2a5b3b88941a09a336207bcfb1cda
+GUN                  M203                                                       32327     e8d7b34ed15046c0b04209a44736fb08
+MAGAZINE             40mm M203 Grenade                                          32328     f225367ceee342f9b482a41fd15937b3
+GUN                  GP-25                                                      32329     7f72a1aa205f48cd9fe7fbcfeb5bd390
+MAGAZINE             40mm GP-25 Grenade                                         32330     8193bb4a1bfd41038906ac037965cc0b
+GUN                  Colt Python 6"                                             32331     34082423bcc04843bb042ddf3519720d
+SIGHT                Magnified Red Dot Reflex                                   32332     7d42bb2e06d54d21963acce619a454a6
+SIGHT                Magnified Holographic Sight                                32333     656672ae38254339b96d0f28b0003910
+GUN                  M240B                                                      32334     7cc6a12e7d87466a9cd93c333eedfd36
+MAGAZINE             M240B Pouch                                                32335     2c85ee6ad58c42049853e80a55336d5d
+GUN                  PKP Pecheneg                                               32336     cd99ce5d804c4469bb20233dc744135d
+GUN                  FN MAG                                                     32337     e4fef63d83c3495bace28a902df10cd7
+GUN                  MP-443 Grach                                               32338     55a7c42a0e16469484509b14bf37bdf1
+MAGAZINE             40mm M203 Smoke Grenade                                    32339     c6a32105826549eaaa1269665d423a68
+MAGAZINE             40mm GP-25 Smoke Grenade                                   32340     1619caadd6c3485ab36f6ce452124990
+(58 IDs skipped)
+MAGAZINE             30rnd .45 ACP Magazine                                     32399     b93a3c6fdcaa4b3fabc53c8122163725
+(100 IDs skipped)
+SIGHT                AA-12 Iron Sights                                          32500     b4241e11f5d146efa4824647bafcf934
+(6 IDs skipped)
+SIGHT                OTs-14 Rear Sights                                         32507     4d9cc91cd50a44b899574dd4ebc2aa17
+(16 IDs skipped)
+SIGHT                M249 Rear Sights                                           32524     68a6b199d37a43a6bf92a740c0a8089e
+(1 IDs skipped)
+SIGHT                M4 Rear sights                                             32526     358c5ac694994a7db6b2b847e8fa3282
+(7 IDs skipped)
+SIGHT                M240B Rear Sights                                          32534     e91191119d824ebba950264b155c5b3f
+(765 IDs skipped)
+BARRICADE            Large Black Placard                                        33300     bf3f902af0a546a7a2b1a70e3fdcd6da
+BARRICADE            Kit Sign                                                   33301     275dd81d60ae443e91f0655b8b7aa920
+STORAGE              Kit Rack                                                   33302     7ee1d28efe904a369c93c544494fa1ef
+BARRICADE            FOBs Help Kiosk                                            33303     74bb8bb893df4eda8deed0c45a9f6429
+BARRICADE            Ammo Help Kiosk                                            33304     3cd4ebc761d548f49bed3c2525141139
+BARRICADE            Vehicle Help Kiosk                                         33305     5dd5443d4f0840528b78075bac189cc6
+BARRICADE            Squads Help Kiosk                                          33306     7fc17290f2ea48bfb2c25fa1c05f2c04
+BARRICADE            Squadleader Help Kiosk                                     33307     4b9c50ce3ad243a280090b3a787400db
+BARRICADE            Heli Help Kiosk                                            33308     280dc3a0216b425386a5b24fe0a8f152
+BARRICADE            Rallypoint Help Kiosk                                      33309     4bc368c8fbe5494d99b639c0b1541176
+BARRICADE            Kits Help Kiosk                                            33310     2f72b14ce3c3434f85372ada4c6a842e
+BARRICADE            Small Transparent Sign                                     33311     671d22aaf3b04e3e82f6fc50db9215a9
+BARRICADE            Large Transparent Sign                                     33312     c0b750b5e6ff414fab015eb79df8bee9
+(2687 IDs skipped)
+SKIN                Holiday                                                     36000     b82f3739899740f5b6cf0237840cffb2
+SKIN                Test2                                                       36001     48af9f8fa66f4f64a81a0a6056e508cb
+(56 IDs skipped)
+BARRICADE            Team 1 Zone Blocker Nuijamaa                               36058     5792780605014735ab012f1f7adaf714
+BARRICADE            Team 2 Zone Blocker Nuijamaa                               36059     b4c0a51b70054ad5b6fe06aead982d94
+BARRICADE            Vehicle Bay Sign                                           36060     5251c3bcaabb4a15b9e631e19c037ec1
+(2240 IDs skipped)
+GUN                  Mounted M2A1                                               38301     8c0bd34c72e643b28072e13d162b3528
+MAGAZINE             .50 Cal Ammuntion Crate                                    38302     523c49ce4df44d46ba37be0dd6b4504b
+(1 IDs skipped)
+GUN                  Mounted Kord-12.7                                          38304     5647a68c2ed140e592dbb93ce13a0d94
+MAGAZINE             12.7x108mm Ammuntion Crate                                 38305     6e9bc2083a1246b49b1656c2ec6f535a
+(1 IDs skipped)
+GUN                  LAV-25                                                     38307     b726440abe39461caa954a7002ace50f
+MAGAZINE             25x137mm Armor-Piercing Sabot Shells                       38308     22788e26c5f5483892c9562003b63d49
+GUN                  BTR-80                                                     38309     8618df1dc7344655946abcc69cc8825f
+BARRICADE            FOB Bunker                                                 38310     1bb17277dd8148df9f4c53d1a19b2503
+BARRICADE            FOB Bunker Built                                           38311     61c349f10000498fa2b92c029d38e523
+SUPPLY               Building Supplies                                          38312     a70978a0b47e4017a0261e676af57042
+SUPPLY               Building Supplies                                          38313     6a8b8b3c79604aeea97f53c235947a1f
+SUPPLY               Ammo Box                                                   38314     51e1e372bf5341e1b4b16a0eacce37eb
+SUPPLY               Ammo Box                                                   38315     8dd66da5affa480ba324e270e52a46d7
+BARRICADE            Ammo Crate                                                 38316     eccfe06e53d041d5b83c614ffa62ee59
+BARRICADE            Ammo Crate Built                                           38317     6fe208519d7c45b0be38273118eea7fd
+BARRICADE            Repair Station                                             38318     26a6b91cd1944730a0f28e5f299cebf9
+BARRICADE            Repair Station Built                                       38319     c0d11e0666694ddea667377b4c0580be
+MAGAZINE             14.5x114mm Armor-Piercing Incendiary Rounds                38320     51e56807aee14d939c2aa4a8027e93a4
+GUN                  M72 LAW                                                    38321     4e51ad861de844688d5634258fec758d
+MAGAZINE             M72 Munition                                               38322     32a1678f55b843f68769ca8e0916ebea
+GUN                  RPG-26                                                     38323     3ac5dee6ea2a4cc198396facc482ea50
+MAGAZINE             RPG-26 Munition                                            38324     5886129841da4f43ac37a59207e6cd13
+GUN                  BMP-2                                                      38325     1f403c78a5914cdabfaf8ad676807377
+MAGAZINE             30x165mm AP-T Armor-Piercing Shells                        38326     5d7b6736471449ef91cf8d1dc190d987
+GUN                  M2 Bradley                                                 38327     c36aaac2c2c0449baa46f94652e19837
+GUN                  81mm Mortar                                                38328     d6424d034309417dbc5f17814af905a8
+(1 IDs skipped)
+MAGAZINE             81mm HE Mortar Shell                                       38330     66f4c76a119e4d6ca9d0b1a866c4d901
+SUPPLY               Building Supplies                                          38331     9c7122f7e70e4a4da26a49b871087f9f
+SUPPLY               Ammo Box                                                   38332     bfc9aed75a3245acbfd01bc78fcfc875
+GUN                  Laser Rangefinder                                          38333     010de9d7d1fd49d897dc41249a22d436
+SIGHT                Rangefinder Scope                                          38334     38de73873cc9442fabc3471888ce4504
+TACTICAL             Rangefiner Laser                                           38335     768d88fc57144892a75954b2b4f2fa05
+BARRICADE            81mm Mortar                                                38336     6ff4826eaeb14c7cac1cf25a55d24bd3
+GUN                  Kornet Missile                                             38337     d900a6de5bb344f887855ce351e3bb41
+MAGAZINE             Kornet Missile Capsule                                     38338     d7774b017c404adbb0a0fe8e902b9689
+BARRICADE            9M133 Kornet                                               38339     37811b1847744c958fcb30a0b759874b
+GUN                  TOW Missile                                                38340     f8978efc872e415bb41086fdee10d7ad
+MAGAZINE             TOW Missile Capsule                                        38341     3128a69d06ac4bbbbfddc992aa7185a6
+BARRICADE            BGM-71 TOW                                                 38342     a68ae466fb804829a0eb0d4556071801
+STORAGE              Supply Crate                                               38343     a2eb76590cf74401aeb7ff4b4b79fd86
+STORAGE              Supply Roll                                                38344     2193aa0b272f4cc1938f719c8e8badb1
+BARRICADE            M2A1                                                       38345     80396c361d3040d7beb3921964ec2997
+BARRICADE            Kord-12.7                                                  38346     e44ba62f763c432e882ddc7eabaa9c77
+(3 IDs skipped)
+BARRICADE            Sandbag Line                                               38350     15f674dcaf3f44e19a124c8bf7e19ca2
+BARRICADE            Sandbag Line Built                                         38351     ab702192eab4456ebb9f6d7cc74d4ba2
+BARRICADE            Sandbag Pillbox                                            38352     a9294335d8e84b76b1cbcb7d70f66aaa
+BARRICADE            Sandbag Pillbox Built                                      38353     f3bd9ee2fa334faabc8fd9d5a3b84424
+BARRICADE            Sandbag Crescent                                           38354     920f8b30ae314406ab032a0c2efa753d
+BARRICADE            Sandbag Crescent Built                                     38355     eefee76f077349e58359f5fd03cf311d
+BARRICADE            Sandbag Foxhole                                            38356     12ea830dd9ab4f949893bbbbc5e9a5f6
+BARRICADE            Sandbag Foxhole Built                                      38357     a71e3e3d6bb54a36b7bd8bf5f25160aa
+BARRICADE            Razorwire                                                  38358     a2a8a01a58454816a6c9a047df0558ad
+TRAP                 Razorwire Built                                            38359     bc24bd85ff714ff7bb2f8b2dd5056395
+BARRICADE            Hesco Wall                                                 38360     baf23a8b514441ee8db891a3ddf32ef4
+BARRICADE            Hesco Wall Built                                           38361     e1af3a3af31e4996bc5d6ffd9a0773ec
+BARRICADE            Hesco Tower                                                38362     827d0ca8bfff43a39f750f191e16ea71
+BARRICADE            Hesco Tower Built                                          38363     857c85161f254964a921700a69e215a9
+BARRICADE            Mortar Sandbag Crescent                                    38364     c3eb4dd3fd1d463993ec69c4c3de50d7
+(5 IDs skipped)
+GUN                  M1A2 120mm Cannon                                          38370     4177c638f6a54e288f977f854757c844
+MAGAZINE             120mm Armor-Piercing Sabot                                 38371     3044b50736cd46e283fe31911a05b978
+(1 IDs skipped)
+MAGAZINE             120mm HE-Frag Shell                                        38373     ca863fb2058d4e4c8200bd5816bf8832
+GUN                  T-90 125mm Cannon                                          38374     5f8fb4ffce8c4868a300db53df7dbb24
+MAGAZINE             125mm Armor-Piercing Sabot                                 38375     6da422effa124df38fde31b5ec792218
+(1 IDs skipped)
+MAGAZINE             125mm HE-Frag Shell                                        38377     9cfa55396aea4ba2b135d7a59b3b838c
+GUN                  M240B                                                      38378     06dc756aca834ece842fcb68012d7143
+MAGAZINE             7.62x51mm Ammuntion Crate                                  38379     432530b4d42f4c8cbd351465eb5bdae5
+GUN                  PKP Pecheneg                                               38380     b9a8f837484147c48ecaf263cf0d9975
+BARRICADE            Rallypoint                                                 38381     5e1db525179341d3b0c7576876212a81
+BARRICADE            Rallypoint                                                 38382     0d7895360c80440fbe4a45eba28b2007
+GUN                  Smoke Launcher                                             38383     99bfd7e25f1042af90b61cacff77ec63
+MAGAZINE             Smoke Munition                                             38384     5b2ca432d9ac496ca0a909501ecc45ae
+BARRICADE            Rallypoint                                                 38385     c03352d9e6bb4e2993917924b604ee76
+(2 IDs skipped)
+GUN                  M3 MAAWS                                                   38388     1477d875bedb476daa6ffb2bb5d75c74
+MAGAZINE             M3 84mm HEAT                                               38389     e9f4e3eca1c34d74a8f80b43821d3686
+SIGHT                M3 MAAWS Scope                                             38390     1111b22e50144804a17d1d73bff3889d
+GUN                  RPG-28                                                     38391     1fb0d8134b524c25abf1a4c41d75ec49
+MAGAZINE             RPG-28 125mm Tandem                                        38392     7a6644a545dd45deac2a533be29a3ce7
+SIGHT                PGO-7                                                      38393     dc445026068546939daf5d3202fbc067
+MAGAZINE             M3 84mm High Explosive                                     38394     6d4e224966444a50931906cb7e6d3788
+MAGAZINE             25x137mm High-Explosive Shells                             38395     0a3e936426c445c3bb5dc10066d789a4
+MAGAZINE             30x165mm High-Explosive Shells                             38396     37d3c65aaa4d4e979347e07cb69d105c
+GUN                  RPG-7V2                                                    38397     04cf59190c0d4b2184d201631786c174
+BARRICADE            Ammo Bag                                                   38398     16f55b999e9b4f158be12645e41dd753
+(1 IDs skipped)
+MAGAZINE             RPG-7V2 HEAT                                               38400     8c1ca7bdf3f34708b58c19c6dcdf24cf
+MAGAZINE             RPG-7V2 Fragmentation                                      38401     b6d526dfc68b4f4c8cc113ada677a612
+MAGAZINE             RPG-7V2 Tandem Anti-Tank                                   38402     5d002cceace14966a4242a1c3242bf46
+MAGAZINE             M3 84mm Tandem Anti-Tank                                   38403     36a9ab7f6d5d43dc9c30d85da5920842
+BARRICADE            Ammo Crate Built                                           38404     39051f33f24449b4b3417d0d666a4f27
+MELEE                Entrenching Tool                                           38405     6cee2662e8884d7bad3a5d743f8222da
+STORAGE              FOB Radio                                                  38406     7715ad81f1e24f60bb8f196dd09bd4ef
+STORAGE              FOB Radio                                                  38407     fb910102ad954169abd4b0cb06a112c8
+STORAGE              FOB Radio                                                  38408     c7754ac78083421da73006b12a56811a
+BARRICADE            FOB Radio Damaged                                          38409     07e68489e3b547879fa26f94ea227522
+GUN                  MG3                                                        38410     a396d465c6db4dda8cb57a2d019f9058
+MAGAZINE             MG3 Drum                                                   38411     ac7a6f02294e4adcaa98d25f722fece0
+GUN                  HK33                                                       38412     0193f0ac34514babb410d0b30c27e9c4
+GUN                  HK53A2                                                     38413     cd3fefa27cec46fc84a21269b33e1f80
+GUN                  HK51                                                       38414     8ce9d7b03b224aeebcd043a52d295f10
+SIGHT                Z-Point Mount                                              38415     64ce9653cf234ae79b9969a2b5059214
+SIGHT                ZF-1                                                       38416     8271cfe7db03486f9f75c12180d0507f
+GUN                  G3A4                                                       38417     e7575a5c9c094d3593432d27c1b3edac
+GUN                  AK-101                                                     38418     a03780e22f204cad827fc4da23f40551
+MAGAZINE             AK-101 Magazine                                            38419     36fe8fdea9b34e4b85daa5acb38f3175
+GUN                  G3SG/1                                                     38420     782de1244a7a468a8daf23c0b23c6911
+SIGHT                S&B 3/2-6                                                  38421     f39cd750f607467c9a3cf9631cbe4fbf
+SIGHT                M5HD                                                       38422     bb78f641aba5410894d58a35bdd1d2bf
+MAGAZINE             MG3 Box                                                    38423     5dfcaa6fa938439a90c24b734f299c6f
+GUN                  HK21                                                       38424     2ff03ce7320040f39356bc059e4f387d
+MAGAZINE             HK21 Box                                                   38425     ca416d76861d4a489131ccac9153d012
+(171 IDs skipped)
+SIGHT                RPG-7V2 Rear Sight                                         38597     0be2996f63784119930fd6716044cf0b
+(12 IDs skipped)
+SIGHT                MG3 Rear Sights                                            38610     f2c7c117e81e4bf3a9b5e9e055703c0c
+(1 IDs skipped)
+SIGHT                HK33 Rear Sights                                           38612     ddcfbca6d6504a0c9836d929ab8b56e0

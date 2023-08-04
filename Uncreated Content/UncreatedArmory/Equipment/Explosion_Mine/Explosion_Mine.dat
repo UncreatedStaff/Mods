@@ -1,0 +1,13 @@
+GUID 2bcfb09537ce47799e0a9a3da3f44289
+Type Effect
+ID 31303
+
+Blast 137
+
+Trap_Setup_Delay 10
+
+Relevant_Distance 600
+Spawn_Explosion_On_Dedicated_Server
+
+CameraShake_Radius 70
+CameraShake_MagnitudeDegrees 60

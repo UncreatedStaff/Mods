@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID d9861b9123bb4da9a72851b20ecab236
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26576
+    Lifetime_Spread 0
+    Lifetime 1
+    Bundle_Override_Path Icons/Actions/SuppliesBuild
+}

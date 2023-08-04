@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "27b35fa642c74c53960ce9e65e27efb7"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/CH_Village/ch-village-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/CH_Village/ch-village-2.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/CH_Village/ch-village-3.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/CH_Village/ch-village-4.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/CH_Village/ch-village-5.mat"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+GUID 64ce9653cf234ae79b9969a2b5059214
+Type Sight
+ID 38415
+
+Size_X 2
+Size_Y 1
+Size_Z 0.12
+
+Calibers 1
+Caliber_0 38415
+
+Spread 0.9
+Holographic

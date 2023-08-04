@@ -1,0 +1,13 @@
+GUID 2730fd246e4745f1bbac3f27addd3188
+Type Resource
+ID 26001
+
+Health 2000
+Radius 5
+Scale 0.1
+
+Explosion 23
+
+Reset 1000
+
+Asset_Bundle_Version 2

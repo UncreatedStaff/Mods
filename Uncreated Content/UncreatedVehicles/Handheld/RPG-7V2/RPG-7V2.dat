@@ -1,0 +1,103 @@
+GUID 04cf59190c0d4b2184d201631786c174
+Type Gun
+Useable Gun
+Slot Primary
+ID 38397
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.7
+
+Magazine 38400
+Sight 38597
+
+Hook_Sight
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Attachment_Calibers 1
+Attachment_Caliber_0 38393
+
+Magazine_Calibers 1
+Magazine_Caliber_0 38400
+
+Firerate 50
+Unplace 0
+Replace 0.5
+Action Rocket
+
+Fire_Delay_Seconds 0.1
+
+Player_Damage 500
+Player_Leg_Multiplier 0.8
+Player_Arm_Multiplier 0.8
+Player_Spine_Multiplier 1.0
+Player_Skull_Multiplier 2.0
+
+Zombie_Damage 500
+Zombie_Leg_Multiplier 0.8
+Zombie_Arm_Multiplier 0.8
+Zombie_Spine_Multiplier 1.0
+Zombie_Skull_Multiplier 2.0
+
+Animal_Damage 500
+Animal_Leg_Multiplier 0.8
+Animal_Spine_Multiplier 1.0
+Animal_Skull_Multiplier 2.0
+
+Barricade_Damage 600
+Structure_Damage 600
+Vehicle_Damage 400
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 10
+Gunshot_Rolloff_Distance 150
+Explosion 38312
+
+Durability 1
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 2000
+
+Recoil_Min_X -9
+Recoil_Min_Y 10
+Recoil_Max_X 9
+Recoil_Max_Y 20
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38397
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 6
+Blueprint_1_Output_1_ID 61
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27

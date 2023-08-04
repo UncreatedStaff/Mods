@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "9dd78dfc857f4f41833800103d45a6f7"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp"
+}
+"Asset"
+{
+    Type Medium
+    
+    Rubble Destroy
+    Rubble_Reset 60
+    Rubble_Health 1
+    Rubble_Effect 38
+    
+    Chart Ignore
+
+    Has_Clip_Prefab false
+
+    LOD None
+}

@@ -1,0 +1,16 @@
+GUID d93f1afc99664922a06746969a799dda
+Type Magazine
+ID 26002
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+
+Amount 16
+Count_Min 16
+Count_Max 16
+
+Calibers 1
+Caliber_0 26002
+
+Delete_Empty

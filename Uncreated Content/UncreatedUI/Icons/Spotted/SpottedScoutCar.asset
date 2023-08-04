@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID b0937aff90b94a588b70bc96ece49f53
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26592
+    Lifetime_Spread 0
+    Lifetime 0.5
+    Bundle_Override_Path Icons/Spotted/ScoutCar
+}

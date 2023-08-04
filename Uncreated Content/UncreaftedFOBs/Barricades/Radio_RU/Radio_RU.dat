@@ -1,0 +1,20 @@
+GUID fb910102ad954169abd4b0cb06a112c8
+Type Storage
+Useable Barricade
+Build Storage
+ID 38407
+
+Size_X 3
+Size_Y 3
+Size_Z 0.65
+
+Health 900
+Range 5
+Offset 0.125
+
+Storage_X 13
+Storage_Y 14
+
+Explosion 19
+
+Should_Close_When_Outside_Range true

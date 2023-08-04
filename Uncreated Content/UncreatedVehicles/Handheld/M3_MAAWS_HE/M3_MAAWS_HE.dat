@@ -1,0 +1,20 @@
+GUID 6d4e224966444a50931906cb7e6d3788
+Type Magazine
+ID 38394
+
+Size_X 3
+Size_Y 1
+Size_Z 0.9
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38389
+
+Projectile_Blast_Radius_Multiplier 2.5
+Projectile_Launch_Force_Multiplier 1
+Projectile_Damage_Multiplier 0.4
+
+Delete_Empty

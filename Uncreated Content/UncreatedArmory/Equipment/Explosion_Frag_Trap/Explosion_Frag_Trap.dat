@@ -1,0 +1,11 @@
+GUID caf60ad417834ed7acbbc9e963b7a32d
+Type Effect
+ID 31301
+
+Blast 137
+
+Relevant_Distance 600
+Spawn_Explosion_On_Dedicated_Server
+
+CameraShake_Radius 45
+CameraShake_MagnitudeDegrees 40

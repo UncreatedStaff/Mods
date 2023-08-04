@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "551c60c1350f4a0d9ad2b6657a184201"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Rug_1/rug-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Rug_1/rug-2.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Rug_1/rug-3.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Rug_1/rug-4.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Rug_1/rug-5.mat"
+		}
+	]
+}

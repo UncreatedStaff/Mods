@@ -1,0 +1,16 @@
+GUID 5b2ca432d9ac496ca0a909501ecc45ae
+Type Magazine
+ID 38384
+
+Size_X 2
+Size_Y 2
+Size_Z 0.15
+
+Amount 1
+Count_Min 0
+Count_Max 1
+
+Calibers 1
+Caliber_0 38384
+
+Delete_Empty

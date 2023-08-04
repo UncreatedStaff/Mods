@@ -1,0 +1,20 @@
+GUID 6fcf258e52ec4aba862f33036db3517d
+Type Magazine
+ID 38470
+
+Size_X 4
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Projectile_Blast_Radius_Multiplier 2.5
+Projectile_Launch_Force_Multiplier 1
+Projectile_Damage_Multiplier 0.4
+
+Calibers 1
+Caliber_0 38468
+
+Delete_Empty

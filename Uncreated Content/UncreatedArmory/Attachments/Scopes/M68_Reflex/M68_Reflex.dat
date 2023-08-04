@@ -1,0 +1,14 @@
+GUID 363277adaad345bf869b1fb1498791ae
+Type Sight
+ID 31469
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Shake 0.4
+
+Calibers 1
+Caliber_0 31469
+
+Zoom 1.5

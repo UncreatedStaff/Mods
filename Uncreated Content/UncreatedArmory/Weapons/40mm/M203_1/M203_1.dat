@@ -1,0 +1,18 @@
+GUID f225367ceee342f9b482a41fd15937b3
+Type Magazine
+ID 32328
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 32328
+
+Explosion 31300
+
+Delete_Empty

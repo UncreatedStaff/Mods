@@ -1,0 +1,16 @@
+GUID 5886129841da4f43ac37a59207e6cd13
+Type Magazine
+ID 38324
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38324
+
+Delete_Empty

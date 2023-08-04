@@ -1,0 +1,38 @@
+GUID e0cdfbac584647ddabdde936cd95c16b
+Type Magazine
+ID 32301
+
+Size_X 1
+Size_Y 2
+Size_Z 0.32
+
+Amount 8
+Count_Min 0
+Count_Max 7
+
+Calibers 1
+Caliber_0 32300
+
+Pellets 8
+Spread 4
+Ballistic_Damage_Multiplier 1.00
+
+Tracer 33312
+
+Blueprints 4
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31361
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 32301
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 32304
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31427
+Blueprint_3_Build 30

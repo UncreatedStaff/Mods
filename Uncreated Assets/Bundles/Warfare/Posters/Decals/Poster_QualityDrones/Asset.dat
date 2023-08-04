@@ -1,0 +1,13 @@
+"Metadata"
+{
+	"GUID" "f20acf08b88740e4a8cb18fd8e7eeb62"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp"
+}
+"Asset"
+{
+    Type Decal
+    
+    Decal_X 4
+    Decal_Y 2
+    Decal_LOD_Bias 3
+}

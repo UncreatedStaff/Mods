@@ -1,0 +1,29 @@
+Metadata
+{
+    GUID fb8f84e2617b480aadfd77bbf4a6c3ec
+    Type SDG.Unturned.ItemBarricadeAsset, Assembly-CSharp
+}
+Asset
+{
+    Type Barricade
+    Useable Barricade
+    Build Barricade
+    Rarity Epic
+    ID 29252
+
+    Size_X 2
+    Size_Y 2
+    Size_Z 17.85
+
+    Health 65535
+    Range 500
+    Offset 0
+
+    Unsalvageable
+    Unpickupable
+    Proof_Explosion
+    Allow_Placement_On_Vehicle False
+    Can_Be_Damaged False
+    Unsaveable
+    Armor_Tier HIGH
+}

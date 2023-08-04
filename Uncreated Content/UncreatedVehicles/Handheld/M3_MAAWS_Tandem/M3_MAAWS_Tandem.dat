@@ -1,0 +1,22 @@
+GUID 36a9ab7f6d5d43dc9c30d85da5920842
+Type Magazine
+ID 38403
+
+Size_X 4
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38389
+
+Projectile_Blast_Radius_Multiplier 0.6
+Projectile_Launch_Force_Multiplier 0.8
+Projectile_Damage_Multiplier 1.749
+
+Explosion 38312
+
+Delete_Empty

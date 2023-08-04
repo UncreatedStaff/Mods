@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID 93ad1da8a885422984a9abe4e36aa169
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26511
+    Lifetime_Spread 0
+    Bundle_Override_Path Icons/Markers/MarkerMedic
+}

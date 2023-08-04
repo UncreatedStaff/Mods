@@ -1,0 +1,17 @@
+GUID 535d6c282b6247ffbe9e6f216bae13ef
+Type Resource
+ID 29101
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 100
+Reward_ID 517
+Reward_XP 4
+Reward_Min 7
+Reward_Max 10
+
+Reset 450
+
+SpeedTree

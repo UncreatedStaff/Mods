@@ -1,0 +1,31 @@
+GUID 118d092bc8754f289bf92ad33f7e7c24
+Type Spawn
+ID 30302
+
+Roots 7
+Root_0_Spawn_ID  695
+Root_0_Weight 100
+Root_1_Spawn_ID  696
+Root_1_Weight 100
+Root_2_Spawn_ID  722
+Root_2_Weight 100
+Root_3_Spawn_ID  723
+Root_3_Weight 100
+Root_4_Spawn_ID  693
+Root_4_Weight 40
+Root_5_Spawn_ID  694
+Root_5_Weight 80
+Root_6_Spawn_ID  711
+Root_6_Weight 100
+
+
+Tables 1
+Table_0_Spawn_ID 32300
+Table_0_Weight 10
+
+
+
+
+
+
+

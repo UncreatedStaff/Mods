@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "4e114cc63684434b8a576ad320bb6ecd"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/GasStation_1/gasstation-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/GasStation_1/gasstation-2.mat"
+		}
+	]
+}

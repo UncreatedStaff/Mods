@@ -1,0 +1,23 @@
+GUID 2f077bfd25074bad9d8e24d5af29fab4
+Type Backpack
+Useable Clothing
+ID 30991
+
+Size_X 3
+Size_Y 4
+Size_Z 0.6
+
+Width 8
+Height 5
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 30991
+Blueprint_0_Product 66
+Blueprint_0_Products 5
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Build 32

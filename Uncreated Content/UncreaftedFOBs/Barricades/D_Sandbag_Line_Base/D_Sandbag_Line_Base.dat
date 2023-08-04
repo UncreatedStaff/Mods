@@ -1,0 +1,15 @@
+GUID 15f674dcaf3f44e19a124c8bf7e19ca2
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 38350
+
+Size_X 3
+Size_Y 1
+Size_Z 0.65
+
+Health 50
+Range 5
+Offset 0.125
+
+Explosion 19

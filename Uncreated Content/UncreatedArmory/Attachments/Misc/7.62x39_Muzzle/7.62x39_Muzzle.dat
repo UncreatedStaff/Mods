@@ -1,0 +1,19 @@
+GUID 0067a5b2262540118e4809abb053177b
+
+
+Type Barrel
+Rarity Rare
+ID 12516
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
+
+Paintable

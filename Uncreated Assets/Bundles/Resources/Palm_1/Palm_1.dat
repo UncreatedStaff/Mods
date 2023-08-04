@@ -1,0 +1,13 @@
+GUID 7069e7fe878348eb86494f0d06e5e9c9
+Type Resource
+ID 26000
+
+Health 1250
+Radius 5
+Scale 0.2
+
+Explosion 23
+
+Reset 1000
+
+Asset_Bundle_Version 2

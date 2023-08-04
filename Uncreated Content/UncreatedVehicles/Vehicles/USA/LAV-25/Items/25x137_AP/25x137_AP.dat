@@ -1,0 +1,26 @@
+GUID 22788e26c5f5483892c9562003b63d49
+Type Magazine
+ID 38308
+
+Size_X 3
+Size_Y 2
+Size_Z 0.15
+
+Amount 30
+Count_Min 1
+Count_Max 30
+
+Calibers 1
+Caliber_0 38308
+
+Tracer 33308
+
+Impact 38307
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 38308
+Blueprint_0_Build 30
+
+Delete_Empty

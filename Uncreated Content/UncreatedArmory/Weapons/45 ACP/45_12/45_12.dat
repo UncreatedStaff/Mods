@@ -1,0 +1,30 @@
+GUID 79705b361add4f678b0143fca07d3d95
+Type Magazine
+ID 31336
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Amount 12
+Count_Min 0
+Count_Max 11
+
+Calibers 1
+Caliber_0 31336
+
+Tracer 33309
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31355
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31336
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31433
+Blueprint_2_Build 30

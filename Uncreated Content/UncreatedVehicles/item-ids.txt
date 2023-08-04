@@ -1,0 +1,38 @@
+EFFECT              Explosion_Hydra                                             26000     ea730f5c2efd4d508d792d6ef13228ce
+EFFECT              Explosion_20mm                                              26001     e7a07227bffb41d2aec4575548cbf910
+EFFECT              Explosion_Airstrike                                         26002     07e25c7c4aac4993bc234c543677a3a7
+(17 IDs skipped)
+EFFECT              Muzzle_AA                                                   26020     4a6bdcaf87244b909fa5a9058122ce8c
+EFFECT              Tracer_AA                                                   26021     e3a53c5c63d1498eb6594c11a5fa3135
+EFFECT              Explosion_AA                                                26022     04fc90dd323f477f9e38d60e009239a0
+(7 IDs skipped)
+EFFECT              Explosion_AGM                                               26030     fce656155daa49feb3e4b2effb532306
+(5278 IDs skipped)
+EFFECT              Explosion_Smoke_Vehicle                                     31309     8194ed028d5f453c88bb101d536abbb9
+(6997 IDs skipped)
+EFFECT              Explosion_25mm_AP                                           38307     db351d2c81f74d6db576e3e320839a2a
+(1 IDs skipped)
+EFFECT              Explosion_14.5mm                                            38309     f187361715a14ad691e53e9032b7692d
+(1 IDs skipped)
+EFFECT              Explosion_30mm_HE                                           38311     f926d6fe71514b57a969aac00b970295
+EFFECT              Explosion_RPG                                               38312     8b86af8efa3e4a2098dab168f2c9f72c
+(2 IDs skipped)
+EFFECT              Explosion_25mm_HE                                           38315     a52bf78ed99c496abf4e95ff85a49472
+EFFECT              Refuel                                                      38316     1d4fa25996114b7b89b061021fcc688f
+(4 IDs skipped)
+EFFECT              Explosion_LAT                                               38321     31b727c8e2354a66be8e289c57510738
+(3 IDs skipped)
+EFFECT              Explosion_30mm_AP                                           38325     30ca1116c7e343c6bd87d8885035ceb6
+(44 IDs skipped)
+EFFECT              Explosion_TOW                                               38370     dd5589b5192846e4bb76c0759eea14dd
+EFFECT              Explosion_Tank_AP                                           38371     0484848629b744c9b0c4209770811cf2
+(1 IDs skipped)
+EFFECT              Explosion_Tank_HE                                           38373     82726ceeded44addab3e58ab3a699a3b
+EFFECT              Tracer_Tank                                                 38374     15f85f6c4d414503ba9a3b82b6b90a38
+(4 IDs skipped)
+EFFECT              VExplosion_APC                                              38379     68a0bddf453047dc9b43e5425db60d5a
+EFFECT              VExplosion_Car                                              38380     4f14120220124ca7bf825b2b79cf5996
+EFFECT              VExplosion_Helicopter                                       38381     51ee0a9176854a67ab2bea8cbe6d7b40
+EFFECT              VExplosion_IFV                                              38382     c6fd291f2c474ebbaa22a35150f3d34a
+(1 IDs skipped)
+EFFECT              VExplosion_Tank                                             38384     05239641fcae42b2a8cb7c800726bf0c

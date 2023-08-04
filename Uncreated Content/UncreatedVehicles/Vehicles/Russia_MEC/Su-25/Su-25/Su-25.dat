@@ -1,0 +1,55 @@
+GUID 87cbec30cf554f9bb11240ce6f78087a
+Type Vehicle
+Rarity Legendary
+ID 38325
+
+Speed_Min 56
+Speed_Max 82
+
+Steer_Min 8
+Steer_Max 22
+
+Brake 32
+Lift 2
+
+Fuel 1000
+
+Health_Min 200
+Health_Max 300
+Health 200
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+Reclined
+
+Cam_Follow_Distance 8
+
+Air_Turn_Responsiveness 3
+Air_Steer_Min 20
+Air_Steer_Max 40
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 38381
+Invulnerable
+Tires_Invulnerable
+
+Pitch_Drive 0.008
+
+Turrets 2
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 26009
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+Turret_0_Ignore_Aim_Camera
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 26011
+Turret_1_Yaw_Min -20
+Turret_1_Yaw_Max 20
+Turret_1_Pitch_Min 90
+Turret_1_Pitch_Max 130

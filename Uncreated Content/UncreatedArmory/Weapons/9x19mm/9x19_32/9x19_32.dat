@@ -1,0 +1,32 @@
+GUID 7727a317f5d7474e84a111701d424724
+Type Magazine
+ID 31494
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 32
+Count_Min 0
+Count_Max 31
+
+Calibers 1
+Caliber_0 31494
+
+Tracer 33307
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31353
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31391
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31494
+Blueprint_2_Build 30
+
+Paintable

@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID e697bf94b9d74e02ba6f89acce5830fb
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26500
+    Lifetime_Spread 0
+    Bundle_Override_Path Icons/Markers/MarkerAPRifleman
+}

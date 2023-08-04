@@ -1,0 +1,30 @@
+GUID 16dbd4e5928e498783675529ca53fc61
+Type Vehicle
+ID 38345
+
+Speed_Min 0
+Speed_Max 0
+
+Steer_Min 0
+Steer_Max 0
+
+Brake 0
+
+Fuel_Min 500
+Fuel_Max 800
+Fuel 1800
+
+Health_Min 0
+Health_Max 10000
+Health 10000
+
+Engine Plane
+
+Exit 4
+
+Passenger_Explosion_Armor 0.3
+
+Trunk_Storage_X 1
+Trunk_Storage_Y 1
+
+Explosion 38380

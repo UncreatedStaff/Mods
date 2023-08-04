@@ -1,0 +1,23 @@
+GUID ce6c24e62d8345019d0d1dc7bf653bcd
+Type Supply
+ID 31353
+
+Size_X 1
+Size_Y 1
+Size_Z 0.12
+
+Amount 25
+Count_Min 1
+Count_Max 24
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31354
+Blueprint_0_Product 31353
+Blueprint_0_Products 2
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31353
+Blueprint_1_Build 30

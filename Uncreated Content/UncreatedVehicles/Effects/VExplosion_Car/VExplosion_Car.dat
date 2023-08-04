@@ -1,0 +1,11 @@
+GUID 4f14120220124ca7bf825b2b79cf5996
+Type Effect
+ID 38380
+
+Lifetime 20
+
+Relevant_Distance 2000
+Spawn_Explosion_On_Dedicated_Server
+
+CameraShake_Radius 60
+CameraShake_MagnitudeDegrees 35

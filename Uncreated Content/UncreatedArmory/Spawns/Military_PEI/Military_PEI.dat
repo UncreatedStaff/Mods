@@ -1,0 +1,25 @@
+GUID dfbd1c3e3b5a473285d6aea00855789b
+Type Spawn
+ID 30303
+
+Roots 4
+Root_0_Spawn_ID  113
+Root_0_Weight 100
+Root_1_Spawn_ID  227
+Root_1_Weight 100
+Root_2_Spawn_ID  93
+Root_2_Weight 50
+Root_3_Spawn_ID  239
+Root_3_Weight 50
+
+
+Tables 1
+Table_0_Spawn_ID 32300
+Table_0_Weight 10
+
+
+
+
+
+
+

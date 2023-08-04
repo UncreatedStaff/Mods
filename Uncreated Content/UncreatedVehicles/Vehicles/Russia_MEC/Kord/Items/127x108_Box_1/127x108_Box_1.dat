@@ -1,0 +1,22 @@
+GUID 6e9bc2083a1246b49b1656c2ec6f535a
+Type Magazine
+ID 38305
+
+Size_X 3
+Size_Y 2
+Size_Z 0.15
+
+Amount 100
+Count_Min 0
+Count_Max 99
+
+Calibers 1
+Caliber_0 38305
+
+Tracer 33310
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 38305
+Blueprint_0_Build 30

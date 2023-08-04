@@ -1,0 +1,11 @@
+GUID 7f56d33496664e418ae3eebf46d7830a
+Type Spawn
+ID 30110
+
+Tables 3
+Table_0_Spawn_ID 30112
+Table_0_Weight 40
+Table_1_Spawn_ID 30113
+Table_1_Weight 35
+Table_2_Spawn_ID 30111
+Table_2_Weight 25

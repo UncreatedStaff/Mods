@@ -1,0 +1,15 @@
+GUID 2f72b14ce3c3434f85372ada4c6a842e
+Type Barricade
+Useable Barricade
+Build Freeform
+ID 33310
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 1000
+Range 5
+Offset 0.75
+
+Explosion 19

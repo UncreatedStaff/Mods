@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID 8caccb6344924fbab842625e5b1f5932
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26568
+    Lifetime_Spread 0
+    Lifetime 1
+    Bundle_Override_Path Icons/Actions/NearbyRifleman
+}

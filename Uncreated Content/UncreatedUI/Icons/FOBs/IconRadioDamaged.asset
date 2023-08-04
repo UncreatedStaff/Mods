@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID 37d5c48597ea4b61a7a87ed85a4c9b39
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26556
+    Lifetime_Spread 0
+    Lifetime 240
+    Bundle_Override_Path Icons/FOBs/IconRadioDamaged
+}

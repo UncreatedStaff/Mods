@@ -1,0 +1,21 @@
+GUID d5bd27237dab4b3b8231bf12a8c50bd5
+Type Barrel
+ID 31395
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 31395
+
+Silenced 
+Volume 0.7
+
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
+
+Paintable
+
+Exclude_From_Master_Bundle

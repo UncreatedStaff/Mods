@@ -1,0 +1,15 @@
+GUID 21cbdcec7a8a4c7d93b578d596fc623c
+Type Detonator
+Useable Detonator
+ID 31904
+
+Size_X 1
+Size_Y 2
+Size_Z 0.34
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 31904
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

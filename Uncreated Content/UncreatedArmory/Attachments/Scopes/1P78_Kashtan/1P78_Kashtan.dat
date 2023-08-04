@@ -1,0 +1,14 @@
+GUID 1278e95f03a14ab1ba820abb1be1258f
+Type Sight
+ID 32319
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Shake 0.4
+
+Calibers 1
+Caliber_0 31462
+
+Zoom 3.25

@@ -1,0 +1,52 @@
+GUID 677b1084dffa463384d29167a3fae25b
+Type Vehicle
+ID 38314
+
+Speed_Min -5
+Speed_Max 5
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 40
+
+Fuel_Min 5000
+Fuel_Max 5000
+Fuel 5000
+
+Health_Min 300
+Health_Max 400
+Health 400
+
+Exit 1.5
+
+Explosion_Min_Force_X -16
+Explosion_Min_Force_Y 128
+Explosion_Min_Force_Z -16
+Explosion_Max_Force_X 16
+Explosion_Max_Force_Y 128
+Explosion_Max_Force_Z 16
+
+Bicycle
+Bicycle_Anim_Speed 0.25
+Stamina_Boost 0.6
+Stamina_Powered
+
+Traction
+Tires_Invulnerable
+Bumper_Multiplier 0
+
+Invulnerable
+
+Should_Spawn_Seat_Capsules true
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 4
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 38337
+Turret_0_Yaw_Min -1440
+Turret_0_Yaw_Max 1440
+Turret_0_Pitch_Min 35
+Turret_0_Pitch_Max 110

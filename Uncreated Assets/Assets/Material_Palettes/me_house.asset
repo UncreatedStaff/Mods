@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "d9520c6c56ce4bde92944cc6493992f9"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/ME_House/me-house-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/ME_House/me-house-2.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/ME_House/me-house-3.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/ME_House/me-house-4.mat"
+		}
+	]
+}

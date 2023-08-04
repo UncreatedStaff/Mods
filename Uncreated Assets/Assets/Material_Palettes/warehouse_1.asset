@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "59b2fa15c9be4713bd8aea6f8dbfc392"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Warehouse_1/warehouse-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Warehouse_1/warehouse-2.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Warehouse_1/warehouse-3.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Warehouse_1/warehouse-4.mat"
+		}
+	]
+}

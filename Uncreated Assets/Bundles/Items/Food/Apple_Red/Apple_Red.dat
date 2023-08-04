@@ -1,0 +1,11 @@
+GUID cec4fffe0541403d920f59ebe3934339
+Type Food
+Useable Consumeable
+ID 29029
+
+Size_X 1
+Size_Y 1
+Size_Z 0.32
+
+Food 9
+Water 9

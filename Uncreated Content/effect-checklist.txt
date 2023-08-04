@@ -1,0 +1,199 @@
+EFFECT              IconAmmo                                                    25995     827b0c00724b466d8d33633fe2a7743a
+EFFECT              OrdersUI                                                    25996     57a08eb9c4cb4fd2ad30a3e413e29b27
+EFFECT              UnloadAmmo                                                  25997     8a2740cfc6f64ca68410145a83027735
+EFFECT              UnloadBuild                                                 25998     066c35a3e97e476a9f0a75218b4f6683
+EFFECT              ProgressToast                                               25999     a113a0f2d0af4db8b5e5bcbc17fc96c9
+EFFECT              Explosion_Hydra                                             26000     ea730f5c2efd4d508d792d6ef13228ce
+EFFECT              Explosion_20mm                                              26001     e7a07227bffb41d2aec4575548cbf910
+EFFECT              Explosion_Airstrike                                         26002     07e25c7c4aac4993bc234c543677a3a7
+EFFECT              Explosion_30mm_SAPHEI                                       26003     f2f035abc9854f49949b36f1ba5b0e56
+(16 IDs skipped)
+EFFECT              Muzzle_AA                                                   26020     4a6bdcaf87244b909fa5a9058122ce8c
+(1 IDs skipped)
+EFFECT              Explosion_AA                                                26022     04fc90dd323f477f9e38d60e009239a0
+(7 IDs skipped)
+EFFECT              Explosion_AGM                                               26030     fce656155daa49feb3e4b2effb532306
+EFFECT              Tracer_TOW                                                  26031     5e7e9379872a40059cdc7e6d189d10dd
+EFFECT              Tracer_TOW_Sound                                            26032     7b458028c9de4a449c30ed5fc201bd37
+EFFECT              Warning_Heatseaker                                          26033     1e1762d6f01442e89d159d4cd0ae7587
+EFFECT              Warning_Heatseaker_Driver                                   26034     76015227d9b1482eafd0b48c094ee5d9
+EFFECT              Countermeasures_Deploy                                      26035     94a36b73c14a468b86141ed0793ab34c
+EFFECT              Tracer_AA                                                   26036     39abdc11cd68477fa3c9b44aaf299760
+EFFECT              Tracer_AA_Sound                                             26037     5552f714ca744ab7bd0687fba0d541d3
+EFFECT              SpottedEmplacement                                          26038     f7816f7d06e1475f8e68ed894c282a74
+EFFECT              SpottedFOB                                                  26039     de142d979e12442fb9d44baf8f520751
+EFFECT              SpottedInfantry                                             26040     70f75e38a90e481190ba147f25bd6e24
+EFFECT              SpottedVehicle                                              26041     34fea0ab821141bd935b001ee82a7049
+EFFECT              SpottedAircraft                                             26042     0e90e68eff624456b76fee28a4875d14
+EFFECT              SpottedArmor                                                26043     1a25daa6f506441282cd30be48d27883
+EFFECT              Tracer_LaserGuided_Sound                                    26044     
+EFFECT              Tracer_LaserGuided                                          26045     64c3a204acd441679b9322be04016cbf
+(5254 IDs skipped)
+EFFECT              Explosion_Frag                                              31300     5058474c4bb5441d92b86d43fe53601f
+EFFECT              Explosion_Frag_Trap                                         31301     caf60ad417834ed7acbbc9e963b7a32d
+EFFECT              Explosion_Mortar                                            31302     cfdce19c09234e728c5286abc759a9bb
+EFFECT              Explosion_Mine                                              31303     2bcfb09537ce47799e0a9a3da3f44289
+EFFECT              Explosion_Artillery                                         31304     4e4cbc93ee1247ecab8ec0efb49e3c2b
+EFFECT              Explosion_C4_small                                          31305     045c856be5a747c892b741f290896375
+EFFECT              Explosion_C4_medium                                         31306     6fe6c9c04f9f4459a3a52d71068e5f31
+EFFECT              Explosion_C4_large                                          31307     93a1a4fde9b3441bb8ee6ea685531758
+EFFECT              Explosion_Smoke_White                                       31308     052c8e80d5624f5c939745a975ac00f8
+EFFECT              Explosion_Smoke_Vehicle                                     31309     8194ed028d5f453c88bb101d536abbb9
+(2003 IDs skipped)
+EFFECT              Tracer_40                                                   33313     6c10e92bca254f43850846b4b7747973
+(2686 IDs skipped)
+EFFECT              CapturingUI                                                 36000     76a9ffb4659a494080d98c8ef7733815
+EFFECT              MiniToast                                                   36001     a213915d61ad41cebab34fb12fe6870c
+EFFECT              MediumToast                                                 36002     5f695955f0da4d19adacac39140da797
+EFFECT              ToastRed                                                    36003     26fed6564ccf4c46aac1df01dbba0aab
+EFFECT              ToastWhite                                                  36004     d75046834b324ed491914b4136ab1bc8
+EFFECT              ToastYellow                                                 36005     5678a559695e4d999dfea9a771b6616f
+EFFECT              BigToast                                                    36006     9de82ffea13946b391090eb918bf3991
+EFFECT              UIFlag                                                      36006     f0430ba388414d7cb27d4ee4e0094c03    DUPLICATE
+EFFECT              CTFWinScreenUI                                              36007     b83389df1245438db18889af94f04960
+EFFECT              UIFlagHeading                                               36008     f0430ba388414d7cb27d4ee4e0094c03
+EFFECT              UIReviveButton                                              36009     27b84636ed8d4c0fb557a67d89254b00
+EFFECT              UIFlag1                                                     36010     131dbbb4a3ea447ea3dd8f14404bc787
+EFFECT              UIFlag2                                                     36011     5936362d7f29437a83556e28fcfdf5b4
+EFFECT              UIFlag3                                                     36012     d523e984da5a4c8389462af39fafaec3
+EFFECT              UIFlag4                                                     36013     0fea3f7313a3465c9ce3c25f3cbc4ec9
+EFFECT              UIFlag5                                                     36014     89613bfb3d1e4fc9bbe7d647d1d3ef24
+EFFECT              UIFlag6                                                     36015     dadb50068b39444ca6014d4181df7604
+EFFECT              UIFlag7                                                     36016     1a384ffbf421492187c0559a37a4f72d
+EFFECT              UIFlag8                                                     36017     07a3dffb695e4147bbfe6d4b05e294b3
+EFFECT              UIFlag9                                                     36018     23c9114485a24d7ab1e87550bd03fa0f
+EFFECT              UIFlag10                                                    36019     b9442c8a1c7541fe8412472475f0e123
+EFFECT              UIHab1                                                      36020     1c103a5ecd544bce93388eabd0ac5128
+EFFECT              UIHab2                                                      36021     41e8744980704851a7eca376518f33ab
+EFFECT              UIHab3                                                      36022     323bc940c37f4ff3baa94856ca44b74c
+EFFECT              UIHab4                                                      36023     0045eb961c44457f92172e94986b802b
+EFFECT              UIHab5                                                      36024     9916c97c71ea41cd81d0f7bdf3f41e14
+EFFECT              UIHab6                                                      36025     96dfb035bccb4a618d295dc6e177a3d1
+EFFECT              UIHab7                                                      36026     d0c7ec54f39f407783b7699d12a98d53
+EFFECT              UIHab8                                                      36027     053007cf15e94f1c8ff4abcef7f6ae95
+EFFECT              UIHab9                                                      36028     e1345e042aa14e95b2b630037cc57cf5
+EFFECT              UIHab10                                                     36029     b7ef9af21f754d84b58e241874d45a7e
+EFFECT              UIRally                                                     36030     a280ac3fe8c1486cadc8eca331e8ce32
+EFFECT              UIRank                                                      36031     d6de0a8025de44d29a99a41937a58a59
+EFFECT              UISquads                                                    36032     3396927a7f894b699a27e45b4ad5e3ac
+EFFECT              UIStars                                                     36033     9fd31b776b744b72847f2dc00dba93a8
+EFFECT              UITicketsRU                                                 36034     3489219ef4e14945810be1bc48f1eb52
+EFFECT              UITicketsUS                                                 36035     338ecfcbff40434bb6486293f1ba342d
+EFFECT              TeamsUI                                                     36036     8371042e5a0e417abf5b8f8024468c62
+EFFECT              UIFlagList                                                  36037     c01fe46d9b794364aca6a3887a028164
+EFFECT              UIHabList                                                   36038     2c01a36943ea45189d866f5463f8e5e9
+EFFECT              UISquadsList                                                36039     5acd091f1e7b4f93ac9f5431729ac5cc
+EFFECT              UISquadL1                                                   36040     8522cb0b3dc345fb9ec7d487867b256a
+EFFECT              UISquadL2                                                   36041     e60c963aa34e4dffa6d53ef58f933453
+EFFECT              UISquadL3                                                   36042     769564b16f854e70b38a94083fbedc4b
+EFFECT              UISquadL4                                                   36043     37d7891d258d4015ba72311c71f40879
+EFFECT              UISquadL5                                                   36044     b3407ccdee3241df9ce64064733e78b2
+EFFECT              UISquadL6                                                   36045     3606bc3e511e4f3aa39fd1a19b947957
+EFFECT              UISquadL7                                                   36046     f939d8d0eb9141b6bac7e8d893b4e04b
+EFFECT              UISquadL8                                                   36047     b5f831df15a549f89de7234e3cf38e47
+EFFECT              UISquadMenu                                                 36048     98154002fbcd4b7499552d6497db8fc5
+EFFECT              TeamsUI_US_vs_MEC                                           36049     0ce74ee0a7534851838e967ed4ea4c5e
+EFFECT              UISquadLT1                                                  36050     7e2465e7f3994164859d95c637022202
+EFFECT              UISquadLT2                                                  36051     f0e2bd8c997f4374aee2534df4fd1d31
+EFFECT              UISquadLT3                                                  36052     17c8b28df49d4e55956d8978b0e85ec1
+EFFECT              UISquadLT4                                                  36053     3b7a3373898a4d639b2f4f1274a08c7b
+EFFECT              UISquadLT5                                                  36054     214ba763096747fc95b70a13854c4576
+EFFECT              UISquadLT6                                                  36055     d9561497769146048491c706f11cb58d
+EFFECT              UISquadLT7                                                  36056     293206c2256c46fdb8c0731eb4f44156
+EFFECT              UISquadLT8                                                  36057     7d08e439b2104b80a2678b557db2ef58
+EFFECT              UITicketsMEC                                                36058     210aa2771bb34adb87d707236489ec83
+(1 IDs skipped)
+EFFECT              UISquadS1                                                   36060     e136e3032dd44b8294bd86620c5284cb
+EFFECT              UISquadS2                                                   36061     e1db8732a1cf425c8256a9a335dce61e
+EFFECT              UISquadS3                                                   36062     f653293cfecb4e98bdeeb74fb38fe09d
+EFFECT              UISquadS4                                                   36063     0cab5e363e834a209903642b7178617f
+EFFECT              UISquadS5                                                   36064     9ac029b6a9f4407da55d31efd5f6038e
+EFFECT              UISquadS6                                                   36065     6fe6a40e7d4d4670ae3a2fc1ed220bc4
+EFFECT              Header                                                      36066     c14fe9ffee6d4f8dbe7f57885f678edd
+EFFECT              InsurgencyWinScreenUI                                       36067     fd44278117b14ce6939af354ce7f37b4
+EFFECT              WinToast_US_vs_MEC                                          36068     8ffc84cb14ce482181405ad929ec8307
+EFFECT              TipToast                                                    36069     abbf74e86f1c4665925884c70b9433ba
+EFFECT              UICredits                                                   36070     3195b96457d04b9e80699777d2809b4c
+(19 IDs skipped)
+EFFECT              UIFOBResources                                              36090     3775a1e7d84b47e79cacecd5e6b2a224
+(9 IDs skipped)
+EFFECT              MarkerEmpty                                                 36100     84d38753c46e4a1b8e5b26ff44787ef2
+EFFECT              MarkerUnarmed                                               36101     28b4d205725c42be9a816346200ba1d8
+EFFECT              MarkerSquadleader                                           36102     44e8988ace914a37b7997c12a8d9f187
+EFFECT              MarkerRifleman                                              36103     08e8efff011e497ba953652f2197a3fb
+EFFECT              MarkerMedic                                                 36104     93ad1da8a885422984a9abe4e36aa169
+EFFECT              MarkerBreacher                                              36105     69602a83758b40ae9a0c9e241a4d7a26
+EFFECT              MarkerAutomaticRifleman                                     36106     413210b4424e489bb94fcacd71882c9a
+EFFECT              MarkerGrenadier                                             36107     8f1a42df30824ba3b927f290fd26be64
+EFFECT              MarkerMachineGunner                                         36108     68045950f00a46cda6f6bf4f5ee45e2d
+EFFECT              MarkerLAT                                                   36109     b4f3fbde3dbd4c48a6de689352bab1ce
+EFFECT              MarkerHAT                                                   36110     fb187276ea3e43e282541dd2d4cc56c1
+EFFECT              MarkerMarksman                                              36111     04fc36ed64864c3c933d1535ae685229
+EFFECT              MarkerSniper                                                36112     1f22b297324f491d8e397a43671c954e
+EFFECT              MarkerAPRifleman                                            36113     e697bf94b9d74e02ba6f89acce5830fb
+EFFECT              MarkerCombatEngineer                                        36114     b677dde97254483380a31c7a78152501
+EFFECT              MarkerCrewman                                               36115     36d38dbde16c4e76ba4322430696cb7d
+EFFECT              MarkerPilot                                                 36116     c29f7ce8667b4daa976c81531379007f
+EFFECT              MarkerSpecOps                                               36117     a1ebe4722dc24da5a7eef7604436c9e3
+(2 IDs skipped)
+EFFECT              MarkerMortar                                                36120     e608e0add55d4f3cbfbd6f5cabe091f3
+EFFECT              MarkerInjured                                               36121     5edcd9bb87e240428902c04e1ba04e97
+EFFECT              MarkerNearbyMedic                                           36122     0d846b64766041f6b9f1a08df88a9268
+(7 IDs skipped)
+EFFECT              SL_MarkerEmpty                                              36130     dc95d06e787e4a069518e0487645ed6b
+EFFECT              SL_MarkerUnarmed                                            36131     fc661ae0d8eb4fb3a2dcdee3b8fb6070
+EFFECT              SL_MarkerSquadleader                                        36132     be6b04b9cedf4d54b4878b4ee10ff0d5
+EFFECT              SL_MarkerRifleman                                           36133     7e10f895582b446b9bb265cfb402ae55
+EFFECT              SL_MarkerMedic                                              36134     575bafd3f3c246a0a67a06a303d68d63
+EFFECT              SL_MarkerBreacher                                           36135     db94515c46c144019510790f4857e50d
+EFFECT              SL_MarkerAutomaticRifleman                                  36136     46998d84c5b347f3a02fbc283b52a765
+EFFECT              SL_MarkerGrenadier                                          36137     b2b1a257f7e94bde909c51ba0a5e7bae
+EFFECT              SL_MarkerMachineGunner                                      36138     fc6aabbda77344f8be249f9de2e9266a
+EFFECT              SL_MarkerLAT                                                36139     2c5b3129f1b942b0864a90adb7248b7d
+EFFECT              SL_MarkerHAT                                                36140     be372546261b45c09269fd550977794f
+EFFECT              SL_MarkerMarksman                                           36141     a78823ec4a734f1c94ec02e4feba189e
+EFFECT              SL_MarkerSniper                                             36142     adbec23553e24a6eba10e9dbf981352b
+EFFECT              SL_MarkerAPRifleman                                         36143     65a2a7e1eb434649bc70e3e3be424571
+EFFECT              SL_MarkerCombatEngineer                                     36144     c5771f8815584f56ae3791aa839f6201
+EFFECT              SL_MarkerCrewman                                            36145     7626dcd783434a0b850527ca7c9c6cc2
+EFFECT              SL_MarkerPilot                                              36146     a37bafeb17264b1f9ebae34dd06537a1
+EFFECT              SL_MarkerSpecOps                                            36147     21fe1dcba8bf49caa3f7928fc2bb3f36
+(2 IDs skipped)
+EFFECT              IconRadio                                                   36150     bc6f0e7d5d9340f39ca4968bc3f7a132
+EFFECT              IconBunker                                                  36151     d7452e8671c14e93a5e9d69e077d999c
+EFFECT              IconRepair                                                  36152     bcfda6fb871f42cd88597c8ac5f7c424
+EFFECT              IconRadioDamaged                                            36153     37d5c48597ea4b61a7a87ed85a4c9b39
+EFFECT              IconCacheAttack                                             36154     26b60044bc1442eb9d0521bfea306517
+EFFECT              IconCacheDefend                                             36155     06efa2c2f9ec413aa417c717a7be3364
+EFFECT              IconBuildable                                               36156     35ab4b71bfb74755b318ce62935f58c9
+(2150 IDs skipped)
+EFFECT              Explosion_25mm_AP                                           38307     db351d2c81f74d6db576e3e320839a2a
+(1 IDs skipped)
+EFFECT              Explosion_14.5mm                                            38309     f187361715a14ad691e53e9032b7692d
+(1 IDs skipped)
+EFFECT              Explosion_30mm_HE                                           38311     f926d6fe71514b57a969aac00b970295
+EFFECT              Explosion_RPG                                               38312     8b86af8efa3e4a2098dab168f2c9f72c
+(2 IDs skipped)
+EFFECT              Explosion_25mm_HE                                           38315     a52bf78ed99c496abf4e95ff85a49472
+EFFECT              Refuel                                                      38316     1d4fa25996114b7b89b061021fcc688f
+(4 IDs skipped)
+EFFECT              Explosion_LAT                                               38321     31b727c8e2354a66be8e289c57510738
+(3 IDs skipped)
+EFFECT              Explosion_30mm_AP                                           38325     30ca1116c7e343c6bd87d8885035ceb6
+(2 IDs skipped)
+EFFECT              Explosion_Mortar                                            38328     6e43aea9057545aaa105f70056bddb53
+(41 IDs skipped)
+EFFECT              Explosion_TOW                                               38370     dd5589b5192846e4bb76c0759eea14dd
+EFFECT              Explosion_Tank_AP                                           38371     0484848629b744c9b0c4209770811cf2
+(1 IDs skipped)
+EFFECT              Explosion_Tank_HE                                           38373     82726ceeded44addab3e58ab3a699a3b
+EFFECT              Tracer_Tank                                                 38374     15f85f6c4d414503ba9a3b82b6b90a38
+(4 IDs skipped)
+EFFECT              VExplosion_APC                                              38379     68a0bddf453047dc9b43e5425db60d5a
+EFFECT              VExplosion_Car                                              38380     4f14120220124ca7bf825b2b79cf5996
+EFFECT              VExplosion_Helicopter                                       38381     51ee0a9176854a67ab2bea8cbe6d7b40
+EFFECT              VExplosion_IFV                                              38382     c6fd291f2c474ebbaa22a35150f3d34a
+(1 IDs skipped)
+EFFECT              VExplosion_Tank                                             38384     05239641fcae42b2a8cb7c800726bf0c
+(20 IDs skipped)
+EFFECT              Dig                                                         38405     f894dff1d7ef453887182accd14dc9f9

@@ -1,0 +1,9 @@
+GUID dd5589b5192846e4bb76c0759eea14dd
+Type Effect
+ID 38370
+
+Relevant_Distance 600
+Spawn_Explosion_On_Dedicated_Server
+
+CameraShake_Radius 65
+CameraShake_MagnitudeDegrees 50

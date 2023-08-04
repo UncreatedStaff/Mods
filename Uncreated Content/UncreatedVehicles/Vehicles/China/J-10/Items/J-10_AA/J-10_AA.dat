@@ -1,0 +1,58 @@
+GUID d9447148f8aa41f0ad885edd24ac5a02
+Type Gun
+Useable Gun
+Slot Primary
+ID 26039
+
+Sight 1301
+Magazine 26043
+
+Ammo_Min 6
+Ammo_Max 6
+
+Semi
+
+Magazine_Calibers 2
+Magazine_Caliber_0 26043
+Magazine_Caliber_1 26071
+
+Firerate 30
+Action Trigger
+
+Player_Damage 60
+Zombie_Damage 60
+Animal_Damage 60
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 400
+Resource_Damage 400
+Object_Damage 300
+
+Range 13
+Explosion 26022
+
+Recoil_Min_X -0.1
+Recoil_Min_Y 0.1
+Recoil_Max_X 0.1
+Recoil_Max_Y 0.2
+
+Recover_X 0.1
+Recover_Y 0.9
+
+Ballistic_Drop 0.0001
+Ballistic_Steps 1000
+Ballistic_Travel 16.5
+
+Spawn_Explosion_On_Dedicated_Server
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Muzzle 26020
+
+Reload_Time 8
+Turret

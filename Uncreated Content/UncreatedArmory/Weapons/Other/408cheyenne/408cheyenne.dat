@@ -1,0 +1,17 @@
+GUID b536e8de0dbf43b88c95148e003cbc72
+Type Supply
+ID 31384
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 5
+Count_Min 1
+Count_Max 4
+
+Blueprints 0
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31384
+Blueprint_0_Build 30

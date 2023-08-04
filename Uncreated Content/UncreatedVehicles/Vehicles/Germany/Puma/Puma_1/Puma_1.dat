@@ -1,0 +1,66 @@
+GUID 6ebf869481ed48bca9e433bb942bbef5
+Type Vehicle
+ID 38361
+
+Speed_Min -20
+Speed_Max 28
+
+Steer_Min 48
+Steer_Max 64
+
+Brake 60
+
+Fuel_Min 2500
+Fuel_Max 2500
+Fuel 2500
+Fuel_Burn_Rate 3
+
+Health_Min 500
+Health_Max 600
+Health 850
+
+Exit 4
+
+Bumper_Multiplier 2
+Bumper_Invulnerable
+Environment_Invulnerable
+Passenger_Explosion_Armor 0.001
+Child_Explosion_Armor_Multiplier 1
+
+Traction
+LockMouse
+Crawler
+
+Explosion 38382
+Invulnerable
+Tires_Invulnerable
+
+Cam_Driver_Offset 0.1
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Turrets 3
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 38383
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+Turret_0_Ignore_Aim_Camera
+
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 26065
+Turret_1_Yaw_Min -1440
+Turret_1_Yaw_Max 1440
+Turret_1_Pitch_Min 65
+Turret_1_Pitch_Max 100
+
+Turret_2_Seat_Index 2
+Turret_2_Item_ID 26064
+Turret_2_Yaw_Min -60
+Turret_2_Yaw_Max 60
+Turret_2_Pitch_Min 55
+Turret_2_Pitch_Max 110
+
+Physics_Profile ce368401ea384e708448b78713a58e5c

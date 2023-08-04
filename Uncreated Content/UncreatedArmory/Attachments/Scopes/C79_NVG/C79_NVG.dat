@@ -1,0 +1,21 @@
+GUID 1d9976d11843409db017431c3caef02c
+
+Type Sight
+Rarity Uncommon
+ID 12502
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Vision Military
+
+Nightvision_Color_B 180
+
+Nightvision_Color_G 180
+
+Nightvision_Color_R 50
+
+Zoom 3
+
+Paintable

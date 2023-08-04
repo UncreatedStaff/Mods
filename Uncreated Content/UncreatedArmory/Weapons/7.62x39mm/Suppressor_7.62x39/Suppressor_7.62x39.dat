@@ -1,0 +1,21 @@
+GUID af1683e2e680415dace1898bc7d3b2a2
+Type Barrel
+ID 31398
+
+Size_X 2
+Size_Y 1
+Size_Z 0.14
+
+Calibers 1
+Caliber_0 31398
+
+Silenced 
+Volume 0.7
+
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
+
+Paintable
+
+Exclude_From_Master_Bundle

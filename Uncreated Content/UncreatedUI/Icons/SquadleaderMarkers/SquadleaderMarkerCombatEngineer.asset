@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID c5771f8815584f56ae3791aa839f6201
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26523
+    Lifetime_Spread 0
+    Bundle_Override_Path Icons/SquadleaderMarkers/SquadleaderMarkerCombatEngineer
+}

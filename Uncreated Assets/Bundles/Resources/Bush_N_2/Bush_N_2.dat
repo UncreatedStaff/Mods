@@ -1,0 +1,11 @@
+GUID be71b708e8994175a94618917e4e4636
+Type Resource
+ID 29007
+
+Health 1
+Radius 3
+Scale 0.1
+
+Reset 1000
+
+Asset_Bundle_Version 2

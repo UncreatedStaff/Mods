@@ -1,0 +1,21 @@
+GUID f1651608505b4938b2e4025959c2e71e
+Type Barrel
+ID 31396
+
+Size_X 2
+Size_Y 1
+Size_Z 0.14
+
+Calibers 1
+Caliber_0 31396
+
+Silenced 
+Volume 0.7
+
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
+
+Paintable
+
+Exclude_From_Master_Bundle

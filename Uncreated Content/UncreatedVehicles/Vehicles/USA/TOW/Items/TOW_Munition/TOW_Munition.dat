@@ -1,0 +1,16 @@
+GUID 3128a69d06ac4bbbbfddc992aa7185a6
+Type Magazine
+ID 38341
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38341
+
+Delete_Empty

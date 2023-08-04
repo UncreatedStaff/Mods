@@ -1,0 +1,15 @@
+GUID f76572f13c214a138415f20bbc1a31c3
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 26069
+
+Size_X 3
+Size_Y 3
+Size_Z 0.65
+
+Health 80
+Range 5
+Offset 0.125
+
+Explosion 19

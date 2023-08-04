@@ -1,0 +1,54 @@
+GUID 7c4505e3b71649f7b833f2b944caf1b3
+Type Vehicle
+ID 38308
+
+Speed_Min -8
+Speed_Max 15.5
+
+Steer_Min 24
+Steer_Max 48
+
+Brake 40
+
+Fuel_Min 1500
+Fuel_Max 1500
+Fuel 1500
+Fuel_Burn_Rate 2
+
+Health_Min 500
+Health_Max 600
+Health 700
+
+Exit 4
+
+Passenger_Explosion_Armor 0.01
+
+Bumper_Invulnerable
+Environment_Invulnerable
+Child_Explosion_Armor_Multiplier 1
+
+Traction
+LockMouse
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 38379
+Invulnerable
+Tires_Invulnerable
+
+Turrets 2
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 38383
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+Turret_0_Ignore_Aim_Camera
+
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 38309
+Turret_1_Yaw_Min -1440
+Turret_1_Yaw_Max 1440
+Turret_1_Pitch_Min 40
+Turret_1_Pitch_Max 110

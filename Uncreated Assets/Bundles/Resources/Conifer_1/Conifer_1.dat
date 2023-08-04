@@ -1,0 +1,11 @@
+GUID 00f22316d27543b98f1ef2bd26cffa92
+Type Resource
+ID 38300
+
+Health 1250
+Radius 5
+Scale 0.3
+
+Explosion 23
+
+Reset 750

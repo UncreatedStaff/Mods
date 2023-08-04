@@ -1,0 +1,13 @@
+GUID b2944c55cf0e41be9a18263deda872c3
+Type Resource
+ID 38301
+
+Health 1250
+Radius 5
+Scale 0.3
+
+Explosion 23
+
+Reset 750
+
+Asset_Bundle_Version 2

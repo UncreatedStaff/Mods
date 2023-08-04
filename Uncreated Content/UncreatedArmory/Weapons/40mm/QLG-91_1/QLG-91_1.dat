@@ -1,0 +1,18 @@
+GUID c30b56e71e8d4ddca68475d6c96aa3d8
+Type Magazine
+ID 38462
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38462
+
+Explosion 31300
+
+Delete_Empty

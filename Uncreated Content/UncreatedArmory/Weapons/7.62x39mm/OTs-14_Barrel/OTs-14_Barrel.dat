@@ -1,0 +1,18 @@
+GUID d8e39999a1174e3088ba3d33926c3fce
+Type Barrel
+ID 32308
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 32308
+
+Recoil_X 0.75
+Recoil_Y 0.75
+
+Spread 0.95
+Shake 0.75
+
+Paintable

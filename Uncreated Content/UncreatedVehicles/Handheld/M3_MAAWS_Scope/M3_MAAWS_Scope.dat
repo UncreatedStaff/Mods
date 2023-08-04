@@ -1,0 +1,14 @@
+GUID 1111b22e50144804a17d1d73bff3889d
+Type Sight
+ID 38390
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Shake 0.4
+
+Calibers 1
+Caliber_0 38390
+
+Zoom 3

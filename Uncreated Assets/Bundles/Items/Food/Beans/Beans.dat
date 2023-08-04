@@ -1,0 +1,11 @@
+GUID 1b058b7464cc4778a6a3cae66376796d
+Type Food
+Useable Consumeable
+ID 30514
+
+Size_X 2
+Size_Y 2
+Size_Z 0.32
+
+Food 27
+Water 6

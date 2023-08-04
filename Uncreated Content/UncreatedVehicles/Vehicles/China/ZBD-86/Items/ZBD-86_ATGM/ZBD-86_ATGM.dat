@@ -1,0 +1,65 @@
+GUID e88e40a0ba494177ba452f276e2b01ce
+Type Gun
+Useable Gun
+Slot Primary
+ID 26051
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.7
+
+Sight 38433
+Magazine 26062
+
+Ammo_Min 1
+Ammo_Max 1
+
+Semi
+
+Caliber 26041
+
+Firerate 50
+Action Trigger
+
+Fire_Delay_Seconds 2
+
+Player_Damage 2000
+Zombie_Damage 275
+Animal_Damage 275
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 900
+Resource_Damage 1000
+Object_Damage 500
+
+Range 10
+Explosion 38370
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 5000
+
+Spawn_Explosion_On_Dedicated_Server
+
+Recoil_Min_X -2
+Recoil_Min_Y -2
+Recoil_Max_X 3
+Recoil_Max_Y 5
+
+Recover_X 0.98
+Recover_Y 0.98
+
+Reload_Time 8
+
+Muzzle 42
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Turret

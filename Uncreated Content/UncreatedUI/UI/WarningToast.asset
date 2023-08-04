@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID 4f8a6ca089a7499793c6076da9807273
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26278
+    Lifetime_Spread 0
+    Bundle_Override_Path UI/WarningToast
+}

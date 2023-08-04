@@ -1,0 +1,36 @@
+GUID 51e56807aee14d939c2aa4a8027e93a4
+Type Magazine
+ID 38320
+
+Size_X 3
+Size_Y 2
+Size_Z 0.15
+
+Amount 100
+Count_Min 100
+Count_Max 100
+
+Calibers 1
+Caliber_0 38320
+
+Tracer 38310
+
+Range 2
+Player_Damage 80
+Zombie_Damage 80
+Animal_Damage 80
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 1
+Resource_Damage 1
+Object_Damage 1
+Explosion 38309
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 38320
+Blueprint_0_Build 30
+
+Delete_Empty

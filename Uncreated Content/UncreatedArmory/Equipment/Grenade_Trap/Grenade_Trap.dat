@@ -1,0 +1,43 @@
+GUID 784bb6878b654d20a6ba48184c997b2f
+Type Trap
+Useable Barricade
+Build Spike
+ID 31476
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Health 1
+Range 4
+Radius 0.2
+Offset 0.225
+
+Player_Damage 225
+Zombie_Damage 225
+Animal_Damage 225
+Barricade_Damage 75
+Structure_Damage 75
+Vehicle_Damage 175
+Resource_Damage 625
+Object_Damage 100
+
+Range2 12
+Explosion2 31301
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 31475
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 72
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 65
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 32

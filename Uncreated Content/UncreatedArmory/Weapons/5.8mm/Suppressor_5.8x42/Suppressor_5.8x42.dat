@@ -1,0 +1,19 @@
+GUID a338c55dcca74e07b7563d0e7633ad19
+Type Barrel
+ID 38448
+
+Size_X 2
+Size_Y 1
+Size_Z 0.14
+
+Calibers 1
+Caliber_0 38448
+
+Silenced 
+Volume 0.7
+
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
+
+Paintable

@@ -1,0 +1,59 @@
+GUID 99bfd7e25f1042af90b61cacff77ec63
+Type Gun
+Useable Gun
+Slot Primary
+ID 38383
+
+Magazine 38384
+
+Ammo_Min 0
+Ammo_Max 1
+
+Auto
+
+Caliber 38384
+
+Firerate 15
+Action Trigger
+
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Durability 1
+Wear 3
+
+Spread_Aim 0.5
+Spread_Hip 0.007
+
+Recoil_Min_X -0.1
+Recoil_Min_Y 0.75
+Recoil_Max_X 0.1
+Recoil_Max_Y 1.0
+
+Recover_X 0.1
+Recover_Y 0.9
+
+Ballistic_Force 0
+Gunshot_Rolloff_Distance 50
+
+Explosive
+Explosion 31309
+Range 100
+
+Spawn_Explosion_On_Dedicated_Server
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Reload_Time 5
+Turret

@@ -1,0 +1,81 @@
+GUID 4e51ad861de844688d5634258fec758d
+Type Gun
+Useable Gun
+Slot Primary
+ID 38321
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.7
+
+Magazine 38322
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 38322
+
+Firerate 50
+Replace 0.5
+Action Trigger
+
+Player_Damage 275
+Zombie_Damage 275
+Animal_Damage 275
+Barricade_Damage 600
+Structure_Damage 600
+Vehicle_Damage 400
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 6.5
+Gunshot_Rolloff_Distance 150
+Explosion 38321
+
+Durability 1
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 2000
+
+Allow_Magazine_Change false
+
+Recoil_Min_X -6
+Recoil_Min_Y 10
+Recoil_Max_X 6
+Recoil_Max_Y 15
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38321
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 6
+Blueprint_1_Output_1_ID 61
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27

@@ -1,0 +1,14 @@
+GUID 9f1f1d9bcfa144f6b9f35d54fc5d5cf4
+Type Magazine
+ID 38427
+
+Size_X 1
+Size_Y 1
+Size_Z 0.175
+
+Amount 50
+Count_Min 0
+Count_Max 50
+
+Calibers 1
+Caliber_0 38427

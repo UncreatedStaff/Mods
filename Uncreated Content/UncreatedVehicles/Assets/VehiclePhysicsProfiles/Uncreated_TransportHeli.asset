@@ -1,0 +1,10 @@
+"Metadata"
+{
+	"GUID" "542cbb7fa3654621a11327df340829bf"
+	"Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Root_Mass" "1"
+	"Root_Angular_Drag_Multiplier" "0.85"
+}

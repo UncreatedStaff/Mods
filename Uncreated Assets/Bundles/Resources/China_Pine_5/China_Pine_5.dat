@@ -1,0 +1,11 @@
+GUID 8bb59d842ac842649eb444c6fdff7e23
+Type Resource
+ID 29102
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 100
+
+Reset 450

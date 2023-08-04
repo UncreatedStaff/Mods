@@ -1,0 +1,16 @@
+GUID 66f4c76a119e4d6ca9d0b1a866c4d901
+Type Magazine
+ID 38330
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38330
+
+Delete_Empty

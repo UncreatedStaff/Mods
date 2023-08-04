@@ -1,0 +1,49 @@
+GUID 6082d95b5fcb4805a7a2120e3e3c6f68
+Type Vehicle
+ID 38311
+
+Speed_Min -30
+Speed_Max 25
+
+Steer_Min 60
+Steer_Max 100
+
+Fuel 1750
+
+Health_Min 200
+Health_Max 300
+Health 690
+
+Exit 3
+
+Cam_Follow_Distance 16
+
+Passenger_Explosion_Armor 0.01
+
+LockMouse
+Engine Helicopter
+
+Pitch_Idle 0.9
+Pitch_Drive 0.01
+
+Trunk_Storage_X 12
+Trunk_Storage_Y 14
+
+Explosion 38381
+Tires_Invulnerable
+
+Turrets 2
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 38378
+Turret_0_Yaw_Min -40
+Turret_0_Yaw_Max 40
+Turret_0_Pitch_Min 35
+Turret_0_Pitch_Max 135
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 38378
+Turret_1_Yaw_Min -40
+Turret_1_Yaw_Max 40
+Turret_1_Pitch_Min 35
+Turret_1_Pitch_Max 135
+
+Physics_Profile 542cbb7fa3654621a11327df340829bf

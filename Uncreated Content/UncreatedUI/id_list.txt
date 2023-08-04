@@ -1,0 +1,124 @@
+29250-29300 - Items
+
+VehicleBay: 29250
+VehicleBaySign: 29251
+UAV: 29252
+
+
+26250-26500 - UI
+
+ModerationHUD: 26250
+WarfareHUD: 26251
+ActionMenu: 26252
+LargeToast: 26253
+Buffs: 26254
+CaptureProgress: 26255
+ConventionalLeaderboard: 26256
+TicketCount: 26257
+GameOverToast: 26258
+StagingPhaseCountdown: 26259
+
+MediumToast: 26261
+MiniToast: 26262
+ProgressToast: 26263
+TipToast: 26264
+CreditsHUD: 26265
+FlagListHUD: 26266
+SuppliesHUD: 26267
+FOBListHUD: 26268
+KitMenuHUD: 26269
+RallyHUD: 26270
+PointsHUD: 26271
+ReviveHUD: 26272
+SquadMenuHUD: 26273
+SquadListHUD: 26274
+TeamSelectorHUD: 26275
+MutedNotificationHUD: 26276
+Popup: 26277
+WarningToast: 26278
+
+26500-26750 - Icons
+
+MarkerAPRifleman: 26500
+MarkerAutomaticRifleman: 26501
+MarkerBreacher: 26502
+MarkerCombatEngineer: 26503
+MarkerCrewman: 26504
+MarkerEmpty: 26505
+MarkerGrenadier: 26506
+MarkerHAT: 26507
+MarkerLAT: 26508
+MarkerMachineGunner: 26509
+MarkerMarksman: 26510
+MarkerMedic: 26511
+MarkerPilot: 26512
+MarkerRifleman: 26513
+MarkerSniper: 26514
+MarkerSpecOps: 26515
+MarkerSquadleader: 26516
+MarkerUnarmed: 26517
+
+SquadleaderMarkerAPRifleman: 26520
+SquadleaderMarkerAutomaticRifleman: 26521
+SquadleaderMarkerBreacher: 26522
+SquadleaderMarkerCombatEngineer: 26523
+SquadleaderMarkerCrewman: 26524
+SquadleaderMarkerEmpty: 26525
+SquadleaderMarkerGrenadier: 26526
+SquadleaderMarkerHAT: 26527
+SquadleaderMarkerLAT: 26528
+SquadleaderMarkerMachineGunner: 26529
+SquadleaderMarkerMarksman: 26530
+SquadleaderMarkerMedic: 26531
+SquadleaderMarkerPilot: 26532
+SquadleaderMarkerRifleman: 26533
+SquadleaderMarkerSniper: 26534
+SquadleaderMarkerSpecOps: 26535
+SquadleaderMarkerSquadleader: 26536
+SquadleaderMarkerUnarmed: 26537
+
+FriendlyInjured: 26540
+FriendlyMedic: 26541
+
+IconAmmo: 26550
+IconBuildable: 26551
+IconBunker: 26552
+IconCacheAttack: 26553
+IconCacheDefend: 26554
+IconRadio: 26555
+IconRadioDamaged: 26556
+IconRepair: 26557
+
+ActionAirSupport: 26560
+ActionArmorSupport: 26561
+ActionAttack: 26562
+ActionBuild: 26563
+ActionDefend: 26564
+ActionDropOff: 26565
+ActionMove: 26566
+ActionNearbyMedic: 26567
+ActionNearbyRifleman: 26568
+ActionNeedAmmo: 26569
+ActionNeedMedic: 26570
+ActionNeedRide: 26571
+ActionNeedSupport: 26572
+ActionPickup: 26573
+ActionReinforcements: 26574
+ActionSuppliesAmmo: 26575
+ActionSuppliesBuild: 26576
+
+SpottedAA: 26580
+SpottedAPC: 26581
+SpottedATGM: 26582
+SpottedAttackHeli: 26583
+SpottedFOB: 26584
+SpottedHMG: 26585
+SpottedHumvee: 26586
+SpottedIFV: 26587
+SpottedInfantry: 26588
+SpottedJet: 26589
+SpottedMBT: 26590
+SpottedMortar: 26591
+SpottedScoutCar: 26592
+SpottedTransportHeli: 26593
+SpottedTruck: 26594

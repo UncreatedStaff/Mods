@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID 3a3255cb8c854da8b270b5b1f3395d90
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26251
+    Lifetime_Spread 0
+    Bundle_Override_Path UI/WarfareHUD
+}

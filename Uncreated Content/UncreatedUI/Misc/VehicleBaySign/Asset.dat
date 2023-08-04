@@ -1,0 +1,28 @@
+Metadata
+{
+    GUID 5251c3bcaabb4a15b9e631e19c037ec1
+    Type SDG.Unturned.ItemBarricadeAsset, Assembly-CSharp
+}
+Asset
+{
+    Type Barricade
+    Rarity Epic
+    Useable Barricade
+    Build Sign
+    ID 29251
+
+    Size_X 2
+    Size_Y 2
+    Size_Z 0.48
+
+    Health 1100
+    Range 4
+    Radius 0.5
+
+    Locked
+
+    Explosion 36
+
+    Should_Verify_Hash false
+    Bypass_Hash_Verification
+}

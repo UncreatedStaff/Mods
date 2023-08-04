@@ -1,0 +1,18 @@
+GUID ccf8a9df6160420788af150378355ee7
+Type Magazine
+ID 26031
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 26031
+
+Explosion 26030
+
+Delete_Empty

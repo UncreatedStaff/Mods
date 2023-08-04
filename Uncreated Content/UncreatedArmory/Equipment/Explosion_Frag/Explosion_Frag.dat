@@ -1,0 +1,11 @@
+GUID 5058474c4bb5441d92b86d43fe53601f
+Type Effect
+ID 31300
+
+Blast 137
+
+Relevant_Distance 600
+Spawn_Explosion_On_Dedicated_Server
+
+CameraShake_Radius 45
+CameraShake_MagnitudeDegrees 40

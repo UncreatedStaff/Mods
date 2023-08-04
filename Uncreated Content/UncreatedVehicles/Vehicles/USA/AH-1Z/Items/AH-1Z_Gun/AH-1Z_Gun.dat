@@ -1,0 +1,75 @@
+GUID e929441a7bf7471b80072654275255c1
+Type Gun
+Useable Gun
+Slot Primary
+ID 26007
+
+Sight 1301
+Magazine 26008
+
+Ammo_Min 150
+Ammo_Max 150
+
+Auto
+
+Caliber 26008
+
+Range 400
+Firerate 3
+Action Minigun
+
+Player_Damage 75
+Player_Leg_Multiplier 0.8
+Player_Arm_Multiplier 0.8
+Player_Spine_Multiplier 1.0
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 75
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 1.0
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 75
+Animal_Leg_Multiplier 0.8
+Animal_Spine_Multiplier 1.0
+Animal_Skull_Multiplier 1.5
+
+Barricade_Damage 3
+Structure_Damage 3
+Vehicle_Damage 3
+Resource_Damage 30
+Object_Damage 3
+
+Invulnerable
+
+Durability 1
+Wear 3
+
+Spread_Aim 0.5
+Spread_Hip 0.0125
+
+Recoil_Min_X -0.1
+Recoil_Min_Y 0.2
+Recoil_Max_X 0.1
+Recoil_Max_Y 0.35
+
+Recover_X 0.1
+Recover_Y 0.9
+
+Ballistic_Drop 0.0003
+Ballistic_Steps 1000
+
+Spawn_Explosion_On_Dedicated_Server
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Muzzle 4
+
+Reload_Time 7
+Turret

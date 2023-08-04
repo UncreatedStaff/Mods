@@ -1,0 +1,45 @@
+GUID 8c8626cad8914e74868cc8936623be77
+Type Magazine
+ID 26015
+
+Size_X 4
+Size_Y 2
+Size_Z 0.15
+
+Amount 80
+Count_Min 80
+Count_Max 80
+
+Calibers 1
+Caliber_0 26015
+
+Explosion 26003
+Explosive
+Range 4
+
+Player_Damage 200
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 1.0
+Player_Skull_Multiplier 1.0
+
+Zombie_Damage 200
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 1.0
+Zombie_Skull_Multiplier 1.0
+
+Animal_Damage 200
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 1.0
+Animal_Skull_Multiplier 1.0
+
+Tracer 38310
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 26015
+Blueprint_0_Build 30
+
+Delete_Empty

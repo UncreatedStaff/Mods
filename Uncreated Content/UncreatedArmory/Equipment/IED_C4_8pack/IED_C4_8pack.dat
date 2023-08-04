@@ -1,0 +1,49 @@
+GUID 5dcdd5293e31475a9d9207a792fdc3e8
+Type Charge
+Useable Barricade
+Build Charge
+ID 31914
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 1
+Range 4
+Offset 0.1
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 2600
+Structure_Damage 2600
+Vehicle_Damage 700
+Resource_Damage 2000
+Object_Damage 1000
+
+Range2 24
+Explosion2 31307
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 6
+Blueprint_0_Supply_0_ID 31910
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 31903
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 31904
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 31907
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 69
+Blueprint_0_Supply_4_Amount 2
+Blueprint_0_Supply_5_ID 70
+Blueprint_0_Supply_5_Amount 2
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32

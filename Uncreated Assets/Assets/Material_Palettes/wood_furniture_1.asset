@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "94160bc7477043e183ae35b11c9f90a3"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Wood_Furniture_1/wood-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Wood_Furniture_1/wood-2.mat"
+		}
+	]
+}

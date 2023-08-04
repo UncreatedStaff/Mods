@@ -1,0 +1,15 @@
+GUID d6eb8ac004964d51ab3ff222b1b8be08
+Type Sight
+ID 38428
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Shake 0.4
+Sway 0
+
+Calibers 1
+Caliber_0 38427
+
+Zoom 16

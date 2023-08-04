@@ -1,0 +1,11 @@
+GUID 99446dd516b1446a847924de24041167
+Type Food
+Useable Consumeable
+ID 30526
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Food 8
+Water 2

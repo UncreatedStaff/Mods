@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID 6e7dadbfafbe46ecbe565499f901670f
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26569
+    Lifetime_Spread 0
+    Lifetime 1
+    Bundle_Override_Path Icons/Actions/NeedAmmo
+}

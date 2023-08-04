@@ -1,0 +1,17 @@
+GUID 513208d2a46c4a63ab214fb7ae38564c
+Type Water
+Useable Consumeable
+ID 30502
+
+Size_X 1
+Size_Y 2
+Size_Z 0.32
+
+Water 20
+Energy 15
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27

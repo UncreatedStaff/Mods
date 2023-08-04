@@ -1,0 +1,4 @@
+# masterbundle files
+*.masterbundle
+*.masterbundle.hash
+*.masterbundle.manifest

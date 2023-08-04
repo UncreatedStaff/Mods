@@ -1,0 +1,23 @@
+GUID ef13f4ebe7284a66925bea333ed82489
+Type Backpack
+Useable Clothing
+ID 31154
+
+Size_X 3
+Size_Y 3
+Size_Z 0.6
+
+Width 8
+Height 6
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 31154
+Blueprint_0_Product 66
+Blueprint_0_Products 4
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Build 32

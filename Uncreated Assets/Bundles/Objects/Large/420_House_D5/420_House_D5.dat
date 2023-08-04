@@ -1,0 +1,14 @@
+GUID 448fa4fb80b64005b88802e9ba8fb5a0
+Type Large
+ID 29011
+
+LOD None
+
+Rubble Destroy
+Rubble_Reset 1800
+Rubble_Health 1000
+Rubble_Effect 66
+
+Invulnerable
+
+Material_Palette 18a1012fd71442f7a8de0534afb8c258

@@ -1,0 +1,8 @@
+GUID cfdce19c09234e728c5286abc759a9bb
+Type Effect
+ID 31302
+
+Blast 137
+
+CameraShake_Radius 80
+CameraShake_MagnitudeDegrees 50

@@ -1,0 +1,16 @@
+GUID c936c8ba22c1498b87d4fe113b65287b
+Type Magazine
+ID 26035
+
+Size_X 5
+Size_Y 3
+Size_Z 0.45
+
+Amount 5
+Count_Min 5
+Count_Max 5
+
+Calibers 1
+Caliber_0 26035
+
+Delete_Empty

@@ -1,0 +1,38 @@
+GUID d053c04af59b4985b463d160a92af331
+Type Magazine
+ID 31362
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Amount 6
+Count_Min 1
+Count_Max 5
+
+Calibers 1
+Caliber_0 31361
+
+Pellets 1
+Spread 1.0
+Ballistic_Damage_Multiplier 6
+
+Tracer 33310
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31365
+Blueprint_0_Product 31362
+Blueprint_0_Products 2
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31362
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31428
+Blueprint_2_Build 30
+
+Delete_Empty

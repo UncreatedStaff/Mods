@@ -1,0 +1,66 @@
+GUID d6424d034309417dbc5f17814af905a8
+Type Gun
+Useable Gun
+Slot Primary
+ID 38328
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.7
+
+Sight 1301
+Magazine 38330
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 38330
+
+Firerate 50
+Replace 0.5
+Action Trigger
+
+Player_Damage 350
+Zombie_Damage 350
+Animal_Damage 350
+Barricade_Damage 300
+Structure_Damage 300
+Vehicle_Damage 200
+Resource_Damage 1000
+Object_Damage 500
+
+Range 32
+Explosion 38328
+
+Durability 1
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 2000
+
+Spawn_Explosion_On_Dedicated_Server
+
+Recoil_Min_X -2
+Recoil_Min_Y -2
+Recoil_Max_X 3
+Recoil_Max_Y 5
+
+Recover_X 0.98
+Recover_Y 0.98
+
+Reload_Time 2
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Turret

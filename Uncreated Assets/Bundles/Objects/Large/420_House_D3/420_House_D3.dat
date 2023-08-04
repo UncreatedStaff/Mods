@@ -1,0 +1,12 @@
+GUID 693d7985959642eb999d3673bfde8268
+Type Large
+ID 38302
+
+LOD None
+
+Rubble Destroy
+Rubble_Reset 1800
+Rubble_Health 275
+Rubble_Effect 66
+
+Material_Palette 18a1012fd71442f7a8de0534afb8c258

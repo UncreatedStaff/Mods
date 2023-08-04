@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID 706671c9e5c24bae8eb74c9c4631cc59
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26560
+    Lifetime_Spread 0
+    Lifetime 1.5
+    Bundle_Override_Path Icons/Actions/AirSupport
+}

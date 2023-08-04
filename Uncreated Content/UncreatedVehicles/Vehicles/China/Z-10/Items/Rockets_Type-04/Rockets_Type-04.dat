@@ -1,0 +1,16 @@
+GUID d28a0d5ec16942889b65f716080e74f8
+Type Magazine
+ID 26055
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+
+Amount 16
+Count_Min 16
+Count_Max 16
+
+Calibers 1
+Caliber_0 26055
+
+Delete_Empty

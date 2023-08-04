@@ -1,0 +1,11 @@
+GUID 9e8d473e4aa64906b289e72fb1645975
+Type Resource
+ID 29013
+
+Health 1
+Radius 3
+Scale 0.1
+
+Reset 1000
+
+Asset_Bundle_Version 2

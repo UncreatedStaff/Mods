@@ -1,0 +1,26 @@
+GUID 09ef20baef4744ec93824f508a5fc4e3
+Type Magazine
+ID 26044
+
+Size_X 5
+Size_Y 3
+Size_Z 0.45
+
+Amount 6
+Count_Min 6
+Count_Max 6
+
+Calibers 1
+Caliber_0 26044
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 26027
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 26044
+Blueprint_1_Build 30
+
+Delete_Empty

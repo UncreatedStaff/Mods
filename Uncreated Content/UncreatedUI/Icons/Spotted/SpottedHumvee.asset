@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID 99a84b82f9bd433891fdb99e80394bf3
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26586
+    Lifetime_Spread 0
+    Lifetime 0.5
+    Bundle_Override_Path Icons/Spotted/Humvee
+}

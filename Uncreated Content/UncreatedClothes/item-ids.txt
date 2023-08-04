@@ -1,0 +1,226 @@
+SHIRT                Flora Jacket                                               30700     f5c88106d5324175815e730b3b1b897e
+PANTS                Flora Pants                                                30701     cede4da725eb4749b66b9d138b0e557d
+(1 IDs skipped)
+HAT                  Flora Ballistic Helmet                                     30703     bd1e37ece7854683a0e157877b411eea
+HAT                  Flora Ballistic Helmet                                     30704     e495734ebe274a0085d8b299b5897cb4
+HAT                  Flora Medic Helmet                                         30705     f12b6c24f3634dfeb5a81f22f8ca8aca
+HAT                  Flora Flex Cap                                             30706     64b0d3b82df3461795a87639f205cab9
+HAT                  Green Beret                                                30707     8f30d92410f94318912b8a09f3ccdb9d
+BACKPACK             Flora Camo Rugged Pack                                     30708     25679323c2f44fc98686864bf193385d
+BACKPACK             Flora Camo Dufflebag                                       30709     e2f28aeff06d4a578015243347839d84
+SHIRT                Woodlands Jacket                                           30710     a16f575745384744bf99033faea1052e
+PANTS                Woodlands Pants                                            30711     0b3743eb566d416ea309daa54f218e71
+(1 IDs skipped)
+HAT                  Woodlands Ballistic Helmet                                 30713     90c733b2aad742db958b834387ca65e0
+HAT                  Woodlands Ballistic Helmet                                 30714     6e54ef44e4154b5bb643c71d4f3a7ff5
+HAT                  Woodlands Ballistic Helmet                                 30715     ecb249c3bf42492e9a84b093328f0417
+HAT                  Woodlands Medic Helmet                                     30716     3debb53ccd604cf2861af014980cb89d
+HAT                  Woodlands Flex Cap                                         30717     98c4087de8ca4b059bb26f0fed7f7e51
+BACKPACK             Woodlands MOLLE Pack                                       30718     878c39a860954e22a799f92ddc7fb707
+BACKPACK             Woodlands Camo Rugged Pack                                 30719     7f49caf0357f4a9e8bb873b0da2a2ab8
+BACKPACK             Woodlands Camo Dufflebag                                   30720     ac75cf9849324fb3b4fa8fed3be12c69
+(59 IDs skipped)
+SHIRT                Lizard Jacket                                              30780     b9d5f63ed6f84a5c8c339a86828e0642
+PANTS                Lizard Pants                                               30781     3f0ad0fd305f4deea96a84d4c9ebaae0
+(8 IDs skipped)
+SHIRT                Soviet Coat                                                30790     157148a3ebfb447e948b04cdd83d9335
+PANTS                Soviet Pants                                               30791     ef9852b99d9e4591904fb42ab9f46134
+HAT                  Soviet Helmet                                              30792     d8c9b02f6ad74216ae25ddd4a98d721c
+HAT                  Soviet Beret                                               30793     87e9589a0593497e808af86e12a1545e
+(5 IDs skipped)
+SHIRT                Drip Jacket                                                30799     1e0ad1c7047a4a179e28e9a7398d3158
+SHIRT                Urban Jacket                                               30800     ee5ecff41ebd4ee082bea183db01193c
+PANTS                Urban Pants                                                30801     ad3740ed150040edafef80594b89357d
+VEST                 Urban Tactial Rig                                          30802     b5c9c2284ac547b59bad4bf7ad23b602
+VEST                 Urban Ballistic Plate Carrier L-III                        30803     aedbc45bb0554e54867d871f703c2f1b
+(1 IDs skipped)
+HAT                  Urban Ballistic Helmet                                     30805     05e3c4d7ecd34df19306f84cce5e39f3
+HAT                  Urban Ballistic Helmet                                     30806     ad3953faea8f4fb5a16bc5df8c2196aa
+HAT                  Urban Ballistic Helmet                                     30807     0cd25f11b5864c0e99c1ad7ca4f8ad7d
+HAT                  Urban Medic Helmet                                         30808     d69038a8854c440b9954649804d473c6
+BACKPACK             Urban MOLLE Pack                                           30809     83075cc3512f4f209a0b32d309c22f56
+BACKPACK             Urban Camo Rugged Pack                                     30810     187f80da72a34138be98e0d47da9565f
+BACKPACK             Urban Camo Dufflebag                                       30811     e15ec137bf23452a8ae045681581714d
+HAT                  Urban Flex Cap                                             30812     673d555ef57e4ec9941cb227b59d6a7c
+(7 IDs skipped)
+SHIRT                SURPAT Jacket                                              30820     58e6b06c1d5744d6a70a142eb01ecaea
+PANTS                SURPAT Pants                                               30821     df5e23e8e71143978deca7c7ea05e6c4
+VEST                 SURPAT Tactial Rig                                         30822     c9156965ad864b29aa16f51da1ae6c7e
+VEST                 SURPAT Ballistic Plate Carrier L-III                       30823     0a14289884ff4e55b04bacd492b9daf4
+HAT                  SURPAT Flex Cap                                            30824     19531b378ee94857b87472b81226c0e7
+(1 IDs skipped)
+HAT                  Urban Ballistic Helmet                                     30826     1841e1db325f4b0e95df8c13a41a91cb
+(13 IDs skipped)
+SHIRT                Flecktarn Jacket                                           30840     fc4a2a49f335489a84e294ca03031a82
+PANTS                Flecktarn Pants                                            30841     31ed5cd8918e4693bc7431483b130e05
+VEST                 Flecktarn Tactial Rig                                      30842     2499cebdfc6646c59103a48f06c4838a
+VEST                 Flecktarn Ballistic Plate Carrier L-III                    30843     8054f85c70ac428699153ef5395d074d
+HAT                  Flecktarn Flex Cap                                         30844     b71473d6e2b44b62aa5aa0911a19c2b0
+HAT                  Flecktarn Ballistic Helmet                                 30845     835dc9e72f46431a9bed591bcbbfb081
+HAT                  Flecktarn Ballistic Helmet                                 30846     2813e9e1f9f5430482313cbd09c338a4
+(2 IDs skipped)
+BACKPACK             Flecktarn MOLLE Pack                                       30849     b07cb55b781f453ba1c09edfefa36d09
+BACKPACK             Flecktarn Camo Rugged Pack                                 30850     9addb6f54920495cb4826cb5c000ed4b
+BACKPACK             Flecktarn Camo Dufflebag                                   30851     006e53351ee74ebc8a228423ae26adf2
+(8 IDs skipped)
+SHIRT                Pantera Jacket                                             30860     71d35bb681f34b7196bb0e6685106ec4
+PANTS                Pantera Pants                                              30861     bf302a8dda994fc08897ed372d8c8cd7
+VEST                 Pantera Tactial Rig                                        30862     44bc4c4333564c61a2e86bd4c2809203
+VEST                 Pantera Ballistic Plate Carrier L-III                      30863     18a50a13426d4bc6895b7095e1dc4884
+HAT                  Pantera Flex Cap                                           30864     2d969172b039473ab1bdbc7f5b962cf5
+HAT                  Pantera Ballistic Helmet                                   30865     ece14052a9d64994a3ef2ab1dc27a073
+(4 IDs skipped)
+BACKPACK             Pantera Camo Rugged Pack                                   30870     90f7aa3817834edd82c6458fffbc2780
+(9 IDs skipped)
+SHIRT                Legionnaire Jacket                                         30880     e301b323c52d4feba57fe31e8dea2bca
+PANTS                Legionnaire Pants                                          30881     af4625a9a5e04aa8b9105e08c869998f
+VEST                 Legionnaire Tactial Rig                                    30882     5ead83aa50984bc085e1dcf34afc606c
+VEST                 Legionnaire Ballistic Plate Carrier L-III                  30883     7a0997d76e8f4c15a28a3926712c76b2
+HAT                  Legionnaire Flex Cap                                       30884     daf06b1d894f49e8a8352c9a9a0c1125
+HAT                  Legionnaire Ballistic Helmet                               30885     b53b694277184045a01ce82c55f81029
+HAT                  Legionnaire Ballistic Helmet                               30886     394adeb51d584e32960a4a58300cb1d9
+(2 IDs skipped)
+BACKPACK             Legionnaire MOLLE Pack                                     30889     a5d911ba6c464f89a9913cf198316c53
+(10 IDs skipped)
+SHIRT                CADPAT Jacket                                              30900     ae976b9a82ba48a488ae71e4ca3cee55
+PANTS                CADPAT Pants                                               30901     573275f5925c452c96805e9fc5e52d37
+VEST                 CADPAT Tactial Rig                                         30902     4626fb373ab648d0b2a67d3fe58017cc
+VEST                 CADPAT Ballistic Plate Carrier L-III                       30903     06de9e65b58e440288becea0695e0692
+HAT                  CADPAT Flex Cap                                            30904     2c02f688654948fdb58b7b303a9a4fc0
+HAT                  CADPAT Ballistic Helmet                                    30905     6e25bcbc24f047698a26d1da3831068f
+HAT                  CADPAT Ballistic Helmet                                    30906     365054b2139e4b119209d809dcb5cfb6
+(2 IDs skipped)
+BACKPACK             CADPAT MOLLE Pack                                          30909     efb51b45aca34676a5d45ce8f28b7ed7
+BACKPACK             CADPAT Camo Rugged Pack                                    30910     f5e8c11df7d64812988d3c7335f931bb
+BACKPACK             CADPAT Camo Dufflebag                                      30911     f8554a2a550b4e26a9a96ad647f4facd
+(8 IDs skipped)
+SHIRT                Olive Jacket                                               30920     77dc77768d8f4d6b921bbe9a876432d0
+PANTS                Olive Pants                                                30921     bc16600f78d248c7b108c912ee6a759f
+VEST                 Olive Tactial Rig                                          30922     5fbd2fdc5b454606993afff708244e20
+VEST                 Olive Ballistic Plate Carrier L-III                        30923     cc160021ea434a028eb4799859d12278
+HAT                  Olive Flex Cap                                             30924     4efb293de1e04ff4b12b500f02aa9dfd
+HAT                  Olive Ballistic Helmet                                     30925     6fa1828a5db147bca1c598e5b41fa319
+(4 IDs skipped)
+BACKPACK             Olive Camo Rugged Pack                                     30930     67e14c9892b4459bb0d5b7f394f7f91d
+(9 IDs skipped)
+SHIRT                Multicam Jacket                                            30940     1d8c612e186b4f1588099c663d9d7a44
+PANTS                Multicam Pants                                             30941     1a1c1a0065f64543b069e3784f58d5a7
+VEST                 Multicam Tactial Rig                                       30942     5a7753b4801948c6b875d6589a2c4398
+VEST                 Multicam Ballistic Plate Carrier L-III                     30943     35ea565ae6cd472baac8643b6285b61c
+HAT                  Multicam Flex Cap                                          30944     b26491c7869a47059f2406b45d327e49
+(1 IDs skipped)
+HAT                  Multicam Ballistic Helmet                                  30946     3b5515fb78f74b34bc67e52feb549e91
+HAT                  Multicam Ballistic Helmet                                  30947     b5aa25b5fc9d40eb9a0f639209d08855
+HAT                  Multicam Medic Helmet                                      30948     c73147f37cea4ca89bc0d62288fd986e
+BACKPACK             Multicam MOLLE Pack                                        30949     7971e03a140149f5bbad7d1c51bc7731
+BACKPACK             Multicam Camo Rugged Pack                                  30950     
+BACKPACK             Multicam Camo Dufflebag                                    30951     96a7b8b901d74697b39ce41260ebc1c7
+(8 IDs skipped)
+SHIRT                Kalahari Jacket                                            30960     760f1e854d904bcf902b42c22015aa2a
+PANTS                Kalahari Pants                                             30961     b1ca137776964c1f9bb2cd4f19b4d7b5
+VEST                 Kalahari Tactial Rig                                       30962     060cc097e5a642ff85bedaca7a46c188
+VEST                 Kalahari Ballistic Plate Carrier L-III                     30963     412d79398a4e49519cc589ed85d751f8
+HAT                  Kalahari Flex Cap                                          30964     c8ba6f5b90ca4fb69f5013b857159f87
+HAT                  Kalahari Ballistic Helmet                                  30965     1fb9ad79c8d14168bdbcdcb33ed50064
+HAT                  UN Ballistic Helmet                                        30966     3ca10cc73d9f4240b6bf519d1f117241
+(3 IDs skipped)
+BACKPACK             Kalahari Camo Rugged Pack                                  30970     0cd247d2c01643e49945ab37b16a6a0a
+(9 IDs skipped)
+SHIRT                Chocolate Jacket                                           30980     16d972440c704ad284155369cd5f1e13
+PANTS                Chocolate Pants                                            30981     3c0e787a6f034545800023ac3aa589e4
+VEST                 Chocolate Tactial Rig                                      30982     b9b61f2d8b1d472d8430991e08e9450e
+VEST                 Chocolate Ballistic Plate Carrier L-III                    30983     ff109681ff93457b84cdafb815ae7b79
+HAT                  Chocolate Ballistic Helmet                                 30984     f10b4420b7c74fa49e09c69ec27709f6
+HAT                  Chocolate Ballistic Helmet                                 30985     0de443ddb14e4ba099710078400a9783
+HAT                  Chocolate Ballistic Helmet                                 30986     5ce50e8846fc4f92b04f134f16cd76d8
+HAT                  Chocolate Ballistic Helmet                                 30987     cc826bcf8d224298815fa872cfe62f75
+HAT                  Chocolate Medic Ballistic Helmet                           30988     508bb1a5a3654fae88f8f87705386471
+HAT                  Chocolate Flex Cap                                         30989     55507c0c5f7e4e15abb4bd8380962df1
+HAT                  Black Beret                                                30990     d1ae2305f9f74b33b0a28ea98a99fcce
+BACKPACK             Chocolate Assault Pack                                     30991     2f077bfd25074bad9d8e24d5af29fab4
+BACKPACK             Chocolate Camo Rugged Pack                                 30992     aee6a50b0d134ec4a2866f44a9769d50
+(110 IDs skipped)
+VEST                 Khaki Tactial Rig                                          31103     9040a19be6ff4b08aa270a37dfd4f421
+(13 IDs skipped)
+HAT                  Multicam Ballistic Helmet                                  31117     9b14747d30c94b168898b14b3b03cbdd
+(5 IDs skipped)
+VEST                 Green Tactial Rig                                          31123     8bcb7b352fe841d88cf421f2d7aa760e
+(1 IDs skipped)
+SHIRT                Clover Fatigues Jacket                                     31125     8263185c06664c30a9b7a69bae4ffbf0
+PANTS                Clover Fatigues Pants                                      31126     ee3a9f07211d4291b5ae005a10ccd147
+HAT                  Clover Ballistic Helmet                                    31127     470f58998ea24200a165741b1311d049
+HAT                  Red Beret                                                  31128     32b273224e39400eb99be470c29f651a
+(22 IDs skipped)
+BACKPACK             Black Rugged Pack                                          31151     68170172cf2a4dff8ecbd83964a0c13f
+BACKPACK             Brown Rugged Pack                                          31152     8421b813dc2a4345bf0e96c4b8773661
+(1 IDs skipped)
+BACKPACK             Desert Rugged Pack                                         31154     ef13f4ebe7284a66925bea333ed82489
+(1 IDs skipped)
+BACKPACK             Green Rugged Pack                                          31156     21f6dd73c756470d9be43aaf694a3632
+(1 IDs skipped)
+BACKPACK             Tan Camo Rugged Pack                                       31158     118c5783814847e7bfe6eac1caa11568
+(2 IDs skipped)
+BACKPACK             Large Rucksack                                             31161     cb3c333eadc64b3d9d0a6d8699805862
+(1 IDs skipped)
+BACKPACK             Black Dufflebag                                            31163     e6ac27f970f1459885d16cb3372b51e3
+BACKPACK             Brown Dufflebag                                            31164     48c52a812d174a58819757234dd4264e
+(2 IDs skipped)
+BACKPACK             Green Dufflebag                                            31167     5288b670fc2449cfae945ba7692df45f
+(3 IDs skipped)
+BACKPACK             Black Stowpack                                             31171     a934c1e6f1b9446286af28fa4f9a7bbb
+BACKPACK             Blue Stowpack                                              31172     5e5abffd135741e3b2f733b8e90f80da
+BACKPACK             Green Stowpack                                             31173     dc157420d3294c58b358d8d764d2d1a3
+BACKPACK             Orange Stowpack                                            31174     6226e865663a44b2ac84b57d990de65c
+BACKPACK             Purple Stowpack                                            31175     e6c12695dff44f54b39eea2395db1e1c
+BACKPACK             Red Stowpack                                               31176     2ba3108e533f418e94f0d895d2968315
+BACKPACK             White Stowpack                                             31177     174b09d4844c450a9a504399af8adaac
+BACKPACK             Yellow Stowpack                                            31178     483751fae0b0445f84bed5e59c4e02be
+(1 IDs skipped)
+VEST                 Khaki Bullet-Proof Vest L-III                              31180     9e2ef658ffc84546a1621499aa773e39
+VEST                 Black Bullet-Proof Vest L-III                              31181     61b5e3823ab049c5957f3281fd1e7af0
+(1 IDs skipped)
+VEST                 Green Bullet-Proof Vest L-III                              31183     53739b5b9ca2415b92471493a7b8e281
+(1 IDs skipped)
+VEST                 Police Bullet-Proof Vest L-II                              31185     5991fe2c4e864f61876f88ab68675ab9
+(4 IDs skipped)
+HAT                  Red Headband                                               31190     9da7219b193d4c8b90e3eb74d951f73e
+HAT                  Blue Headband                                              31191     410dd86f0a774ea2ab112a43c01ab396
+HAT                  Brown Headband                                             31192     159410f932df48cd8e2f3538ac084200
+HAT                  Black Headband                                             31193     3545af1876e34456a6175eb2877a2e94
+HAT                  Green Headband                                             31194     96a175c3ecaf4056a1f8c8330ff2cf51
+HAT                  Orange Headband                                            31195     ee3936b656014b13ad61cdc5649ae16f
+(4 IDs skipped)
+HAT                  Black Durag                                                31200     a562af9785e04133bbc604c5d06cf61b
+HAT                  Red Durag                                                  31201     ff2815f646dc44ee94b4ca23a2a50cfb
+HAT                  Purple Durag                                               31202     81175840f0904626abe3fce326cdc26d
+HAT                  Tan Durag                                                  31203     dc523781e438481e8b89ecdddccb58ff
+HAT                  Brown Durag                                                31204     619c8e91f175468bb31f0dc153b76991
+HAT                  Khaki Durag                                                31205     99ab897d983c4892bdb1ad52a1286d0f
+(4 IDs skipped)
+HAT                  Purple Head Bandana                                        31210     5cbf256dc336417e82e669c65d864e6d
+(9 IDs skipped)
+MASK                 Brown Bandana                                              31220     60d1fa4ade504c819b42801c5003a50b
+MASK                 Black Bandana                                              31221     475b8c3e39df4280957a08073cec2562
+MASK                 Tan Bandana                                                31222     dca0fc67ca7a41caa967fd11ea8ac7df
+MASK                 Khaki Bandana                                              31223     3a7ff1898393450187e970abfc3efbf1
+MASK                 Purple Bandana                                             31224     9ff609199e464d3c86502c06f3cf1964
+MASK                 Red Bandana                                                31225     7c5720a13b934abea7ae1abee5841013
+(4 IDs skipped)
+HAT                  Clover Flex Cap                                            31230     97c0907e367e4833b394dbd2a24a4ec8
+(4 IDs skipped)
+HAT                  Black Flex Cap                                             31235     90796ccbccd44f09802aedc93b8267a2
+HAT                  Red Flex Cap                                               31236     61b94a03cc1c4e17be5cf775e525b1fd
+HAT                  Blue Flex Cap                                              31237     e589f1d00f2942a39a01a6fd9413b396
+HAT                  Brown Flex Cap                                             31238     687a92af78d649dcb5be0b73fffbae42
+HAT                  Purple Flex Cap                                            31239     0ef8ed3d728e4cccb1c22ca474ff331f
+HAT                  Tan Flex Cap                                               31240     1ee748a1631a4619abde8c98ec6c7f4d
+HAT                  Khaki Flex Cap                                             31241     94d03e64a5584c4f943018209c4c2568
+(7 IDs skipped)
+HAT                  Yankee with no brim                                        31249     951116d54416442e92ce39cb9350a025
+MASK                 Surgical Mask                                              31250     edf0f0d726244046a0047b6f77268578
+GLASSES              Plastic Sunglasses                                         31251     588933b9da0043d6896d3f6d3f2105b4
+GLASSES              Aviators                                                   31252     1c6f7ab65d404497949a1f60aa3fc46f
+HAT                  Altyn Helmet                                               31253     b40b402c2ff84ac9b55e4deeccaa53dc
+VEST                 Assault Bullet-Proof Vest L-IV                             31254     9bd148a39e524ece8f5820935da094e9
+(5 IDs skipped)
+HAT                  Crewman Helmet                                             31260     3ee3c7292ce340489b9afacda209e138

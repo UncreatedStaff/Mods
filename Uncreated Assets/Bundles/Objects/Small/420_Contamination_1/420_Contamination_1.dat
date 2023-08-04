@@ -1,0 +1,10 @@
+GUID 030cd68cf3744a31a7915bfb1a4b6ccc
+Type Medium
+ID 30141
+
+LOD None
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 25
+Interactability_Effect 72

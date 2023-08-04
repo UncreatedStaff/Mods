@@ -1,0 +1,21 @@
+GUID 1619caadd6c3485ab36f6ce452124990
+Type Magazine
+ID 32340
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 32330
+
+Explosion 31308
+
+Projectile_Blast_Radius_Multiplier 0
+Projectile_Damage_Multiplier 0
+
+Delete_Empty

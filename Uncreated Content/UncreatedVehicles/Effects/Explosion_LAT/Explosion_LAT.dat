@@ -1,0 +1,9 @@
+GUID 31b727c8e2354a66be8e289c57510738
+Type Effect
+ID 38321
+
+Relevant_Distance 600
+Spawn_Explosion_On_Dedicated_Server
+
+CameraShake_Radius 45
+CameraShake_MagnitudeDegrees 35

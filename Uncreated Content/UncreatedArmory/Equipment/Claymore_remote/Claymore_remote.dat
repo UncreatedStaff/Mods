@@ -1,0 +1,30 @@
+GUID 6d5980d658c9449c941928bcc738f210
+Type Charge
+Useable Barricade
+Build Charge
+ID 31905
+
+Size_X 2
+Size_Y 1
+Size_Z 0.25
+
+Health 1
+Range 4
+Offset 0.225
+
+Player_Damage 250
+Zombie_Damage 250
+Animal_Damage 250
+Barricade_Damage 75
+Structure_Damage 75
+Vehicle_Damage 175
+Resource_Damage 625
+Object_Damage 100
+
+Range2 12
+Explosion2 31301
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion

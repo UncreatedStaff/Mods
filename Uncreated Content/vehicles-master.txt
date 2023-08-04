@@ -1,0 +1,43 @@
+VEHICLE              81mm Mortar                                                38313     94bf8feb05bc4680ac26464bc175460c
+VEHICLE              9K38 Igla                                                  38330     8add59a2e2b94f93ab0d6b727d310097
+VEHICLE              9M133 Kornet                                               38314     677b1084dffa463384d29167a3fae25b
+VEHICLE              AH-1Z                                                      38322     ab43cebdc6574e3491d8954197ef8e9c
+VEHICLE              BGM-71 TOW                                                 38315     9d305050a6a142349376d6c49fb38362
+VEHICLE              BMP-2                                                      38309     4267c04222ca4811b957540dab7b3d0f
+VEHICLE              BMP-2                                                      38343     10976e04de774195ac881aaa44d662cb
+VEHICLE              BRDM-2                                                     38321     64b0652ffdc54d7db4cd8a6dc3de9638
+VEHICLE              BRDM-2                                                     38341     9ad4011fd08548e580460a5566f90d11
+VEHICLE              BTR-80                                                     38308     7c4505e3b71649f7b833f2b944caf1b3
+VEHICLE              BTR-82A                                                    38328     f7c68205b5104fa6a6b91d34d68eb496
+VEHICLE              BTR-82A                                                    38342     846856f6dcde48cca457ff24521daa97
+VEHICLE              F-15E Strike Eagle                                         38326     423d31c55cf84396914be9175ea70d0c
+VEHICLE              FIM-92 Stinger                                             38329     1883345cbdad40aa81e49c84e6c872ef
+VEHICLE              Humvee                                                     38300     6c049f919ba5470588375ed949bdab98
+VEHICLE              Humvee                                                     38333     1ad31b946c9d428ea8067757e799bf76
+VEHICLE              Kord                                                       38317     86cfe1eb8be144aeae7659c9c74ff11a
+VEHICLE              LAV-25                                                     38307     6cf712ac5fb1411b9c2996696848d621
+VEHICLE              LAV-25                                                     38335     39c3c68908594a499180162271744fd0
+VEHICLE              Logistics Truck                                            38305     58d6410084f04e43ba4462a1c9a6b8c0
+VEHICLE              Logistics Truck                                            38306     fe1a85aeb8e34c2fbeca3e485300a61c
+VEHICLE              Logistics Truck                                            38332     5613d32e8e194b3caf44aa16c2e19456
+VEHICLE              Logistics Truck                                            38339     855859643f3c49a088a85be7260a5226
+VEHICLE              M1126 Stryker                                              38320     7d389ca7d8cd40f5b24bc353f5d2d1ac
+VEHICLE              M1126 Stryker                                              38334     49e60463e1a744329f4e286761cf76b6
+VEHICLE              M1A2                                                       38318     5a299653700d46ff8f623bc0a10b8eb0
+VEHICLE              M1A2                                                       38337     8267767a33974b05827ed01d19b004f1
+VEHICLE              M2 Bradley                                                 38310     3f451e22723041f5ac3b47f70fcd42e2
+VEHICLE              M2 Bradley                                                 38336     7d098fe85de341baaf2d0feb96bdf1c5
+VEHICLE              M2A1                                                       38316     aa3c6af4911243b5b5c9dc95ca1263bf
+VEHICLE              Mi-28                                                      38323     03d365b9c0bf4e14807be101a43a6a13
+VEHICLE              Mi-8                                                       38312     18a6b283dbd245d0a13e0daa09b84aed
+VEHICLE              Su-25a                                                     38325     87cbec30cf554f9bb11240ce6f78087a
+VEHICLE              Su-34                                                      38327     4df577edce6f4a4a858e0a7c70276c5f
+VEHICLE              T-90                                                       38319     283ba86868da4a1098a780dfb24deaf4
+VEHICLE              T-90                                                       38344     74dc652c899c4edd96accc37cc6142f9
+VEHICLE              Tigr-M                                                     38302     728fe69f80ed49099e06ab17692950cd
+VEHICLE              Tigr-M                                                     38340     5ae2e43bdc2545c59698d014edd07a2c
+VEHICLE              Transport Truck                                            38303     1e75b6bc2514457db799a3a0468ca4c8
+VEHICLE              Transport Truck                                            38304     e057b47506c94e48a6c380bd850c0e04
+VEHICLE              Transport Truck                                            38331     afe2529ae33c45cab2b1326a62957c2e
+VEHICLE              Transport Truck                                            38338     25a9428b87cf4bc1ba7dc5853e0d2654
+VEHICLE              UH-60 Blackhawk                                            38311     6082d95b5fcb4805a7a2120e3e3c6f68

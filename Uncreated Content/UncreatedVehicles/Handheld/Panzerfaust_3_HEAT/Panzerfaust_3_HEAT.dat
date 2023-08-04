@@ -1,0 +1,18 @@
+GUID 750a783a5f6c4325bf62a2c49d3ac44c
+Type Magazine
+ID 38468
+
+Size_X 4
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38468
+
+Explosion 38321
+
+Delete_Empty

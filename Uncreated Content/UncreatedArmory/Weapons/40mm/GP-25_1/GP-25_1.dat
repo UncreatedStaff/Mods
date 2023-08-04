@@ -1,0 +1,18 @@
+GUID 8193bb4a1bfd41038906ac037965cc0b
+Type Magazine
+ID 32330
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 32330
+
+Explosion 31300
+
+Delete_Empty

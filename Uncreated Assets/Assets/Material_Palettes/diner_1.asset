@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "61b8acf48206449a94b3c6fbfb537595"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Diner_1/diner-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/Diner_1/diner-2.mat"
+		}
+	]
+}

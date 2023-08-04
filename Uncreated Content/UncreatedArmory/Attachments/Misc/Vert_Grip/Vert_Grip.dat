@@ -1,0 +1,15 @@
+GUID 165b6a8c894c49528c3956cf55aeee8d
+Type Grip
+ID 31470
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Sway 0.75
+Shake 0.75
+
+Paintable

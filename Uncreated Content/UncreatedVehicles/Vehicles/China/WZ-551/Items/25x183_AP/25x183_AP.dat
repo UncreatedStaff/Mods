@@ -1,0 +1,26 @@
+GUID 8722e1c531f043ebaec05d9639a6495a
+Type Magazine
+ID 26048
+
+Size_X 3
+Size_Y 2
+Size_Z 0.15
+
+Amount 30
+Count_Min 1
+Count_Max 30
+
+Calibers 1
+Caliber_0 26048
+
+Tracer 33308
+
+Impact 38307
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 26048
+Blueprint_0_Build 30
+
+Delete_Empty

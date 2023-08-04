@@ -1,0 +1,22 @@
+GUID 3c0a94af5af24901a9e3207f3e9ed0ba
+Type Magazine
+ID 26021
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+
+Amount 2
+Count_Min 2
+Count_Max 2
+
+Calibers 1
+Caliber_0 26021
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 26021
+Blueprint_0_Build 30
+
+Delete_Empty

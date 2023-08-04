@@ -1,0 +1,19 @@
+GUID 3d04a44ad5e24f73bc10e3c8c2c48bb1
+Type Barrel
+ID 31401
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 31401
+
+Silenced 
+Volume 0.7
+
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
+
+Paintable

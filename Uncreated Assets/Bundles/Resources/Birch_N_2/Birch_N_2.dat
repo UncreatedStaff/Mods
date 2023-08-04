@@ -1,0 +1,13 @@
+GUID c8966ea4ea01437db02e8b532732c79b
+Type Resource
+ID 29005
+
+Health 1250
+Radius 5
+Scale 0.3
+
+Explosion 23
+
+Reset 750
+
+Asset_Bundle_Version 2

@@ -1,0 +1,28 @@
+GUID 22ed77b886134b5e9956dc599c4dcb43
+Type Magazine
+ID 32325
+
+Size_X 2
+Size_Y 2
+Size_Z 0.32
+
+Amount 100
+Count_Min 0
+Count_Max 99
+
+Calibers 1
+Caliber_0 32325
+
+Tracer 33303
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31367
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 32325
+Blueprint_1_Build 30
+
+Paintable

@@ -1,0 +1,22 @@
+GUID 9da7219b193d4c8b90e3eb74d951f73e
+Type Hat
+Useable Clothing
+ID 31190
+
+Size_X 2
+Size_Y 1
+Size_Z 0.18
+
+Beard
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 31190
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32

@@ -1,0 +1,16 @@
+GUID 8271cfe7db03486f9f75c12180d0507f
+Type Sight
+ID 38416
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Shake 0.5
+
+Spread 1.1
+
+Calibers 1
+Caliber_0 38416
+
+Zoom 3.25

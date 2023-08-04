@@ -1,0 +1,44 @@
+GUID 9cfa55396aea4ba2b135d7a59b3b838c
+Type Magazine
+ID 38377
+
+Size_X 3
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38375
+
+Explosion 38373
+Explosive
+Range 27
+
+Damage 0.2
+
+Player_Damage 260
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 1.0
+Player_Skull_Multiplier 1.0
+
+Zombie_Damage 260
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 1.0
+Zombie_Skull_Multiplier 1.0
+
+Animal_Damage 260
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 1.0
+Animal_Skull_Multiplier 1.0
+
+Barricade_Damage 550
+Structure_Damage 550
+
+Tracer 38374
+
+Delete_Empty

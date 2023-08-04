@@ -1,0 +1,10 @@
+GUID 34bd2a12e55641d6b9497f18e084722c
+Type Medium
+ID 29003
+
+LOD None
+
+Rubble Destroy
+Rubble_Reset 1800
+Rubble_Health 275
+Rubble_Effect 66

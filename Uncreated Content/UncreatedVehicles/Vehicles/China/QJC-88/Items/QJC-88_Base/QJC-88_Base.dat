@@ -1,0 +1,15 @@
+GUID beaa260d7f844724bd26993569d9e42a
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 26046
+
+Size_X 3
+Size_Y 3
+Size_Z 0.65
+
+Health 80
+Range 5
+Offset 0.125
+
+Explosion 19

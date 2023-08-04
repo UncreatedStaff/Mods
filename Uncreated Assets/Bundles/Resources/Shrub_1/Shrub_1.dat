@@ -1,0 +1,11 @@
+GUID 117b2d58df3c45e3995f6e543863dc6f
+Type Resource
+ID 29108
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 100
+
+Reset 450

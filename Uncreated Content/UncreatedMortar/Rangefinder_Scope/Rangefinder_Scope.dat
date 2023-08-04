@@ -1,0 +1,16 @@
+GUID 38de73873cc9442fabc3471888ce4504
+Type Sight
+ID 38334
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Shake 0.4
+
+Calibers 1
+Caliber_0 38334
+
+Sway 0.05
+
+Zoom 4

@@ -1,0 +1,16 @@
+GUID 32a1678f55b843f68769ca8e0916ebea
+Type Magazine
+ID 38322
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38322
+
+Delete_Empty

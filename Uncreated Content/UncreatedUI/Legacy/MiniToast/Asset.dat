@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID a213915d61ad41cebab34fb12fe6870c
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26262
+    Lifetime_Spread 0
+    Lifetime 1.75
+}

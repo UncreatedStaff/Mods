@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "0dd92bf51fcc4dba93ca4debb831fad3"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/SleepingBag_1/sleepingbag-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/SleepingBag_1/sleepingbag-2.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/SleepingBag_1/sleepingbag-3.mat"
+		}
+	]
+}

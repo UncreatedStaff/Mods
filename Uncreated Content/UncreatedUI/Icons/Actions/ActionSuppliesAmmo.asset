@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID 50dbb9c23ae647b8adb829a771742d4c
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26575
+    Lifetime_Spread 0
+    Lifetime 1
+    Bundle_Override_Path Icons/Actions/SuppliesAmmo
+}

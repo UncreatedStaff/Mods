@@ -1,0 +1,12 @@
+Metadata
+{
+    GUID 35ab4b71bfb74755b318ce62935f58c9
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26551
+    Lifetime_Spread 0
+    Lifetime 240
+    Bundle_Override_Path Icons/FOBs/IconBuildable
+}

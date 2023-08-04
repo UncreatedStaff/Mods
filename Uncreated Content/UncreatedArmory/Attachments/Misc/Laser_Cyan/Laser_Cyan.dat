@@ -1,0 +1,22 @@
+GUID a8101cd1f16146c38ae5ec5bdaea5113
+
+
+Type Tactical
+Rarity Rare
+ID 12527
+
+Size_X 1
+Size_Y 1
+Size_Z 0.075
+
+Spread 0.8
+
+Laser_Color_R 0
+
+Laser_Color_G 1
+
+Laser_Color_B 1
+
+
+Laser
+Paintable

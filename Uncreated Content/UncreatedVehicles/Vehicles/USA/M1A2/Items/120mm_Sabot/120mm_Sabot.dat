@@ -1,0 +1,20 @@
+GUID 3044b50736cd46e283fe31911a05b978
+Type Magazine
+ID 38371
+
+Size_X 3
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38371
+
+Tracer 33308
+
+Impact 38371
+
+Delete_Empty
