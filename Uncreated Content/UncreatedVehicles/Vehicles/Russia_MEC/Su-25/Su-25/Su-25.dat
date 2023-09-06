@@ -54,9 +54,3 @@ Turret_1_Yaw_Min -20
 Turret_1_Yaw_Max 20
 Turret_1_Pitch_Min 90
 Turret_1_Pitch_Max 130
-
-
-// This is a scrapped vehicle.  
-// S-13 Rockets are broken.
-// temp fix for the until I can get it working again
-// Only Substituting items so the vehicle is useable.
