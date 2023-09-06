@@ -8,6 +8,9 @@ Size_X 2
 Size_Y 1
 Size_Z 0.1
 
+Calibers 1
+Caliber_0 31464
+
 Vision Military
 
 Nightvision_Color_B 180
@@ -15,6 +18,8 @@ Nightvision_Color_B 180
 Nightvision_Color_G 180
 
 Nightvision_Color_R 50
+
+Nightvision_Fog_Intensity 0.3
 
 Zoom 3
 

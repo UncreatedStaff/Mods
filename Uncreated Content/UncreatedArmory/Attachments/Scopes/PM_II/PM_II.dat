@@ -9,6 +9,63 @@ Size_X 2
 Size_Y 1
 Size_Z 0.1
 
+Calibers 1
+Caliber_0 31463
+
 Zoom 10
+
+DistanceMarkers
+[
+
+	{
+		Distance 100
+		LineOffset -0.005
+		LineWidth 0.01
+	}
+	{
+		Distance 150
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 200
+		LineOffset -0.005
+		LineWidth 0.01
+	}
+	{
+		Distance 250
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 300
+		LineOffset -0.005
+		LineWidth 0.01
+	}
+	{
+		Distance 350
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 400
+		LineOffset -0.005
+		LineWidth 0.01
+	}
+	{
+		Distance 450
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 500
+		LineOffset -0.005
+		LineWidth 0.01
+	}
+]
 
 Paintable
