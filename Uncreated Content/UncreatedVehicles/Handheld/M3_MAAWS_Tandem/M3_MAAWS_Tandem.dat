@@ -13,9 +13,10 @@ Count_Max 1
 Calibers 1
 Caliber_0 38389
 
-Projectile_Blast_Radius_Multiplier 0.6
+// This is hopefully a potential fix for most rocket ghosting
+// Projectile_Blast_Radius_Multiplier 0.6
 Projectile_Launch_Force_Multiplier 0.8
-Projectile_Damage_Multiplier 1.749
+Projectile_Damage_Multiplier 1.77
 
 Explosion 38312
 

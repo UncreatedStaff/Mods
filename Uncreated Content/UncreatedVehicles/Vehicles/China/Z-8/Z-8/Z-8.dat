@@ -3,16 +3,17 @@ Type Vehicle
 ID 38352
 
 Speed_Min -100
-Speed_Max 45
+Speed_Max 30
 
 Steer_Min 60
 Steer_Max 120
 
 Fuel 1750
+Fuel_Burn_Rate 6
 
 Health_Min 200
 Health_Max 300
-Health 690
+Health 490
 
 Exit 3
 

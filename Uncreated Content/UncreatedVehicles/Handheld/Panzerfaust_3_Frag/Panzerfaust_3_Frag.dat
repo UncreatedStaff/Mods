@@ -10,7 +10,7 @@ Amount 1
 Count_Min 1
 Count_Max 1
 
-Projectile_Blast_Radius_Multiplier 2.5
+Projectile_Blast_Radius_Multiplier 1.5
 Projectile_Launch_Force_Multiplier 1
 Projectile_Damage_Multiplier 0.4
 

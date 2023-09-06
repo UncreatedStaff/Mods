@@ -168,6 +168,7 @@ GUN                  Kh-29 Guided Missile                                       
 GUN                  Kornet Missile                                             38337     d900a6de5bb344f887855ce351e3bb41
 GUN                  Laser Rangefinder                                          38333     010de9d7d1fd49d897dc41249a22d436
 GUN                  LAV-25                                                     38307     b726440abe39461caa954a7002ace50f
+GUN                  LVOA-C                                                     32501     cc51d4356db94c6ea6e81261e72db04d
 GUN                  M1014                                                      31423     8c691bac4f014c8cbbc12d3b03567d92
 GUN                  M110                                                       31424     d401727cd6b846acacf1acc21c411c5d
 GUN                  M16A4                                                      31414     a0089dc0d04e4232a3d23e9d9911e814
@@ -218,6 +219,8 @@ GUN                  PKP Pecheneg                                               
 GUN                  PM md. 63                                                  31422     d6c2dde610a34ffd9857b578c4233c34
 GUN                  PP-91 KEDR                                                 31448     a1487b3b2f724403b848975c0bc5b3f7
 GUN                  PPSh-41                                                    32316     6db50cbf81a14ff5bde87cba0c7d964d
+GUN                  R4                                                         32503     bbba052df7ad45469aa50920b0a1d003
+GUN                  R4-C                                                       32505     a7f401f339464124aa8a76cbf534ebdf
 GUN                  R700                                                       31318     5ded5febfdfc4e0a9f0fd1c98dac1ad0
 GUN                  Remington 870                                              31317     6f141f16eb8f4845ba0d21f856f58a73
 GUN                  RPG-26                                                     38323     3ac5dee6ea2a4cc198396facc482ea50
@@ -480,6 +483,7 @@ SIGHT                AK Rear Sights                                             
 SIGHT                AK-12 Rear Sights                                          31725     af18242725654a6fad0fe46f4dffe39f
 SIGHT                AK-74M Rear Sights                                         31712     cdb6e4a582e64b369226853a759356ca
 SIGHT                AKS-74U Rear Sights                                        31507     c974b9fa77734ca19bdf90ec7700f1ff
+SIGHT                AR-9 Iron Sights                                           31501     cf840eb2389542e38ed4e64e8590bdbe
 SIGHT                AR-15 Rear sight                                           31768     d838f896573f45f981a33e0e87cf26d4
 SIGHT                AS Val Rear Sights                                         31717     c801e2480e9649e3ab1e5a054ba6646e
 SIGHT                AUG A3 Iron Sights                                         31534     3079ee74fb4e440d9a02cdc1aad12a09
@@ -493,6 +497,7 @@ SIGHT                HK417 Iron Sights                                          
 SIGHT                Holographic Sight                                          31389     ed88f61fb5ee452782a45981ab16b6eb
 SIGHT                Hunting Scope                                              31463     d7923fda13ca42babfe44f6ce1fa90d6
 SIGHT                Kobra Reflex                                               31472     67417a3bf0124445bfee0b2b774191c6
+SIGHT                LVOA-C Iron Sights                                         31338     57907154ff674957b707f38677bfd293
 SIGHT                M1014 Rear Sights                                          31723     7182121489804265858a50135fe2e7cb
 SIGHT                M110 Iron Sights                                           31724     6cb2fc47c4954c8692b8b329b324cfcd
 SIGHT                M16 Carrier Handle                                         31508     f24f489500df48179204ab793fd7ce3c
@@ -520,6 +525,8 @@ SIGHT                PGO-7                                                      
 SIGHT                PKM Rear Sights                                            31585     fab4951dfc05437e9151395e8d7ab88e
 SIGHT                PSO-1 Scope                                                31462     f451d12e30094048a8ac00f14dc89eb5
 SIGHT                PU Scope                                                   31466     ebfb559db4cb4e1e942f324d129f6489
+SIGHT                R4 Iron Sights                                             32504     f24f489500df48179204ab793fd7ce3c
+SIGHT                R4-C Iron Sights                                           32506     372199dffae545a99de0f7f627293f49
 SIGHT                Rangefinder Scope                                          38334     38de73873cc9442fabc3471888ce4504
 SIGHT                Red Dot Reflex                                             31471     2250d75bb331472d8666b8912f80857e
 SIGHT                RPG-7V2 Rear Sight                                         38597     0be2996f63784119930fd6716044cf0b

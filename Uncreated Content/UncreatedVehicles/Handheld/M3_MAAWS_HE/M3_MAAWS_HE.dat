@@ -13,7 +13,7 @@ Count_Max 1
 Calibers 1
 Caliber_0 38389
 
-Projectile_Blast_Radius_Multiplier 2.5
+Projectile_Blast_Radius_Multiplier 1.5
 Projectile_Launch_Force_Multiplier 1
 Projectile_Damage_Multiplier 0.4
 

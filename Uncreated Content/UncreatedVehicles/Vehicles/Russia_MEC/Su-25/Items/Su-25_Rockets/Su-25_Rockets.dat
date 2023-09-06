@@ -9,14 +9,14 @@ Size_Y 2
 Size_Z 0.45
 Size2_Z 0.7
 
-Magazine 26012
+Magazine 26002
 
-Ammo_Min 6
+Ammo_Min 0
 Ammo_Max 6
 
 Auto
 
-Caliber 26012
+Caliber 26002
 
 Firerate 4
 Action Rocket

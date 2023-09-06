@@ -456,6 +456,7 @@ GUN                  Sawed Off 682                                              
 GUN                  AMD-65                                                     31491     c1b7946ca8e04b47ab35487acb55f38c
 GUN                  .357 Snubnose                                              31492     911695ceb7c744f79b6da34e95fbacc0
 GUN                  AR-9                                                       31493     c4a261c8372d43a789afa2e46a0dd1ca
+SIGHT                AR-9 Iron Sights                                           31501     cf840eb2389542e38ed4e64e8590bdbe
 MAGAZINE             32rnd 9x19mm Magazine                                      31494     7727a317f5d7474e84a111701d424724
 GUN                  AUG A3 9mm                                                 31495     7744fe2e0cdf4bb0bdb262860c17228d
 GUN                  HK416                                                      31496     b55175e0ccbd4b6ab97627f645c572b2
@@ -591,7 +592,12 @@ MAGAZINE             40mm GP-25 Smoke Grenade                                   
 MAGAZINE             30rnd .45 ACP Magazine                                     32399     b93a3c6fdcaa4b3fabc53c8122163725
 (100 IDs skipped)
 SIGHT                AA-12 Iron Sights                                          32500     b4241e11f5d146efa4824647bafcf934
-(6 IDs skipped)
+GUN                  LVOA-C                                                     32501     cc51d4356db94c6ea6e81261e72db04d
+SIGHT                LVOA-C Iron Sights                                         32502     57907154ff674957b707f38677bfd293
+GUN                  R4                                                         32503     bbba052df7ad45469aa50920b0a1d003
+SIGHT                R4 Iron Sights                                             32504     f24f489500df48179204ab793fd7ce3c
+GUN                  R4-C                                                       32505     a7f401f339464124aa8a76cbf534ebdf
+SIGHT                R4-C Iron Sights                                           32506     372199dffae545a99de0f7f627293f49
 SIGHT                OTs-14 Rear Sights                                         32507     4d9cc91cd50a44b899574dd4ebc2aa17
 (16 IDs skipped)
 SIGHT                M249 Rear Sights                                           32524     68a6b199d37a43a6bf92a740c0a8089e
