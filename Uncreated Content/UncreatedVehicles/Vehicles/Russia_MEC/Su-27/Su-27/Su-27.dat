@@ -1,7 +1,7 @@
-GUID 0c653055ea504e6480d5c32b1e8e8798
+GUID 3f6aba85ab45472cacfe0179e32bc2e6
 Type Vehicle
 Rarity Legendary
-ID 38358
+ID 38371
 
 Speed_Min -16
 Speed_Max 155
@@ -40,7 +40,7 @@ Trunk_Storage_Y 2
 
 Turrets 1
 Turret_0_Seat_Index 0
-Turret_0_Item_ID 26070
+Turret_0_Item_ID 26077
 Turret_0_Yaw_Min 0
 Turret_0_Yaw_Max 0
 Turret_0_Pitch_Min 90

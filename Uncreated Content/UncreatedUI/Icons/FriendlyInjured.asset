@@ -7,5 +7,6 @@ Asset
 {
     ID 26540
     Lifetime_Spread 0
+    Lifetime 0.33
     Bundle_Override_Path Icons/FriendlyInjured
 }
