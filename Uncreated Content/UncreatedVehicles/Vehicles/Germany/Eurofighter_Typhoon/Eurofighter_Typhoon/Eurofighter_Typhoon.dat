@@ -40,14 +40,6 @@ Trunk_Storage_Y 2
 
 Turrets 1
 Turret_0_Seat_Index 0
-Turret_0_Item_ID 26039
-Turret_0_Yaw_Min 0
-Turret_0_Yaw_Max 0
-Turret_0_Pitch_Min 90
-Turret_0_Pitch_Max 90
-
-Turrets 1
-Turret_0_Seat_Index 0
 Turret_0_Item_ID 26070
 Turret_0_Yaw_Min 0
 Turret_0_Yaw_Max 0

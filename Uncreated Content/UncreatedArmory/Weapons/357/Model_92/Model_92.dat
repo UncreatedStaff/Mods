@@ -53,8 +53,6 @@ Vehicle_Damage 60
 Resource_Damage 30
 Object_Damage 3
 
-Invulnerable
-
 Durability 1
 Wear 3
 

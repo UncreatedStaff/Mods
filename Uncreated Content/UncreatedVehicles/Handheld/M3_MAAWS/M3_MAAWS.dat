@@ -23,7 +23,7 @@ Caliber 38389
 Firerate 50
 Unplace 0
 Replace 0.5
-Action Trigger
+Action Rocket
 
 Fire_Delay_Seconds 0.1
 
@@ -52,6 +52,7 @@ Object_Damage 1000
 
 Range 10
 Gunshot_Rolloff_Distance 150
+Explosion 38312
 
 Durability 1
 Wear 5
