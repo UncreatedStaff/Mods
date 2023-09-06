@@ -1,4 +1,4 @@
-GUID bbba052df7ad45469aa50920b0a1d003
+GUID 83886491d7554e919ef83152056e2f1c
 Type Gun
 Useable Gun
 Slot Primary
@@ -33,7 +33,7 @@ Magazine_Calibers 1
 Magazine_Caliber_0 31343
 
 Range 250
-Firerate 4
+Firerate 3
 Action Trigger
 
 Player_Damage 45

@@ -13,70 +13,42 @@
 			{
 				"GUID" "cbecf74e5274492b9efd2a81a0fe506f"
 			}
-			"Weight" "0.5"
+			"Weight" "1"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "c0b405ce50ed41bdb2dcd36059f365dd"
 			}
-			"Weight" "0.5"
+			"Weight" "1"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "91a5b4369d5443788be1cf0177be44da"
 			}
-			"Weight" "0.5"
+			"Weight" "1"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "299023766ccb408dabd36154b823c80c"
 			}
-			"Weight" "0.5"
+			"Weight" "1"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "8ea94ff02ecd47c98d0ddf4b8069dea1"
 			}
-			"Weight" "0.5"
+			"Weight" "1"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "80bff7fb753444079711894785b75473"
 			}
-			"Weight" "0.5"
-		}
-		{
-			"Asset"
-			{
-				"GUID" "094533839f224c2eb6e98b672a389b37"
-			}
-			"Weight" "12"
-		}
-		{
-			"Asset"
-			{
-				"GUID" "2fac91a5acf34d8eaa005fc3e8fe8fe2"
-			}
 			"Weight" "1"
-		}
-		{
-			"Asset"
-			{
-				"GUID" "f7ea9dd47dac4d6fbf931897f8f1d822"
-			}
-			"Weight" "12"
-		}
-		{
-			"Asset"
-			{
-				"GUID" "cd5624cc53f244eea472e17c68d9d027"
-			}
-			"Weight" "12"
 		}
 	]
 }
