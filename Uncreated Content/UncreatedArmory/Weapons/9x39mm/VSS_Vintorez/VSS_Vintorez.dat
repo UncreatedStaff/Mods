@@ -62,13 +62,13 @@ Durability 0.12
 Spread_Aim 0.09
 Spread_Hip 0.12
 
-Recoil_Min_X -1.1
-Recoil_Min_Y 5
-Recoil_Max_X 1.1
-Recoil_Max_Y 6
+Recoil_Min_X -1.5
+Recoil_Min_Y 3.5
+Recoil_Max_X 1.5
+Recoil_Max_Y 4
 
-Recover_X 0.4
-Recover_Y 0.4
+Recover_X 0.6
+Recover_Y 0.5
 
 Ballistic_Drop 0.0006
 

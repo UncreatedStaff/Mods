@@ -1,6 +1,5 @@
 GUID eb8e57e2be0140fdb92af4d42f316ab1
 
-
 Type Sight
 Rarity Uncommon
 ID 12522
@@ -8,6 +7,9 @@ ID 12522
 Size_X 2
 Size_Y 1
 Size_Z 0.1
+
+Calibers 1
+Caliber_0 31462
 
 Zoom 3
 
