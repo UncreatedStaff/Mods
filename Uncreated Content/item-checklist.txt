@@ -9,7 +9,7 @@ MAGAZINE             Hydra-70 M247 HEAT Rockets                                 
 GUN                  AH-1Z Rotary Cannon                                        26007     e929441a7bf7471b80072654275255c1
 MAGAZINE             20x102mm AP Incendiary Shells                              26008     3044aff8e6624aee97c342e7a224a082
 GUN                  Su-25 Rotary Cannon                                        26009     dcb4b10af72341cc980573f035152019
-MAGAZINE             30x165mm SAPHEI Incendiary Shells                          26010     6ba7875fc17e4d28adf3ed6bb541f677
+MAGAZINE             110 rnd 30x165mm SAPHEI Incendiary Shells                  26010     6ba7875fc17e4d28adf3ed6bb541f677
 GUN                  Su-25 S-13 Rocket                                          26011     ff450b8058774cc382ba227f5b46e17d
 MAGAZINE             S-13 AGM Rockets                                           26012     15f3da5725464a1999021a011090a69b
 GUN                  BTR-82A                                                    26013     aaa2ffb8a5fc4deca1a5b719ad7325a6

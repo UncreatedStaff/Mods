@@ -3,12 +3,12 @@ Type Vehicle
 ID 38362
 
 Speed_Min -100
-Speed_Max 30
+Speed_Max 45
 
 Steer_Min 60
 Steer_Max 120
 
-Fuel 1750
+Fuel 1800
 Fuel_Burn_Rate 5
 
 Health_Min 200

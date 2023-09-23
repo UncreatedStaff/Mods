@@ -5,14 +5,14 @@ Slot Primary
 ID 26003
 
 Sight 1301
-Magazine 26015
+Magazine 26010
 
 Ammo_Min 100
 Ammo_Max 100
 
 Auto
 
-Caliber 26015
+Caliber 26010
 
 Range 400
 Firerate 4
