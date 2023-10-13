@@ -2,8 +2,8 @@ GUID 5ae2e43bdc2545c59698d014edd07a2c
 Type Vehicle
 ID 38340
 
-Speed_Min -11
-Speed_Max 17
+Speed_Min -12
+Speed_Max 18
 
 Steer_Min 24
 Steer_Max 48

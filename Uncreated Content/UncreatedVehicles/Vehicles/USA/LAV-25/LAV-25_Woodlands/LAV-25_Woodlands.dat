@@ -3,17 +3,17 @@ Type Vehicle
 ID 38307
 
 Speed_Min -9
-Speed_Max 15.5
+Speed_Max 16
 
 Steer_Min 24
 Steer_Max 48
 
 Brake 40
 
-Fuel_Min 1500
-Fuel_Max 1500
-Fuel 1500
-Fuel_Burn_Rate 2
+Fuel_Min 2000
+Fuel_Max 2000
+Fuel 2000
+Fuel_Burn_Rate 2.5
 
 Health_Min 500
 Health_Max 600
@@ -29,12 +29,14 @@ Child_Explosion_Armor_Multiplier 1
 Traction
 LockMouse
 
-Trunk_Storage_X 9
+Trunk_Storage_X 6
 Trunk_Storage_Y 6
 
 Explosion 38379
 Invulnerable
 Tires_Invulnerable
+
+Cam_Driver_Offset 0.1
 
 Turrets 2
 Turret_0_Seat_Index 0
