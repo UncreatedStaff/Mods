@@ -2,17 +2,18 @@ GUID 18a6b283dbd245d0a13e0daa09b84aed
 Type Vehicle
 ID 38312
 
-Speed_Min -30
-Speed_Max 25
+Speed_Min -100
+Speed_Max 45
 
 Steer_Min 60
-Steer_Max 100
+Steer_Max 120
 
-Fuel 1750
+Fuel 1800
+Fuel_Burn_Rate 5
 
 Health_Min 200
 Health_Max 300
-Health 690
+Health 490
 
 Exit 3
 
@@ -20,11 +21,11 @@ Cam_Follow_Distance 16
 
 Passenger_Explosion_Armor 0.01
 
-Pitch_Idle 0.9
-Pitch_Drive 0.01
-
 LockMouse
 Engine Helicopter
+
+Pitch_Idle 0.9
+Pitch_Drive 0.006
 
 Trunk_Storage_X 12
 Trunk_Storage_Y 14

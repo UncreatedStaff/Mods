@@ -6,30 +6,30 @@ Size_X 4
 Size_Y 2
 Size_Z 0.15
 
-Amount 180
-Count_Min 180
-Count_Max 180
+Amount 100
+Count_Min 100
+Count_Max 100
 
 Calibers 1
 Caliber_0 26008
 
 Explosion 26001
 Explosive
-Range 2.5
+Range 3
 
-Player_Damage 260
+Player_Damage 180
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 1.0
 Player_Skull_Multiplier 1.0
 
-Zombie_Damage 260
+Zombie_Damage 180
 Zombie_Leg_Multiplier 0.6
 Zombie_Arm_Multiplier 0.6
 Zombie_Spine_Multiplier 1.0
 Zombie_Skull_Multiplier 1.0
 
-Animal_Damage 260
+Animal_Damage 180
 Animal_Leg_Multiplier 0.6
 Animal_Spine_Multiplier 1.0
 Animal_Skull_Multiplier 1.0

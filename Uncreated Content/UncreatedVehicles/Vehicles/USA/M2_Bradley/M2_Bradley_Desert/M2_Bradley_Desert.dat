@@ -58,9 +58,9 @@ Turret_1_Pitch_Max 100
 
 Turret_2_Seat_Index 2
 Turret_2_Item_ID 26038
-Turret_2_Yaw_Min -30
-Turret_2_Yaw_Max 30
-Turret_2_Pitch_Min 70
-Turret_2_Pitch_Max 95
+Turret_2_Yaw_Min -60
+Turret_2_Yaw_Max 60
+Turret_2_Pitch_Min 55
+Turret_2_Pitch_Max 110
 
 Physics_Profile ce368401ea384e708448b78713a58e5c
