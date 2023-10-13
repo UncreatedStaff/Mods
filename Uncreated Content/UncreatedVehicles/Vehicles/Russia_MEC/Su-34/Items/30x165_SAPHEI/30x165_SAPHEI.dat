@@ -15,21 +15,21 @@ Caliber_0 26015
 
 Explosion 26003
 Explosive
-Range 4
+Range 3
 
-Player_Damage 200
+Player_Damage 180
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 1.0
 Player_Skull_Multiplier 1.0
 
-Zombie_Damage 200
+Zombie_Damage 180
 Zombie_Leg_Multiplier 0.6
 Zombie_Arm_Multiplier 0.6
 Zombie_Spine_Multiplier 1.0
 Zombie_Skull_Multiplier 1.0
 
-Animal_Damage 200
+Animal_Damage 180
 Animal_Leg_Multiplier 0.6
 Animal_Spine_Multiplier 1.0
 Animal_Skull_Multiplier 1.0

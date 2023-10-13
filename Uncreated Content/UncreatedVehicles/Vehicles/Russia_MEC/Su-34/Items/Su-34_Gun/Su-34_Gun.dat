@@ -13,30 +13,30 @@ Auto
 
 Caliber 26015
 
-Range 1000
+Range 600
 Firerate 2
 Action Trigger
 
-Player_Damage 200
+Player_Damage 180
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 1.0
 Player_Skull_Multiplier 1.0
 
-Zombie_Damage 200
+Zombie_Damage 180
 Zombie_Leg_Multiplier 0.6
 Zombie_Arm_Multiplier 0.6
 Zombie_Spine_Multiplier 1.0
 Zombie_Skull_Multiplier 1.0
 
-Animal_Damage 200
+Animal_Damage 180
 Animal_Leg_Multiplier 0.6
 Animal_Spine_Multiplier 1.0
 Animal_Skull_Multiplier 1.0
 
 Barricade_Damage 9
 Structure_Damage 9
-Vehicle_Damage 22
+Vehicle_Damage 20
 Resource_Damage 24
 Object_Damage 3
 
@@ -45,7 +45,7 @@ Invulnerable
 Durability 1
 Wear 3
 
-Spread_Aim 0.65
+Spread_Aim 0.7
 Spread_Hip 0.015
 
 Recoil_Min_X 0
