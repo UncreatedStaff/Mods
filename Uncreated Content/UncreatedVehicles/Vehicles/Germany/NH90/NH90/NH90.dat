@@ -3,7 +3,7 @@ Type Vehicle
 ID 38362
 
 Speed_Min -100
-Speed_Max 45
+Speed_Max 25
 
 Steer_Min 60
 Steer_Max 120
