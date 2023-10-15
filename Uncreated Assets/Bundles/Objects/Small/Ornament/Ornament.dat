@@ -1,0 +1,23 @@
+GUID 53ddc847f2014928a4b7b7856df26e5d
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 15075
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+
+Hair_Visible False
+
+Exclude_From_Master_Bundle
