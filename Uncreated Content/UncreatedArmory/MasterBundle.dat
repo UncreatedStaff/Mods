@@ -3,3 +3,5 @@ Asset_Bundle_Name uncreated_armory.masterbundle
 // Path to the asset bundle within Unity.
 // Unity subfolders should match 1:1 with dat subfolders.
 Asset_Prefix Assets/UncreatedArmory
+
+Asset_Bundle_Version 4
