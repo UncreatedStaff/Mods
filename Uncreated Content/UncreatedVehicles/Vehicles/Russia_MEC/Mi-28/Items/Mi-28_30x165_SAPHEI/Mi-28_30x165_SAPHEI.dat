@@ -6,9 +6,9 @@ Size_X 4
 Size_Y 2
 Size_Z 0.15
 
-Amount 60
-Count_Min 60
-Count_Max 60
+Amount 100
+Count_Min 100
+Count_Max 100
 
 Calibers 1
 Caliber_0 26010
