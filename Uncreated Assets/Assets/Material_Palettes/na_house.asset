@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "cd2d05035d3e4bd9bff098989e69f1bb"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/NA_House/na-house-1.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/NA_House/na-house-2.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/NA_House/na-house-3.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/NA_House/na-house-4.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/NA_House/na-house-5.mat"
+		}
+		{
+			"Name" "uncreated_assets.masterbundle"
+			"Path" "Material_Palettes/NA_House/na-house-6.mat"
+		}
+	]
+}
