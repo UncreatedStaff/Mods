@@ -23,18 +23,7 @@ DistanceMarkers
 		LineWidth 0.01
 	}
 	{
-		Distance 150
-		LineOffset -0.005
-		LineWidth 0.01
-		HasLabel false
-	}
-	{
 		Distance 200
-		LineOffset -0.005
-		LineWidth 0.01
-	}
-	{
-		Distance 250
 		LineOffset -0.005
 		LineWidth 0.01
 		HasLabel false
@@ -45,18 +34,7 @@ DistanceMarkers
 		LineWidth 0.01
 	}
 	{
-		Distance 350
-		LineOffset -0.005
-		LineWidth 0.01
-		HasLabel false
-	}
-	{
 		Distance 400
-		LineOffset -0.005
-		LineWidth 0.01
-	}
-	{
-		Distance 450
 		LineOffset -0.005
 		LineWidth 0.01
 		HasLabel false
