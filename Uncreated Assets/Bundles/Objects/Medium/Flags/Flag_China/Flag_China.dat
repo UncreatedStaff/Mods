@@ -1,7 +1,7 @@
-GUID 69d2252cac7c4f84a1e39b4ec45260ab
+GUID d11316872dad4fa7aa09bc281e2daf67
 
 Type Medium
-ID 10003
+ID 10001
 
 Snowshoe
 
@@ -9,4 +9,5 @@ Interactability Rubble
 Interactability_Reset 300
 Interactability_Health 100
 Interactability_Effect 72
-Has_Clip_Prefab false
+
+LOD None
