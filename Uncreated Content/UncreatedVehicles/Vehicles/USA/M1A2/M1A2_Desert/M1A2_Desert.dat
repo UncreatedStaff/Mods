@@ -37,6 +37,7 @@ Invulnerable
 Tires_Invulnerable
 
 Cam_Driver_Offset 0.1
+Cam_Follow_Distance 10
 
 Pitch_Idle 0.8
 Pitch_Drive 0.08
