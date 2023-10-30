@@ -3,7 +3,7 @@ Type Vehicle
 ID 38311
 
 Speed_Min -100
-Speed_Max 25
+Speed_Max 34.7
 
 Steer_Min 60
 Steer_Max 120

@@ -1,0 +1,17 @@
+GUID d5f1e8b8437f43e3b388e4082c0fa1fc
+Type Barrel
+ID 31369
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 31369
+
+Silenced 
+Volume 0.7
+
+Ballistic_Drop 1.1
+
+Paintable
