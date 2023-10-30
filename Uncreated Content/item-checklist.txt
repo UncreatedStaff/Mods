@@ -339,7 +339,8 @@ SUPPLY               Box of 12ga 00 Buckshot                                    
 SUPPLY               Box of 12ga Rifled Slugs                                   31365     cc90f7282325464cb9f8815a0e9a4f8f
 SUPPLY               Box of 12ga Birdshot                                       31366     65389d352515457baf5b5dafae102437
 MAGAZINE             7.62x54mmR Rounds                                          31367     b2df317beb96421393cf59eced3f51cd
-(2 IDs skipped)
+GUN                  MC51SD                                                     31368     62bdcf7bd4774f42a323942b99019850
+BARREL               MC51SD Suppressor                                          31369     d5f1e8b8437f43e3b388e4082c0fa1fc
 GUN                  G3A3                                                       31370     d3b5e43326b24ae38ea901eae6d37de8
 GUN                  Saiga-12K                                                  31371     bf86e8bb0b254c148b4b3305465876bd
 MAGAZINE             Saiga-12K Magazine (00 Buckshot)                           31372     85980931dd8a4fa0bd5f7a3d93c9f37f
@@ -358,7 +359,7 @@ SUPPLY               .408 Cheyenne Tactical Rounds                              
 GUN                  PKM                                                        31385     00e4b6a1947b44f2ad606ede8ad6039b
 MAGAZINE             PKM Box                                                    31386     bdb7b3f200fe4a03a5951f3eed6388b4
 GUN                  Vector .45                                                 31387     71b5e1bb346b4d2dbee967140d200122
-(1 IDs skipped)
+GUN                  AG3                                                        31388     25c5c451f1ec485088885a4410299587
 SIGHT                Holographic Sight                                          31389     ed88f61fb5ee452782a45981ab16b6eb
 GUN                  MPX                                                        31390     67a9a831c6b2401080380d8bafc1bfd8
 MAGAZINE             30rnd 9x19mm Magazine                                      31391     aaadfb9ad564476684bd063b666ccc26
