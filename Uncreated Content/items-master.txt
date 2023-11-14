@@ -48,9 +48,11 @@ BARREL               7.62mm NATO Suppressor                                     
 BARREL               7.62mmR Suppressor                                         31400     786186b02f414187bad49aaccb456e72
 BARREL               9mm Suppressor                                             31394     f3bc299d16c7411ca1d51db84d66ae1d
 BARREL               AS Val Suppressor                                          31421     bddc58b1a9254c6b937cffb086e31b2a
+BARREL               MC51SD Suppressor                                          31369     d5f1e8b8437f43e3b388e4082c0fa1fc
 BARREL               MP5SD Suppressor                                           31498     dac0f137580d4d51a7668f72bffac189
 BARREL               OTs-14 Barrel Grip                                         32308     d8e39999a1174e3088ba3d33926c3fce
 BARREL               OTs-14 Groza-4 Suppressor                                  32310     6801d33a610a4f7caf2a34f66750af44
+BARREL               SR3M Suppressor                                            31484     befe9d0ce6b94859a724858f0142be98
 BARRICADE            81mm Mortar                                                38336     6ff4826eaeb14c7cac1cf25a55d24bd3
 BARRICADE            9K38 Igla                                                  26042     b50cb548734946ffa5f88d6691a2c7ce
 BARRICADE            9M133 Kornet                                               38339     37811b1847744c958fcb30a0b759874b
@@ -114,6 +116,7 @@ GUN                  81mm Mortar                                                
 GUN                  9K38 Igla                                                  26024     5ae39e59d299415d8c4d08b233206302
 GUN                  9M113 Konkurs                                              26040     d6312ceb00ad4530bdb07735bc02f070
 GUN                  AA-12                                                      32300     e9db2c5326564bad882810c3595d46c0
+GUN                  AG3                                                        31388     25c5c451f1ec485088885a4410299587
 GUN                  AGM-65 Maverick Guided Missile                             26030     433ea5249699420eb7adb67791a98134
 GUN                  AH-1Z Hydra-70 Rocket                                      26005     06cdbbf06436409b9c3ba9237cc486aa
 GUN                  AH-1Z Rotary Cannon                                        26007     e929441a7bf7471b80072654275255c1
@@ -191,6 +194,7 @@ GUN                  M93R                                                       
 GUN                  M9A1                                                       31487     85e44ca2aa6c4d94935f3f1b1abd6db7
 GUN                  MAC-10                                                     31499     633a3b46d04d4c35bd50b61478756344
 GUN                  Makarov                                                    31437     b3a8e771cf1a4f2d82ccdd25e318f394
+GUN                  MC51SD                                                     31368     62bdcf7bd4774f42a323942b99019850
 GUN                  MCX                                                        31392     fa1c2a389f944cc09b86723793f37893
 GUN                  MG3                                                        38410     a396d465c6db4dda8cb57a2d019f9058
 GUN                  Mi-28 Autocannon                                           26003     222f108a7c50462f9c2f4d8730365df3
@@ -237,6 +241,7 @@ GUN                  SG552 Commando                                             
 GUN                  Skorpion vz. 61                                            31329     65314a943e8d481888e8d40b19575129
 GUN                  SKS                                                        31459     bb49f2cfdbdb4a738d8699c5f1cbf016
 GUN                  Smoke Launcher                                             38383     99bfd7e25f1042af90b61cacff77ec63
+GUN                  SR3M                                                       31483     42f3aa4bc58e4b6e8c71108e3aab6402
 GUN                  Su-25 Rotary Cannon                                        26009     dcb4b10af72341cc980573f035152019
 GUN                  Su-25 S-13 Rocket                                          26011     ff450b8058774cc382ba227f5b46e17d
 GUN                  Su-34 Autocannon                                           26014     65dd802cd2e64463bb2198e2e4074453
@@ -530,6 +535,7 @@ SIGHT                SCAR Tan Iron Sights                                       
 SIGHT                Scorpion EVO Rear Sight                                    31509     7aa41fb93cc0459889ac538141308108
 SIGHT                SG552 Rear Sights                                          31531     d69b16eedfc54321b930362d3f3bedf6
 SIGHT                SKS Rear Sights                                            31759     857b4a2ae4fc4fefba1231682ea25182
+GUN                  SR3M Iron Sights                                           31485     5ac490d4e940491c959349030d37cb96
 SIGHT                SVD Rear Sights                                            31710     a0c883c16fb44f189d79739667acb748
 SIGHT                UMP 45 Rear Sight                                          31515     3ea0b95faec24106b5bc4b41993c18ff
 SIGHT                Vector 45 Iron Sights                                      31587     30d19f5c491347ec80f07b499abcf00e

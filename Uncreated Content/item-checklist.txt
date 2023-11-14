@@ -448,7 +448,9 @@ THROWABLE            Red Smoke Grenade                                          
 THROWABLE            Violet Smoke Grenade                                       31480     1344161ee08e4297b64b4dc068c5935e
 THROWABLE            Yellow Smoke Grenade                                       31481     18713c6d9b8f4980bdee830ca9d667ef
 SUPPLY               Mortar Shell                                               31482     4f520459dbe342eeb82630511f49250b
-(3 IDs skipped)
+GUN                  SR3M                                                       31483     42f3aa4bc58e4b6e8c71108e3aab6402
+BARREL               SR3M Suppressor                                            31484     befe9d0ce6b94859a724858f0142be98
+GUN                  SR3M Iron Sights                                           31485     5ac490d4e940491c959349030d37cb96
 GUN                  Uzi                                                        31486     017708a3d61748e78efc6a1946c29ae0
 GUN                  M9A1                                                       31487     85e44ca2aa6c4d94935f3f1b1abd6db7
 GUN                  M93R                                                       31488     7a9d87af584a40fb8d52a8ebb2c227a7
@@ -465,7 +467,8 @@ GUN                  MP5SD                                                      
 BARREL               MP5SD Suppressor                                           31498     dac0f137580d4d51a7668f72bffac189
 GUN                  MAC-10                                                     31499     633a3b46d04d4c35bd50b61478756344
 SIGHT                AK Rear Sights                                             31500     af18242725654a6fad0fe46f4dffe39f
-(3 IDs skipped)
+GUN                  AS Val B3 Mounts                                           31501
+MAGAZINE             9x39mm 30rnd Mag                                           31502
 SIGHT                G36C Iron Sights                                           31504     fd46342aba4c4d1d846e4a7ad2d31b6b
 (2 IDs skipped)
 SIGHT                AKS-74U Rear Sights                                        31507     c974b9fa77734ca19bdf90ec7700f1ff

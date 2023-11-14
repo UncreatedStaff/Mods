@@ -1,0 +1,35 @@
+GUID 2c86059e8fa6448d8f723e7cc6e67fe7
+Type Magazine
+ID 31502
+
+Size_X 1
+Size_Y 2
+Size_Z 0.32
+
+Amount 30
+Count_Min 0
+Count_Max 29
+
+Calibers 1
+Caliber_0 31418
+
+Tracer 33308
+
+Speed 0.75
+
+Recoil_X 1.02
+Recoil_Y 1.02
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31502
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31484
+Blueprint_1_Build 30
+
+Paintable
+
+Repair

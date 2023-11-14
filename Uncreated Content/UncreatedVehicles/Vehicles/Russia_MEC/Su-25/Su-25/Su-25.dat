@@ -3,20 +3,21 @@ Type Vehicle
 Rarity Legendary
 ID 38325
 
-Speed_Min -8
-Speed_Max 82
+SSpeed_Min -16
+Speed_Max 135
 
-Steer_Min 8
-Steer_Max 22
+Steer_Min 30
+Steer_Max 50
 
-Brake 32
+Brake 40
 Lift 12
 
-Fuel 1000
+Fuel 4000
+Fuel_Burn_Rate 4
 
 Health_Min 200
-Health_Max 300
-Health 200
+Health_Max 450
+Health 450
 
 LockMouse
 Engine Plane

@@ -30,7 +30,7 @@ Vehicle_Damage 650
 Resource_Damage 1000
 Object_Damage 500
 
-Range 18
+Range 10
 Explosion 26002
 
 Spread_Aim 0.1

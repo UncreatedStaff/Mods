@@ -39,7 +39,7 @@ Player_Damage 50
 Player_Leg_Multiplier 0.2
 Player_Arm_Multiplier 0.2
 Player_Spine_Multiplier 1.0
-Player_Skull_Multiplier 1.57
+Player_Skull_Multiplier 1.58
 
 Zombie_Damage 50
 Zombie_Leg_Multiplier 0.3
@@ -63,12 +63,12 @@ Durability 0.2
 Spread_Aim 0.08
 Spread_Hip 0.12
 
-Recoil_Min_X -2
-Recoil_Min_Y 5.5
-Recoil_Max_X 2
-Recoil_Max_Y 6
+Recoil_Min_X -1.7
+Recoil_Min_Y 4.5
+Recoil_Max_X 1.7
+Recoil_Max_Y 5.5
 
-Recover_X 0.4
+Recover_X 0.65
 Recover_Y 0.65
 
 Ballistic_Drop 0.0006

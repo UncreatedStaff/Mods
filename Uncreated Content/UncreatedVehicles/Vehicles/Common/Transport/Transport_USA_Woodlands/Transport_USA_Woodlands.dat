@@ -1,0 +1,35 @@
+GUID 1e75b6bc2514457db799a3a0468ca4c8
+Type Vehicle
+ID 38303
+
+Speed_Min -9
+Speed_Max 15.5
+
+Steer_Min 24
+Steer_Max 48
+
+Brake 32
+
+Fuel_Min 500
+Fuel_Max 800
+Fuel 1800
+
+Health_Min 200
+Health_Max 300
+Health 400
+
+Exit 4
+
+Passenger_Explosion_Armor 0.3
+
+Environment_Invulnerable
+
+Traction
+
+Trunk_Storage_X 9
+Trunk_Storage_Y 6
+
+Explosion 38380
+Tires_Invulnerable
+
+Physics_Profile 9322a053582c41639999d606319094ad
