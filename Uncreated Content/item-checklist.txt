@@ -467,8 +467,8 @@ GUN                  MP5SD                                                      
 BARREL               MP5SD Suppressor                                           31498     dac0f137580d4d51a7668f72bffac189
 GUN                  MAC-10                                                     31499     633a3b46d04d4c35bd50b61478756344
 SIGHT                AK Rear Sights                                             31500     af18242725654a6fad0fe46f4dffe39f
-GUN                  AS Val B3 Mounts                                           31501
-MAGAZINE             9x39mm 30rnd Mag                                           31502
+GUN                  AS Val B3 Mounts                                           31502     d263187c5f6447be99dbd92a911b2011
+MAGAZINE             9x39mm 30rnd Mag                                           31503     2c86059e8fa6448d8f723e7cc6e67fe7
 SIGHT                G36C Iron Sights                                           31504     fd46342aba4c4d1d846e4a7ad2d31b6b
 (2 IDs skipped)
 SIGHT                AKS-74U Rear Sights                                        31507     c974b9fa77734ca19bdf90ec7700f1ff
