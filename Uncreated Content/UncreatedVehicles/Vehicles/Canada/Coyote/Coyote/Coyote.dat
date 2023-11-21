@@ -49,7 +49,7 @@ Turret_0_Pitch_Max 180
 Turret_0_Ignore_Aim_Camera
 
 Turret_1_Seat_Index 1
-Turret_1_Item_ID 38310
+Turret_1_Item_ID 38366
 Turret_1_Yaw_Min -1440
 Turret_1_Yaw_Max 1440
 Turret_1_Pitch_Min 65
