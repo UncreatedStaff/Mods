@@ -307,7 +307,7 @@ GUN                  AUG A3                                                     
 GUN                  Glock 21                                                   31335     f5313493de6d4de780c6a824dfb32ec2
 MAGAZINE             12rnd .45 ACP Magazine                                     31336     79705b361add4f678b0143fca07d3d95
 GUN                  S&W .357                                                   31337     ae47075e0a7a4d298ba35a4b56ed82c8
-(1 IDs skipped)
+GUN                  C8A4                                                       31338         70324be195fd43baac4203b4f0a9bd01
 GUN                  SCAR-L STD                                                 31339     21d9abe142ee4793887a0a9af3bb2faf
 GUN                  SCAR-L STD                                                 31340     d9b900ec96fe46aeaee7fdb317f41200
 (1 IDs skipped)
