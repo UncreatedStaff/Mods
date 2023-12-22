@@ -281,7 +281,7 @@ MAGAZINE             5rnd .338 Lapua Magazine                                   
 GUN                  AKS-74U                                                    31307     47dc44144d9f4826b18fc359ed2457da
 GUN                  M4A1                                                       31308     bbba052df7ad45469aa50920b0a1d003
 GUN                  Scorpion EVO 3 A1                                          31309     cb32957ca1f1464a8ac0b8dd085190e6
-(1 IDs skipped)
+GUN                  Scorpion EVO 3 A1 Magazine                                 31310     c93eba4bff7f442d88bfba88b0de02ad
 GUN                  HK417                                                      31311     3c7f13c0424745709081e37399b120fc
 MAGAZINE             20rnd 7.62x51mm NATO Magazine                              31312     432e19bc1b8d4d749b074e20c708cdee
 MAGAZINE             10rnd 7.62x51mm NATO Magazine                              31313     90ae837e6d804f168412539e929873a9
@@ -292,11 +292,9 @@ GUN                  Remington 870                                              
 GUN                  R700                                                       31318     5ded5febfdfc4e0a9f0fd1c98dac1ad0
 MAGAZINE             .308 Rounds                                                31319     faa1bbf758454c26a6fe2c66c4c6a684
 GUN                  Vityaz-SN                                                  31320     ab9713258dc34af3906fcf7f9819f0d8
-(1 IDs skipped)
 GUN                  FN FAL                                                     31322     aee713e74a4e465e97ffbf232f89fdc5
 GUN                  MP5K                                                       31323     2ebb42e46d2349399fd26c7bf34856b6
 MAGAZINE             MP5 Magazine                                               31324     aeb1d1219c24493cbfe2b197af4a6056
-(1 IDs skipped)
 GUN                  P226                                                       31326     accd00a2d2eb4a0683f8f99d02ed9c83
 MAGAZINE             15rnd 9x19mm Magazine                                      31327     7395802689f34114b0f451b68318cd02
 GUN                  Mossberg M590A1                                            31328     364ef99af0a242fc83c32b23eeea9a1d
@@ -364,7 +362,7 @@ SIGHT                Holographic Sight                                          
 GUN                  MPX                                                        31390     67a9a831c6b2401080380d8bafc1bfd8
 MAGAZINE             30rnd 9x19mm Magazine                                      31391     aaadfb9ad564476684bd063b666ccc26
 GUN                  MCX                                                        31392     fa1c2a389f944cc09b86723793f37893
-(1 IDs skipped)
+SIGHT                SCAR H Iron Sights                                         31393     d4e2740105f444eabb5258c47c2a9bea
 BARREL               9mm Suppressor                                             31394     f3bc299d16c7411ca1d51db84d66ae1d
 BARREL               .45 Suppressor                                             31395     d5bd27237dab4b3b8231bf12a8c50bd5
 BARREL               5.56mm Suppressor                                          31396     f1651608505b4938b2e4025959c2e71e
@@ -423,7 +421,7 @@ GUN                  Glock 18C                                                  
 MAGAZINE             33rnd Glock Magazine                                       31455     12037fe3e9f84835bc725d85b246bd20
 GUN                  Five-Seven                                                 31456     09aa31634c3846128b3a30911452f052
 MAGAZINE             Five-Seven Magazine                                        31457     9cac2e0d2d9e4f8586227465b9ffc0b1
-(1 IDs skipped)
+GUN                  G28                                                        31458     bfeb2875d1304f95915b99e0bbe85694
 GUN                  SKS                                                        31459     bb49f2cfdbdb4a738d8699c5f1cbf016
 MAGAZINE             10rnd 7.62x39mm Magazine                                   31460     b5e2250469634555baee575d6dd9bbe1
 (1 IDs skipped)
@@ -470,18 +468,23 @@ SIGHT                AK Rear Sights                                             
 GUN                  AS Val B3 Mounts                                           31502     d263187c5f6447be99dbd92a911b2011
 MAGAZINE             9x39mm 30rnd Mag                                           31503     2c86059e8fa6448d8f723e7cc6e67fe7
 SIGHT                G36C Iron Sights                                           31504     fd46342aba4c4d1d846e4a7ad2d31b6b
-(2 IDs skipped)
+GUN                  SCAR SSR                                                   31505     a1b0623db7704506971e774dd46e4e69
+GUN                  SCAR SSR Iron Sight                                        31506     bb953c98070b423991c49b71fa4dcb37
 SIGHT                AKS-74U Rear Sights                                        31507     c974b9fa77734ca19bdf90ec7700f1ff
 SIGHT                M16 Carrier Handle                                         31508     f24f489500df48179204ab793fd7ce3c
 SIGHT                Scorpion EVO Rear Sight                                    31509     7aa41fb93cc0459889ac538141308108
-(1 IDs skipped)
+GUN                  SA-58                                                      31510     0f5d928e0c354f41956feb4db2afc84d
 SIGHT                HK417 Iron Sights                                          31511     f175c35afaf44965bf7f533209102609
-(2 IDs skipped)
+SIGHT                G28 Rear Sight                                             31512     9e1ccf6ba4fc410689c0d9264938198a
+(1 IDs skipped)
 SIGHT                M1A SOCOM Rear Sights                                      31514     fdb25861b96d434bae7b97420f0d7be5
 SIGHT                UMP 45 Rear Sight                                          31515     3ea0b95faec24106b5bc4b41993c18ff
-(4 IDs skipped)
+GUN                  Famas                                                      31516     0feb6b1bfff341efb2f4a1ce36ef6746
+SIGHT                Famas Iron Sights                                          31517     57b769f085cf47d1954b001a376fd07c
+SIGHT                PP-19                                                      31518     40212074e9d148669f2465e4d61a7705
+MAGAZINE             PP-19 50 Round Mag                                         31519     3ac1e3939a05430da815b30899852909
 SIGHT                Vityaz Rear Sights                                         31520     1df5647878c24e0d9fd06e4c9061ad93
-(1 IDs skipped)
+SIGHT                PP-19 Rear Sights                                          31521     6ffb34eb1b894b7aa65aa3ba8ab11a99
 SIGHT                FN FAL Rear Sights                                         31522     8fb7a15d553345dda37a9f12b802df31
 SIGHT                MP5 Rear Sights                                            31523     eb0484000324478ca0643e031f1ab97d
 (7 IDs skipped)
@@ -633,10 +636,10 @@ BARRICADE            Vehicle Bay Sign                                           
 (2240 IDs skipped)
 GUN                  Mounted M2A1                                               38301     8c0bd34c72e643b28072e13d162b3528
 MAGAZINE             .50 Cal Ammuntion Crate                                    38302     523c49ce4df44d46ba37be0dd6b4504b
-(1 IDs skipped)
+GUN                  Crows M2A1                                                 38303     3680fa48b3c74e4ebd36ee8b6454b388
 GUN                  Mounted Kord-12.7                                          38304     5647a68c2ed140e592dbb93ce13a0d94
 MAGAZINE             12.7x108mm Ammuntion Crate                                 38305     6e9bc2083a1246b49b1656c2ec6f535a
-(1 IDs skipped)
+GUN                  Crows Kord-12.7                                            38306     aea1a5c18ee948e1896c60addf79e693
 GUN                  LAV-25                                                     38307     b726440abe39461caa954a7002ace50f
 MAGAZINE             25x137mm Armor-Piercing Sabot Shells                       38308     22788e26c5f5483892c9562003b63d49
 GUN                  BTR-80                                                     38309     8618df1dc7344655946abcc69cc8825f
@@ -709,8 +712,9 @@ BARRICADE            Rallypoint                                                 
 BARRICADE            Rallypoint                                                 38382     0d7895360c80440fbe4a45eba28b2007
 GUN                  Smoke Launcher                                             38383     99bfd7e25f1042af90b61cacff77ec63
 MAGAZINE             Smoke Munition                                             38384     5b2ca432d9ac496ca0a909501ecc45ae
-BARRICADE            Rallypoint                                                 38385     c03352d9e6bb4e2993917924b604ee76
-(2 IDs skipped)
+BARRICADE            Rallypoint                                                 38385     
+GUN                  Vehicle M2A1                                               38386     
+GUN                  Vehicle Kord-12.7                                          38387     
 GUN                  M3 MAAWS                                                   38388     1477d875bedb476daa6ffb2bb5d75c74
 MAGAZINE             M3 84mm HEAT                                               38389     e9f4e3eca1c34d74a8f80b43821d3686
 SIGHT                M3 MAAWS Scope                                             38390     1111b22e50144804a17d1d73bff3889d

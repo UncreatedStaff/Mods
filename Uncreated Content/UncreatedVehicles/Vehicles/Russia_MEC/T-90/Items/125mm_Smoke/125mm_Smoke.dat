@@ -1,0 +1,29 @@
+GUID 7da18f652e494cdf97879185983a4064
+Type Magazine
+ID 15051
+
+Size_X 3
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 38375
+
+Explosion 15053
+Explosive
+Range 5
+
+Damage 0
+
+Player_Damage 0
+
+Barricade_Damage 0
+Structure_Damage 0
+
+Tracer 38374
+
+Delete_Empty

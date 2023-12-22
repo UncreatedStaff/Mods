@@ -13,6 +13,7 @@ Sight 31570
 Magazine 38425
 
 Hook_Sight
+Hook_Barrel
 
 Ammo_Min 0
 Ammo_Max 50
@@ -20,9 +21,10 @@ Ammo_Max 50
 Safety
 Auto
 
-Attachment_Calibers 2
+Attachment_Calibers 3
 Attachment_Caliber_0 38415
 Attachment_Caliber_1 38416
+Attachment_Caliber_2 31399
 
 Magazine_Calibers 1
 Magazine_Caliber_0 38425
@@ -61,10 +63,10 @@ Durability 0.12
 Spread_Aim 0.08
 Spread_Hip 0.13
 
-Recoil_Min_X -2.5
-Recoil_Min_Y 5.5
-Recoil_Max_X 2.5
-Recoil_Max_Y 5.5
+Recoil_Min_X -2.25
+Recoil_Min_Y 5.25
+Recoil_Max_X 2.25
+Recoil_Max_Y 5.25
 
 Recoil_Crouch 0.5
 Recoil_Prone 0.5

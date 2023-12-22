@@ -40,7 +40,7 @@ Player_Damage 35
 Player_Leg_Multiplier 0.24
 Player_Arm_Multiplier 0.16
 Player_Spine_Multiplier 1.0
-Player_Skull_Multiplier 1.91
+Player_Skull_Multiplier 2.23
 
 Zombie_Damage 35
 Zombie_Leg_Multiplier 0.24
@@ -51,7 +51,7 @@ Zombie_Skull_Multiplier 2.87
 Animal_Damage 35
 Animal_Leg_Multiplier 0.16
 Animal_Spine_Multiplier 1.0
-Animal_Skull_Multiplier 1.91
+Animal_Skull_Multiplier 2.23
 
 Barricade_Damage 10
 Structure_Damage 10
@@ -65,9 +65,9 @@ Spread_Aim 0.135
 Spread_Hip 0.1
 
 Recoil_Min_X -0.75
-Recoil_Min_Y 3.5
+Recoil_Min_Y 3
 Recoil_Max_X 0.75
-Recoil_Max_Y 4.5
+Recoil_Max_Y 3.5
 
 Recover_X 0.6
 Recover_Y 0.6
