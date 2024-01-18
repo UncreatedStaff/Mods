@@ -1,6 +1,6 @@
 GUID 7da18f652e494cdf97879185983a4064
 Type Magazine
-ID 15051
+ID 38376
 
 Size_X 3
 Size_Y 1
@@ -13,7 +13,7 @@ Count_Max 1
 Calibers 1
 Caliber_0 38375
 
-Explosion 15053
+Explosion 31310
 Explosive
 Range 5
 

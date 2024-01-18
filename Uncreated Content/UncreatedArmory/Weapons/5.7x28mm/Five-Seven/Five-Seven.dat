@@ -26,6 +26,7 @@ Attachment_Caliber_0 31401
 Magazine_Calibers 1
 Magazine_Caliber_0 31457
 
+Zoom_Using_Eyes True
 Range 200
 Firerate 2
 Action Trigger

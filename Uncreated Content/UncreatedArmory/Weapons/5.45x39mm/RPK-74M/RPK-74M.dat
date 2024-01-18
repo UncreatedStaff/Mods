@@ -63,9 +63,9 @@ Spread_Aim 0.08
 Spread_Hip 0.12
 
 Recoil_Min_X -2
-Recoil_Min_Y 3.5
+Recoil_Min_Y 3.75
 Recoil_Max_X 2
-Recoil_Max_Y 3.5
+Recoil_Max_Y 3.75
 
 Recoil_Crouch 0.5
 Recoil_Prone 0.5

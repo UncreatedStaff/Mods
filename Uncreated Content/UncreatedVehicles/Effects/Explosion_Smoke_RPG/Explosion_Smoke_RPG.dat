@@ -1,8 +1,0 @@
-GUID 7e18eb85a41d490a83d8a1f8928db121
-Type Effect
-ID 15035
-
-Relevant_Distance 600
-Spawn_Explosion_On_Dedicated_Server
-
-Lifetime 50

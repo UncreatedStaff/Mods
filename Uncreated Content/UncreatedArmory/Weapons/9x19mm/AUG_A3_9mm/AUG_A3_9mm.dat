@@ -61,10 +61,10 @@ Object_Damage 15
 Durability 0.4
 
 Spread_Aim 0.14
-Spread_Hip 0.22
+Spread_Hip 0.1
 
 Recoil_Min_X -1.25
-Recoil_Min_Y 1.75
+Recoil_Min_Y 2
 Recoil_Max_X 1.25
 Recoil_Max_Y 2.25
 
