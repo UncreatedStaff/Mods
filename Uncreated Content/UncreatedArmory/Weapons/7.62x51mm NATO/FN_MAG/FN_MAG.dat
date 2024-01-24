@@ -12,6 +12,7 @@ Size2_Z 0.6
 Sight 32534
 Magazine 32335
 
+Hook_Sight
 Hook_Barrel
 
 Ammo_Min 0
@@ -38,7 +39,7 @@ Fire_Delay_Seconds 0.1
 Player_Damage 65
 Player_Leg_Multiplier 0.3
 Player_Arm_Multiplier 0.25
-Player_Spine_Multiplier 0.85
+Player_Spine_Multiplier 1.00
 Player_Skull_Multiplier 1.28
 
 Zombie_Damage 65
