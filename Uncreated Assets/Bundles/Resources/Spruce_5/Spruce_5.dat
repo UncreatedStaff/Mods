@@ -1,8 +1,7 @@
-GUID 53ddc847f2014928a4b7b7856df26e5d
+GUID 20822ba793df4cc58c26e92f473782eb
 Type Shirt
-Rarity Epic
 Useable Clothing
-ID 15075
+ID 21015
 
 Size_X 2
 Size_Y 2
@@ -21,3 +20,5 @@ Beard_Visible False
 Hair_Visible False
 
 Exclude_From_Master_Bundle
+
+// If you find this and you use it and give it out to other people without instruction from me, I will probably demote you.

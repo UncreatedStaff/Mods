@@ -50,7 +50,7 @@ Zombie_Skull_Multiplier 2.45
 
 Animal_Damage 65
 Animal_Leg_Multiplier 0.25
-Animal_Spine_Multiplier 0.85
+Animal_Spine_Multiplier 1.00
 Animal_Skull_Multiplier 1.28
 
 Barricade_Damage 20
@@ -64,13 +64,16 @@ Durability 0.12
 Spread_Aim 0.08
 Spread_Hip 0.13
 
-Recoil_Min_X -1.5
-Recoil_Min_Y 4
-Recoil_Max_X 1.5
-Recoil_Max_Y 4
+Recoil_Min_X -2.5
+Recoil_Min_Y 5.5
+Recoil_Max_X 2.5
+Recoil_Max_Y 5.5
 
-Recover_X 0.8
-Recover_Y 0.8
+Recoil_Crouch 0.5
+Recoil_Prone 0.5
+
+Recover_X 0.6
+Recover_Y 0.6
 
 Ballistic_Drop 0.0005
 
