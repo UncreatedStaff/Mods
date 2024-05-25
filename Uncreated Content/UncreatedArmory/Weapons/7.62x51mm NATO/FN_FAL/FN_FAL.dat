@@ -35,11 +35,11 @@ Range 300
 Firerate 4
 Action Trigger
 
-Player_Damage 65
+Player_Damage 75
 Player_Leg_Multiplier 0.3
 Player_Arm_Multiplier 0.25
-Player_Spine_Multiplier 1.25
-Player_Skull_Multiplier 1.32
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.16
 
 Zombie_Damage 65
 Zombie_Leg_Multiplier 0.25
