@@ -37,7 +37,7 @@ Animal_Skull_Multiplier 1.5
 
 Barricade_Damage 7
 Structure_Damage 7
-Vehicle_Damage 16
+Vehicle_Damage 12
 Resource_Damage 30
 Object_Damage 5
 
