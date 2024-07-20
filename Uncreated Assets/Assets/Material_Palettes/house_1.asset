@@ -18,10 +18,6 @@
 		}
 		{
 			"Name" "uncreated_assets.masterbundle"
-			"Path" "Material_Palettes/Houses/house-3.mat"
-		}
-		{
-			"Name" "uncreated_assets.masterbundle"
 			"Path" "Material_Palettes/Houses/house-4.mat"
 		}
 		{
@@ -39,10 +35,6 @@
 		{
 			"Name" "uncreated_assets.masterbundle"
 			"Path" "Material_Palettes/Houses/house-8.mat"
-		}
-		{
-			"Name" "uncreated_assets.masterbundle"
-			"Path" "Material_Palettes/Houses/house-9.mat"
 		}
 	]
 }
