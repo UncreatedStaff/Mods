@@ -3,5 +3,6 @@ Type Large
 ID 28300
 
 
+Exclude_From_Level_Batching true
 LOD Area
 Material_Palette 40b90798d5f241d880e2338e6de1c02d

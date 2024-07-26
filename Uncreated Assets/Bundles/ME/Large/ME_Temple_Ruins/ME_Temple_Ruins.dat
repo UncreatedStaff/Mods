@@ -2,3 +2,5 @@ GUID 6461ed64062a4314a64ead7132c84ee1
 Type Large
 
 LOD None
+
+Exclude_From_Level_Batching true

@@ -7,3 +7,5 @@ Interactability_Resource 6500
 Has_Clip_Prefab false
 
 LOD None
+
+Exclude_From_Level_Batching true

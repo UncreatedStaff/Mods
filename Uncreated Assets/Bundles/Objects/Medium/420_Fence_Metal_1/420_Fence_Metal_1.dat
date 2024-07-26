@@ -3,3 +3,5 @@ Type Medium
 ID 29008
 
 LOD None
+
+Exclude_From_Level_Batching true

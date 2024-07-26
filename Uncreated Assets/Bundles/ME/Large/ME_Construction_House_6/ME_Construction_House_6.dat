@@ -2,3 +2,5 @@ GUID 7a993abf381c4c86bd9430860390ade0
 Type Large
 
 LOD Area
+
+Exclude_From_Level_Batching true

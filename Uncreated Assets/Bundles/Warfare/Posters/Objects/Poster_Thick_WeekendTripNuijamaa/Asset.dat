@@ -15,7 +15,6 @@
     Chart Ignore
 
     Has_Clip_Prefab false
-    Exclude_From_Level_Batching
 
     LOD None
 }

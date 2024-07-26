@@ -2,3 +2,4 @@ GUID faa742959c59411189b3ddf3e4c748f0
 Type Medium
 
 Exclude_From_Culling_Volumes true
+Exclude_From_Level_Batching true

@@ -3,3 +3,4 @@ Type Large
 
 LOD None
 
+Exclude_From_Level_Batching true

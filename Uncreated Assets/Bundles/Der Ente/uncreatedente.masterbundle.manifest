@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3318897909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92d0e8078f634ed50a1dbae554d03f56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08c4fa32de264df8e31d3d10c89652b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Misc/Uncreated/Generators/Generator/Object.prefab
+- Assets/Misc/Uncreated/Generators/GeneratorCap/Nav.prefab
+- Assets/Misc/Uncreated/Source/Materials/Generator.mat
+- Assets/Misc/Uncreated/Generators/Generator/Nav.prefab
+- Assets/Misc/Uncreated/Generators/GeneratorCap/Object.prefab
+- Assets/Misc/Uncreated/Source/Generator.png
+- Assets/Misc/Uncreated/Source/Generators.fbx
+Dependencies: []
