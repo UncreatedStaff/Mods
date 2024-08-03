@@ -5,3 +5,5 @@ ID 38310
 Soft
 
 LOD None
+
+Exclude_From_Level_Batching true

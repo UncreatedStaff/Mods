@@ -12,6 +12,9 @@ Caliber_0 32310
 Silenced 
 Volume 0.9
 
+Ballistic_Damage_Multiplier 0.9
+Ballistic_Drop 1.2
+
 Recoil_X 0.8
 Recoil_Y 0.8
 

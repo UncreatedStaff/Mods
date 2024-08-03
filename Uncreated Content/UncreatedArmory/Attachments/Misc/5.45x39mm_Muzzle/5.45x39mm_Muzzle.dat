@@ -1,0 +1,17 @@
+GUID 15265ecfa5f94a23a78fce7bb2458cdd
+
+Type Barrel
+ID 12513
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
+
+Paintable

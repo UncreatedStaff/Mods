@@ -5,3 +5,5 @@ ID 28293
 
 LOD Area
 Material_Palette 27b35fa642c74c53960ce9e65e27efb7
+
+Exclude_From_Level_Batching true

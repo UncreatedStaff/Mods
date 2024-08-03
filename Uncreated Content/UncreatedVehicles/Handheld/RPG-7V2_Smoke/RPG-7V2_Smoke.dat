@@ -1,0 +1,21 @@
+GUID ed3c44a9565646c7ae243afb674ebdeb
+Type Magazine
+ID 15052
+
+Size_X 4
+Size_Y 1
+Size_Z 0.45
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Projectile_Damage_Multiplier 0
+Projectile_Launch_Force_Multiplier 1
+
+Calibers 1
+Caliber_0 38400
+
+Explosion 15053
+
+Delete_Empty

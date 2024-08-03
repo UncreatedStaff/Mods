@@ -3,7 +3,7 @@ Type Vehicle
 Rarity Legendary
 ID 38325
 
-SSpeed_Min -16
+Speed_Min -16
 Speed_Max 135
 
 Steer_Min 30
@@ -16,20 +16,19 @@ Fuel 4000
 Fuel_Burn_Rate 4
 
 Health_Min 200
-Health_Max 450
+Health_Max 300
 Health 450
+
+Sleds
 
 LockMouse
 Engine Plane
-Sleds
-Reclined
-
 
 Cam_Follow_Distance 8
 
 Passenger_Explosion_Armor 0
 
-Air_Turn_Responsiveness 3
+Air_Turn_Responsiveness 4
 Air_Steer_Min 20
 Air_Steer_Max 40
 
@@ -39,7 +38,7 @@ Trunk_Storage_Y 2
 Explosion 38381
 Tires_Invulnerable
 
-Pitch_Drive 0.008
+Pitch_Drive 0.0052
 
 Turrets 2
 Turret_0_Seat_Index 0
@@ -55,3 +54,5 @@ Turret_1_Yaw_Min -20
 Turret_1_Yaw_Max 20
 Turret_1_Pitch_Min 90
 Turret_1_Pitch_Max 130
+
+Physics_Profile 9958130d559c482e8fe3dcba95c9f2d9

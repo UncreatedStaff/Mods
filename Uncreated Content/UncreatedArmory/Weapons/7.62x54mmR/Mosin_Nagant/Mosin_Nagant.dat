@@ -56,7 +56,7 @@ Object_Damage 3
 Durability 1
 Wear 3
 
-Spread_Aim 0.01
+Spread_Aim 0.007
 Spread_Hip 0.13
 
 Recoil_Min_X -7

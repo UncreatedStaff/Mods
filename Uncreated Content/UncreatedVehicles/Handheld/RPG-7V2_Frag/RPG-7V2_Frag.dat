@@ -12,8 +12,8 @@ Count_Max 1
 
 Projectile_Blast_Radius_Multiplier 1.5
 Projectile_Launch_Force_Multiplier 1
-Projectile_Damage_Multiplier 0.4
-
+// Projectile_Damage_Multiplier 0.4
+// Potential fix for HE rockets not doing damage
 Calibers 1
 Caliber_0 38400
 

@@ -1,0 +1,24 @@
+GUID 20822ba793df4cc58c26e92f473782eb
+Type Shirt
+Useable Clothing
+ID 21015
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+
+Hair_Visible False
+
+Exclude_From_Master_Bundle
+
+// If you find this and you use it and give it out to other people without instruction from me, I will probably demote you.

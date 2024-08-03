@@ -2,4 +2,4 @@ GUID 9abf856d6081444e9dff1e32693367d1
 Type Medium
 ID 28014
 
-
+Exclude_From_Level_Batching true

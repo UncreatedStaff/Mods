@@ -1,15 +1,13 @@
 GUID 74ef59b75462427fb5825fe237b7d4ac
 
-
 Type Tactical
-Rarity Rare
 ID 12531
 
 Size_X 1
 Size_Y 1
 Size_Z 0.075
 
-Spread 0.8
+Spread 0.85
 
 Laser_Color_R 1
 

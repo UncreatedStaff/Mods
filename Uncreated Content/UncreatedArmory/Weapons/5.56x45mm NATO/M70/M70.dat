@@ -31,10 +31,10 @@ Firerate 60
 Action Bolt
 
 Player_Damage 60
-Player_Leg_Multiplier 0.2
-Player_Arm_Multiplier 0.2
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.3
 Player_Spine_Multiplier 1.0
-Player_Skull_Multiplier 1.57
+Player_Skull_Multiplier 1.6
 
 Zombie_Damage 60
 Zombie_Leg_Multiplier 0.3
@@ -43,7 +43,7 @@ Zombie_Spine_Multiplier 0.5
 Zombie_Skull_Multiplier 2.4
 
 Animal_Damage 60
-Animal_Leg_Multiplier 0.2
+Animal_Leg_Multiplier 0.3
 Animal_Spine_Multiplier 1.0
 Animal_Skull_Multiplier 1.57
 

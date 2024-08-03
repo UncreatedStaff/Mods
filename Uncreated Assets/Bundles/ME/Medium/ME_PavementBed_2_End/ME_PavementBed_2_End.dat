@@ -3,3 +3,4 @@ Type Medium
 
 
 Exclude_From_Culling_Volumes true
+Exclude_From_Level_Batching true

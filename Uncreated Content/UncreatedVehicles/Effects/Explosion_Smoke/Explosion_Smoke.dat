@@ -1,0 +1,8 @@
+GUID 7e18eb85a41d490a83d8a1f8928db121
+Type Effect
+ID 31310
+
+Relevant_Distance 750
+Spawn_Explosion_On_Dedicated_Server
+
+Lifetime 50

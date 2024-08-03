@@ -1,0 +1,10 @@
+"Metadata"
+{
+	"GUID" "45f39ed6d5e74d70b1212a5fb1459fde"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp"
+}
+"Asset"
+{
+    Type Medium
+    Has_Clip_Prefab false
+}

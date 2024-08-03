@@ -59,10 +59,10 @@ Durability 0.1
 Spread_Aim 0.14
 Spread_Hip 0.1
 
-Recoil_Min_X -2.5
-Recoil_Min_Y 4
-Recoil_Max_X 2.5
-Recoil_Max_Y 4.5
+Recoil_Min_X -2
+Recoil_Min_Y 3
+Recoil_Max_X 2
+Recoil_Max_Y 3
 
 Recover_X 0.3
 Recover_Y 0.1

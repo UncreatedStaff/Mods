@@ -5,3 +5,5 @@ ID 28337
 
 LOD Area
 Material_Palette cd2d05035d3e4bd9bff098989e69f1bb
+
+Exclude_From_Level_Batching true

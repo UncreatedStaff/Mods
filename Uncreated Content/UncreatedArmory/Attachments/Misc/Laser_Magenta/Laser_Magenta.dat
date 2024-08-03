@@ -1,15 +1,13 @@
 GUID e1d01099316d4c4b8202133ca3763a6d
 
-
 Type Tactical
-Rarity Rare
 ID 12528
 
 Size_X 1
 Size_Y 1
 Size_Z 0.075
 
-Spread 0.8
+Spread 0.85
 
 Laser_Color_R 1
 

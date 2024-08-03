@@ -29,6 +29,8 @@ USA DESERT
 
 VEHICLE         Logistics           38332           5613d32e8e194b3caf44aa16c2e19456
 
+VEHICLE          Transport Truck    38331           afe2529ae33c45cab2b1326a62957c2e
+
 VEHICLE         Humvee              38333           1ad31b946c9d428ea8067757e799bf76
 
 VEHICLE          M1126 Stryker      38334           49e60463e1a744329f4e286761cf76b6
@@ -45,50 +47,54 @@ VEHICLE         AH-1Z               38322           ab43cebdc6574e3491d8954197ef
 
 VEHICLE         F-15E               38326           423d31c55cf84396914be9175ea70d0c
 
-VEHICLE         M2A1                38316          aa3c6af4911243b5b5c9dc95ca1263bf
+VEHICLE         M2A1                38316           aa3c6af4911243b5b5c9dc95ca1263bf
 
-VEHICLE         BGM-71 TOW          38315          9d305050a6a142349376d6c49fb38362  
+VEHICLE         BGM-71 TOW          38315           9d305050a6a142349376d6c49fb38362  
 
-VEHICLE         FIM-92              38329          1883345cbdad40aa81e49c84e6c872ef
+VEHICLE         FIM-92              38329           1883345cbdad40aa81e49c84e6c872ef
 
 
 ---
 
 Russia
 
-VEHICLE         Logistics       38306           fe1a85aeb8e34c2fbeca3e485300a61c
+VEHICLE         Logistics           38306           fe1a85aeb8e34c2fbeca3e485300a61c
 
-VEHICLE         Tigr-M          38302           728fe69f80ed49099e06ab17692950cd
+VEHICLE         Transport Truck     38304           e057b47506c94e48a6c380bd850c0e04
 
-VEHICLE         BRDM-2          38321           64b0652ffdc54d7db4cd8a6dc3de9638
+VEHICLE         Tigr-M              38302           728fe69f80ed49099e06ab17692950cd
 
-VEHICLE         BTR-80          38308           7c4505e3b71649f7b833f2b944caf1b3
+VEHICLE         BRDM-2              38321           64b0652ffdc54d7db4cd8a6dc3de9638
 
-VEHICLE         BTR-82A         38328           f7c68205b5104fa6a6b91d34d68eb496
+VEHICLE         BTR-80              38308           7c4505e3b71649f7b833f2b944caf1b3
 
-VEHICLE         BMP-2           38309           4267c04222ca4811b957540dab7b3d0f
+VEHICLE         BTR-82A             38328           f7c68205b5104fa6a6b91d34d68eb496
 
-VEHICLE         T-90            38319           83ba86868da4a1098a780dfb24deaf4
+VEHICLE         BMP-2               38309           4267c04222ca4811b957540dab7b3d0f
 
-VEHICLE         Mi-8            38312           18a6b283dbd245d0a13e0daa09b84aed
+VEHICLE         T-90                38319           83ba86868da4a1098a780dfb24deaf4
 
-VEHICLE         Mi-28           38323           03d365b9c0bf4e14807be101a43a6a13
+VEHICLE         Mi-8                38312           18a6b283dbd245d0a13e0daa09b84aed
 
-VEHICLE         Su-25           38325           87cbec30cf554f9bb11240ce6f78087a
+VEHICLE         Mi-28               38323           03d365b9c0bf4e14807be101a43a6a13
 
-VEHICLE         Su-27           38371           3f6aba85ab45472cacfe0179e32bc2e6
+VEHICLE         Su-25               38325           87cbec30cf554f9bb11240ce6f78087a
 
-VEHICLE         Kord            38317           86cfe1eb8be144aeae7659c9c74ff11a
+VEHICLE         Su-27               38371           3f6aba85ab45472cacfe0179e32bc2e6
 
-VEHICLE         9M133 Kornet    38314           677b1084dffa463384d29167a3fae25b
+VEHICLE         Kord                38317           86cfe1eb8be144aeae7659c9c74ff11a
 
-VEHICLE         9K38 Igla       38330           8add59a2e2b94f93ab0d6b727d310097
+VEHICLE         9M133 Kornet        38314           677b1084dffa463384d29167a3fae25b
+
+VEHICLE         9K38 Igla           38330           8add59a2e2b94f93ab0d6b727d310097
 
 ---
 
 MEC
 
 VEHICLE         Logistics           38339           855859643f3c49a088a85be7260a5226
+
+VEHICLE         Transport Truck     38338           25a9428b87cf4bc1ba7dc5853e0d2654
 
 VEHICLE         Tigr-M              38340           5ae2e43bdc2545c59698d014edd07a2c
 
@@ -116,11 +122,11 @@ VEHICLE         9K38 Igla           38330           8add59a2e2b94f93ab0d6b727d31
 
 China
 
-VEHICLE          Logistics           38364       8d02c19c612c411e94c82f7513254829
+VEHICLE          Logistics           38364          8d02c19c612c411e94c82f7513254829
 
 VEHICLE          Transport Truck     38374          fd32bfce8b584ebe90ead5ea293112cb
 
-VEHICLE          Humvee              38346         bb5d39beedbd4180880fa0a9b5258454
+VEHICLE          Humvee              38346          bb5d39beedbd4180880fa0a9b5258454
 
 VEHICLE          WZ-551              38350          8d5dc5d09d794c12bdf8d0b379493218
 
@@ -146,9 +152,11 @@ VEHICLE         9K38 Igla            38330          8add59a2e2b94f93ab0d6b727d31
 
 Germany
 
-VEHICLE          Logistics                  38363        7d1b107667c7422a80cfd987c142ad94
+VEHICLE          Logistics                  38363          7d1b107667c7422a80cfd987c142ad94
 
-VEHICLE          Mowag Eagle                38360         bb5d39beedbd4180880fa0a9b5258454
+VEHICLE          Transport Truck            38373          25a9428b87cf4bc1ba7dc5853e0d2654
+
+VEHICLE          Mowag Eagle                38360          bb5d39beedbd4180880fa0a9b5258454
 
 VEHICLE          Boxer                      38355          4a767c39f2b64964a09f82076f2ca7e4
 
@@ -174,7 +182,7 @@ VEHICLE          FIM-92                     38329          1883345cbdad40aa81e49
 
 Canada
 
-VEHICLE          Logistics           38372       1976540f2db449d1b93ae14cb8870b76
+VEHICLE          Logistics           38372          1976540f2db449d1b93ae14cb8870b76
 
 VEHICLE          Transport Truck     38375          5bdc49e5325246c2bfaefd62eff3b9b7 
 

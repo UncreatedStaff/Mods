@@ -1,8 +1,6 @@
 GUID 99b939a68f64471d8cc7ebb20d196e3f
 
-
 Type Sight
-Rarity Uncommon
 ID 12508
 
 Size_X 2
@@ -12,6 +10,7 @@ Size_Z 0.1
 Calibers 1
 Caliber_0 31463
 
+Spread 0.7
 Zoom 10
 
 DistanceMarkers

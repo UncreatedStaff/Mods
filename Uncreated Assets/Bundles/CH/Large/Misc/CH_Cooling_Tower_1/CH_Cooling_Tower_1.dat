@@ -3,4 +3,5 @@ Type Large
 ID 28315
 
 
+Exclude_From_Level_Batching true
 LOD None

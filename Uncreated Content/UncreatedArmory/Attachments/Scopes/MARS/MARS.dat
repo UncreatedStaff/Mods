@@ -1,8 +1,6 @@
 GUID 4568e7733a574fc2841a227db06892b3
 
-
 Type Sight
-Rarity Uncommon
 ID 12512
 
 Calibers 1
@@ -12,4 +10,7 @@ Size_X 2
 Size_Y 1
 Size_Z 0.1
 
+Spread 0.9
+
+Zoom_Using_Eyes True
 Holographic

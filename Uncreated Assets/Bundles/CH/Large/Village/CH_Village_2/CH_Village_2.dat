@@ -4,3 +4,5 @@ ID 28171
 
 
 LOD None
+
+Exclude_From_Level_Batching true

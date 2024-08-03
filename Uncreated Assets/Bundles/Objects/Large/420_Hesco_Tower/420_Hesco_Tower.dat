@@ -5,3 +5,5 @@ ID 38309
 Soft
 
 LOD Area
+
+Exclude_From_Level_Batching true

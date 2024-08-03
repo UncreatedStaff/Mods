@@ -1,11 +1,13 @@
 GUID 3efaedb9777a4b0b8e51eb9e849e6668
+
 Type Sight
-Rarity Uncommon
 ID 12501
 
 Size_X 2
 Size_Y 1
 Size_Z 0.1
+
+Shake 0.4
 
 Calibers 1
 Caliber_0 31464
