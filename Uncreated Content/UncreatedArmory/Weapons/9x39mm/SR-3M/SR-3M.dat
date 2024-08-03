@@ -4,7 +4,7 @@ Useable Gun
 Slot Primary
 ID 31483
 
-Size_X 4
+Size_X 3
 Size_Y 2
 Size_Z 0.46
 Size2_Z 0.6
@@ -26,7 +26,7 @@ Auto
 Attachment_Calibers 3
 Attachment_Caliber_0 31397
 Attachment_Caliber_1 31462
-Attachment_Caliber_2 31485
+Attachment_Caliber_2 31484
 
 Magazine_Calibers 1
 Magazine_Caliber_0 31418

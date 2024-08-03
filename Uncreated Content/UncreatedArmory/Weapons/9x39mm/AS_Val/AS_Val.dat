@@ -31,7 +31,7 @@ Magazine_Calibers 1
 Magazine_Caliber_0 31418
 
 Range 250
-Firerate 4
+Firerate 3
 Action Trigger
 
 Player_Damage 65
