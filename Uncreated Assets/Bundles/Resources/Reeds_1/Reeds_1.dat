@@ -3,3 +3,5 @@ Type Resource
 ID 29030
 
 Scale 0.1
+
+Exclude_From_Level_Batching true

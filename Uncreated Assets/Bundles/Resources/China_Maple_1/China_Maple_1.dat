@@ -11,3 +11,5 @@ Explosion 100
 Reset 450
 
 SpeedTree
+
+Exclude_From_Level_Batching true

@@ -15,3 +15,5 @@ Reward_Max 10
 Reset 450
 
 SpeedTree
+
+Exclude_From_Level_Batching true

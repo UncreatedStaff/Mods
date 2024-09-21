@@ -1,10 +1,11 @@
 "Metadata"
 {
 	"GUID" "18a1012fd71442f7a8de0534afb8c258"
-	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 }
 "Asset"
 {
+	"ID" "0"
 	"Materials"
 	[
 		{
