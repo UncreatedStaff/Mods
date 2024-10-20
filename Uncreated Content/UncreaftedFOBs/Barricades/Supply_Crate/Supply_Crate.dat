@@ -1,5 +1,6 @@
 GUID a2eb76590cf74401aeb7ff4b4b79fd86
 Type Storage
+Rarity Epic
 Useable Barricade
 Build Storage
 ID 38343
@@ -9,12 +10,15 @@ Size_Y 4
 Size_Z 0.65
 
 Health 300
-Range 5
-Offset 0
 
-Storage_X 12
-Storage_Y 16
+Storage_X 14
+Storage_Y 14
 
 Explosion 19
+Vulnerable
+Unrepairable
+Unpickupable
+Unsaveable
 
 Should_Close_When_Outside_Range true
+Has_Clip_Prefab false

@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID 1de3174f5cc449a48e4f6347897623e7
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26281
+    Lifetime_Spread 0
+    Bundle_Override_Path UI/FobHUD
+}
