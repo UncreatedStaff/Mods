@@ -34,7 +34,7 @@ Magazine_Calibers 1
 Magazine_Caliber_0 31343
 
 Range 250
-Firerate 3
+Firerate 2
 Action Trigger
 
 Player_Damage 45
@@ -80,7 +80,7 @@ Shake_Min_Y 0.0025
 Shake_Min_Z -0.01
 Shake_Max_X 0.0025
 Shake_Max_Y -0.0025
-Shake_Max_Z -0.02
+Shake_Max_Z -0.01
 
 Muzzle 3
 
