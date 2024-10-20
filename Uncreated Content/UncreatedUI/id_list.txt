@@ -17,6 +17,7 @@ ConventionalLeaderboard: 26256
 TicketCount: 26257
 GameOverToast: 26258
 StagingPhaseCountdown: 26259
+LobbyHUD: 26260
 
 MediumToast: 26261
 MiniToast: 26262

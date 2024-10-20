@@ -12,3 +12,5 @@ Reset 450
 
 SpeedTree
 SpeedTree_Default_LOD_Weights
+
+Exclude_From_Level_Batching true
