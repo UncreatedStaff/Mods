@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID 88ab3ea884b74821a9e5f39d8e45078e
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26279
+    Lifetime_Spread 0
+    Bundle_Override_Path UI/SquadMenuHUD
+}
