@@ -40,6 +40,7 @@ TeamSelectorHUD: 26275
 MutedNotificationHUD: 26276
 Popup: 26277
 WarningToast: 26278
+CaptureHUD: 26282
 
 26500-26750 - Icons
 

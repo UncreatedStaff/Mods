@@ -1,11 +1,10 @@
 Metadata
 {
-    GUID 0c6fb297197243b38aa47b9c9c1e1d8c
+    GUID 76a9ffb4659a494080d98c8ef7733815
     Type SDG.Unturned.EffectAsset, Assembly-CSharp
 }
 Asset
 {
-    ID 26282
+    ID 26255
     Lifetime_Spread 0
-    Bundle_Override_Path UI/CaptureHUD
 }
