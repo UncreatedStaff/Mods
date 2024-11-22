@@ -27,20 +27,21 @@ CreditsHUD: 26265
 FlagListHUD: 26266
 SuppliesHUD: 26267
 FOBListHUD: 26268 # deprecated
-FobHUD: 26281
 KitMenuHUD: 26269
 RallyHUD: 26270
 PointsHUD: 26271
 ReviveHUD: 26272
 SquadMenuHUD: 26273 # deprecated
 SquadListHUD: 26274 # deprecated
-SquadMenuHUD: 26279 # new
-PlayerSquadHUD: 26280
 TeamSelectorHUD: 26275
 MutedNotificationHUD: 26276
 Popup: 26277
 WarningToast: 26278
+SquadMenuHUD: 26279 # new
+PlayerSquadHUD: 26280
+FobHUD: 26281
 CaptureHUD: 26282
+PointsHUD: 26283
 
 26500-26750 - Icons
 
