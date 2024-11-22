@@ -3,7 +3,7 @@ Type Vehicle
 ID 38324
 
 Speed_Min -100
-Speed_Max 34.7
+Speed_Max 36.5
 
 Steer_Min 60
 Steer_Max 120
@@ -13,7 +13,7 @@ Fuel_Burn_Rate 5
 
 Health_Min 200
 Health_Max 300
-Health 550
+Health 500
 
 Exit 3
 
