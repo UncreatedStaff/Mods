@@ -42,6 +42,7 @@ PlayerSquadHUD: 26280
 FobHUD: 26281
 CaptureHUD: 26282
 PointsHUD: 26283
+DualSidedLeaderboardUI: 26284
 
 26500-26750 - Icons
 
