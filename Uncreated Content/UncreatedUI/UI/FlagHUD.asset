@@ -1,11 +1,11 @@
 Metadata
 {
-    GUID 0add13c6f5c34e7683b9908e8f1caac3
+    GUID af58e2ad05ef4bb4ac177dd40a084946
     Type SDG.Unturned.EffectAsset, Assembly-CSharp
 }
 Asset
 {
-    ID 26285
+    ID 26284
     Lifetime_Spread 0
-    Bundle_Override_Path UI/DialogueBox
+    Bundle_Override_Path UI/FlagHUD
 }

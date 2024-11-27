@@ -1,0 +1,19 @@
+GUID de94da4a993e4ebdbfd56d6e73d0af78
+Type Barricade
+Useable Barricade
+Build Bed
+ID 38344
+
+Size_X 5
+Size_Y 4
+Size_Z 0.65
+
+Health 100
+Range 5
+Radius 0.2
+
+Explosion 19
+Vulnerable
+Unrepairable
+Unpickupable
+Unsaveable
