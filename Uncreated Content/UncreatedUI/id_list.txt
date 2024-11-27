@@ -44,7 +44,7 @@ CaptureHUD: 26282
 PointsHUD: 26283
 FlagHUD: 26284
 DialogueBox: 26285
-DualSidedLeaderboardUI: 26284
+DualSidedLeaderboardUI: 26286
 
 26500-26750 - Icons
 
