@@ -5,8 +5,9 @@ ID 38319
 Speed_Min -26
 Speed_Max 40
 
-Steer_Min 18
-Steer_Max 36
+CrawlerTrackSteering_Torque 10
+CrawlerTrackSteering_SidewaysFrictionMultiplier 1.0
+CrawlerTrackSteering_MaxSpeedScale 1.0
 
 Brake 40
 
@@ -38,6 +39,7 @@ Invulnerable
 Tires_Invulnerable
 
 Cam_Driver_Offset 0.0
+Cam_Follow_Distance 12
 
 Trunk_Storage_X 6
 Trunk_Storage_Y 6
@@ -67,67 +69,185 @@ Turret_2_Pitch_Max 110
 
 Physics_Profile 78597309a568451a911665ddde93fdf1
 
+CrawlerTrackTilingMaterials
+[
+	{
+		Path Model_2
+		MaterialIndex 0
+		WheelIndices
+		[
+			0
+			1
+			2
+			3
+			4
+			5
+		]
+		RepeatDistance 1.5
+		UV_Direction (-1, 0)
+	}
+	{
+		Path Model_2
+		MaterialIndex 1
+		WheelIndices
+		[
+			6
+			7
+			8
+			9
+			10
+			11
+		]
+		RepeatDistance 1.5
+		UV_Direction (-1, 0)
+	}
+]
+
 WheelConfigurations
 [
 	{
-		WheelColliderPath Tires/Tire_0
-		IsColliderSteered true
+		WheelColliderPath Tires/Tire_L0
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_L0
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 0
 	}
 	{
-		WheelColliderPath Tires/Tire_1
-		IsColliderSteered true
+		WheelColliderPath Tires/Tire_L1
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_L1
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 0
 	}
 	{
-		WheelColliderPath Tires/Tire_2
-		IsColliderSteered true
+		WheelColliderPath Tires/Tire_L2
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_L2
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 0
 	}
 	{
-		WheelColliderPath Tires/Tire_3
-		IsColliderSteered true
+		WheelColliderPath Tires/Tire_L3
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_L3
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 0
 	}
 	{
-		WheelColliderPath Tires/Tire_4
-		IsColliderSteered true
+		WheelColliderPath Tires/Tire_L4
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_L4
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 0
 	}
 	{
-		WheelColliderPath Tires/Tire_5
-		IsColliderSteered true
+		WheelColliderPath Tires/Tire_L5
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_L5
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 0
 	}
 	{
-		WheelColliderPath Tires/Tire_6
-		IsColliderSteered false
+		WheelColliderPath Tires/Tire_R0
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_R0
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
-		WheelColliderPath Tires/Tire_7
-		IsColliderSteered false
+		WheelColliderPath Tires/Tire_R1
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_R1
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
-		WheelColliderPath Tires/Tire_8
-		IsColliderSteered false
+		WheelColliderPath Tires/Tire_R2
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_R2
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
-		WheelColliderPath Tires/Tire_9
-		IsColliderSteered false
+		WheelColliderPath Tires/Tire_R3
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_R3
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
-		WheelColliderPath Tires/Tire_10
-		IsColliderSteered false
+		WheelColliderPath Tires/Tire_R4
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_R4
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
-		WheelColliderPath Tires/Tire_11
-		IsColliderSteered false
+		WheelColliderPath Tires/Tire_R5
+		SteeringMode CrawlerTrack
 		IsColliderPowered true
+		ModelPath Wheels/Wheel_R5
+		ModelUseColliderPose true
+		ModelSuspensionOffset 0.2
+		ModelSuspensionSpeed 1
+		MotionEffects BackwardOnly
+		CanExplode false
+		CopyCrawlerTrackSpeedIndex 1
 	}
 ]
 

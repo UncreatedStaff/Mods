@@ -9,7 +9,7 @@ Size_Y 3
 Size_Z 0.65
 
 Health 80
-Range 5
-Offset 0.125
+Range 8
+Offset 0.5
 
 Explosion 19
