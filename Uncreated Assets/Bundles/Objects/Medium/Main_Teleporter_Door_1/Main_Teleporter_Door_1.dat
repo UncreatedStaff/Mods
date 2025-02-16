@@ -1,0 +1,31 @@
+GUID 0386807338804f2ba86ab32fb675219b
+ID 30164
+Type Medium
+
+LOD None
+
+Chart IGNORE
+Exclude_From_Satellite_Capture
+
+Interactability QUEST
+
+# 56300 value
+#  -2 = no kit
+#  -1 = already deploying
+#   0 = able to deploy
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type FLAG_SHORT
+Interactability_Condition_0_ID 56300
+Interactability_Condition_0_Logic NOT_EQUAL
+Interactability_Condition_0_Value -2
+Interactability_Condition_1_Type FLAG_SHORT
+Interactability_Condition_1_ID 56300
+Interactability_Condition_1_Logic NOT_EQUAL
+Interactability_Condition_1_Value -1
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type FLAG_SHORT
+Interactability_Reward_0_ID 56300
+Interactability_Reward_0_Value -1
+Interactability_Reward_0_Modification ASSIGN

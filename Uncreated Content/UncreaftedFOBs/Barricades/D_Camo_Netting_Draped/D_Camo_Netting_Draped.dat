@@ -1,15 +1,15 @@
-GUID f3bd9ee2fa334faabc8fd9d5a3b84424
+GUID 0b2cc421a84b41b6ad472015ea5aba05
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 38353
+ID 38363
 
 Size_X 3
-Size_Y 1
+Size_Y 3
 Size_Z 0.65
 
 Health 500
-Range 4
-Offset 0.125
+Range 5
+Offset 0.05
 
 Explosion 19
