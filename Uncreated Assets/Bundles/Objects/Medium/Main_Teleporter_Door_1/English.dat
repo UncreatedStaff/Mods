@@ -1,5 +1,6 @@
 Name Main Teleporter Door #1
 Interact [{0}] Exit to Main Base
 Interactability_Reward_0 Deploying to Main Base
-Interactability_Condition_0 Get a kit first
-Interactability_Condition_1 Deploying to Main Base
+Interactability_Condition_0 Request a Kit before deploying
+Interactability_Condition_1 Deploying to Main Base...
+Interactability_Condition_2 Not in War Room

@@ -8,10 +8,10 @@ Exclude_From_Satellite_Capture
 
 Interactability QUEST
 
-# 56400 value
-#  -1 = joining
-#   0 = full
-#   1 = able to join
+// 56400 value
+//  -1 = joining
+//   0 = full
+//   1 = able to join
 
 Interactability_Conditions 2
 Interactability_Condition_0_Type FLAG_SHORT

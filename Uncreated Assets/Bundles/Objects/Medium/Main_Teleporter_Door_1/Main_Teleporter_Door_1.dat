@@ -9,12 +9,13 @@ Exclude_From_Satellite_Capture
 
 Interactability QUEST
 
-# 56300 value
-#  -2 = no kit
-#  -1 = already deploying
-#   0 = able to deploy
+// 56300 value
+//  -3 = not in war room
+//  -2 = no kit
+//  -1 = already deploying
+//   0 = able to deploy
 
-Interactability_Conditions 2
+Interactability_Conditions 3
 Interactability_Condition_0_Type FLAG_SHORT
 Interactability_Condition_0_ID 56300
 Interactability_Condition_0_Logic NOT_EQUAL
@@ -23,6 +24,10 @@ Interactability_Condition_1_Type FLAG_SHORT
 Interactability_Condition_1_ID 56300
 Interactability_Condition_1_Logic NOT_EQUAL
 Interactability_Condition_1_Value -1
+Interactability_Condition_2_Type FLAG_SHORT
+Interactability_Condition_2_ID 56300
+Interactability_Condition_2_Logic NOT_EQUAL
+Interactability_Condition_2_Value -3
 
 Interactability_Rewards 1
 Interactability_Reward_0_Type FLAG_SHORT
