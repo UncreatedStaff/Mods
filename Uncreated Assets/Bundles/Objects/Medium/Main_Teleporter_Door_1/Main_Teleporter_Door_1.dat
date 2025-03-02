@@ -12,7 +12,7 @@ Interactability QUEST
 // 56300 value
 //  -3 = already deployed
 //  -2 = no kit
-//  -1 = already deploying
+//  -1 = busy deploying
 //   0 = able to deploy
 
 Interactability_Conditions 3
