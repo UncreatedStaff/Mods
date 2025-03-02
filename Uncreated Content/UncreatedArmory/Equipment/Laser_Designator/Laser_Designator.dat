@@ -62,7 +62,8 @@ Recoil_Max_Y 0
 Recover_X 1
 Recover_Y 1
 
-Ballistic_Force 0
+Ballistic_Travel 5000
+Bullet_Gravity_Multiplier 0
 
 Gunshot_Rolloff_Distance 15
 
