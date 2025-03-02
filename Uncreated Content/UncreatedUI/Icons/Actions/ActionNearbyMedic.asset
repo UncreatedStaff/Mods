@@ -1,12 +1,12 @@
 Metadata
 {
-    GUID ab5cb35e4ae14411a6190a87e72d50ba
+    GUID 0d846b64766041f6b9f1a08df88a9268
     Type SDG.Unturned.EffectAsset, Assembly-CSharp
 }
 Asset
 {
-    ID 26567
+    ID 26541
     Lifetime_Spread 0
-    Lifetime 1
+    Lifetime 0.33
     Bundle_Override_Path Icons/Actions/NearbyMedic
 }
