@@ -4,14 +4,14 @@ Useable Gun
 Slot Primary
 ID 26078
 
-Magazine 26073
+Magazine 26008
 
 Ammo_Min 100
 Ammo_Max 100
 
 Auto
 
-Caliber 26073
+Caliber 26008
 
 Range 1000
 Firerate 2

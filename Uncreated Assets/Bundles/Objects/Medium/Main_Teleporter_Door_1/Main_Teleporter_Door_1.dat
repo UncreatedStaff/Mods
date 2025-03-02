@@ -10,6 +10,7 @@ Exclude_From_Satellite_Capture
 Interactability QUEST
 
 # 56300 value
+#  -3 = already deployed
 #  -2 = no kit
 #  -1 = already deploying
 #   0 = able to deploy
