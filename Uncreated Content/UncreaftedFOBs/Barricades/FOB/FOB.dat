@@ -9,8 +9,8 @@ Size_Y 3
 Size_Z 0.65
 
 Health 1300
-Radius 4
+Radius 4.25
 Range 8
-Offset 0.5
+Offset 4.5
 
 Explosion 19

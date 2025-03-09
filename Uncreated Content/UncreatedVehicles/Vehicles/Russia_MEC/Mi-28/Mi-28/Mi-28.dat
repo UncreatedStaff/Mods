@@ -1,5 +1,6 @@
 GUID 03d365b9c0bf4e14807be101a43a6a13
 Type Vehicle
+Has_Clip_Prefab false
 ID 38323
 
 Valid_Speed_Horizontal 150
