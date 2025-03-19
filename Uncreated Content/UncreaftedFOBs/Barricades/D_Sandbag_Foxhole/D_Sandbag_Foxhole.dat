@@ -9,7 +9,7 @@ Size_Y 3
 Size_Z 0.65
 
 Health 800
-Radius 5
+Radius 0.1
 Range 8
 Offset 0.25
 

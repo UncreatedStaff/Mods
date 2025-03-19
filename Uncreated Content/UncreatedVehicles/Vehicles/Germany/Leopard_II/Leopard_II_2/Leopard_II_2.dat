@@ -1,13 +1,14 @@
 GUID 2960b75c5b3945b0aa8bb4a37c50468c
 Type Vehicle
+Has_Clip_Prefab false
 ID 38365
 
 Speed_Min -26
 Speed_Max 40
 
-CrawlerTrackSteering_Torque 12
+CrawlerTrackSteering_Torque 15
 CrawlerTrackSteering_SidewaysFrictionMultiplier 1.0
-CrawlerTrackSteering_MaxSpeedScale 0.6
+CrawlerTrackSteering_MaxSpeedScale 1.0
 
 Brake 80
 
@@ -30,6 +31,7 @@ Environment_Invulnerable
 Passenger_Explosion_Armor 0.001
 Child_Explosion_Armor_Multiplier 1
 
+Traction
 LockMouse
 Crawler
 
@@ -39,9 +41,6 @@ Tires_Invulnerable
 
 Cam_Driver_Offset 0.05
 Cam_Follow_Distance 12
-
-Pitch_Idle 0.8
-Pitch_Drive 0.08
 
 Trunk_Storage_X 6
 Trunk_Storage_Y 6

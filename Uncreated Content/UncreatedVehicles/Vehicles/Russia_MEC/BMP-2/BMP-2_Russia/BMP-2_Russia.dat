@@ -1,9 +1,10 @@
 GUID 4267c04222ca4811b957540dab7b3d0f
 Type Vehicle
+Has_Clip_Prefab false
 ID 38309
 
-Speed_Min -1
-Speed_Max 1
+Speed_Min -9
+Speed_Max 16
 
 CrawlerTrackSteering_Torque 6
 CrawlerTrackSteering_SidewaysFrictionMultiplier 1.0
