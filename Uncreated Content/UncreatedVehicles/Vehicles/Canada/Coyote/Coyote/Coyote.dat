@@ -9,6 +9,12 @@ Speed_Max 16
 Steer_Min 24
 Steer_Max 48
 
+// I've added this here because it makes vehicles move faster in water if it causes any issues remove it
+Engine Boat
+
+Override_Center_Of_Mass true
+Center_Of_Mass (0, -1, 0)
+
 Brake 40
 
 Fuel_Min 2000
