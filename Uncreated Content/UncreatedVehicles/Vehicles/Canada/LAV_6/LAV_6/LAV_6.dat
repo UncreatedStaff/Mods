@@ -9,6 +9,9 @@ Speed_Max 16
 Steer_Min 24
 Steer_Max 48
 
+// I've added this here because it makes vehicles move faster in water if it causes any issues remove it
+Engine Boat
+
 Brake 40
 
 Fuel_Min 2000
