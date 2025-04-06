@@ -75,7 +75,7 @@ WheelConfigurations
 	}
 ]
 
-ReverseGearRatio 16
+ReverseGearRatio 8
 ForwardGearRatios
 [
 	17

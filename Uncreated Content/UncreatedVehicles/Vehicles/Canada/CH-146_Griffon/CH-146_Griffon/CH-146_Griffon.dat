@@ -4,7 +4,7 @@ Has_Clip_Prefab false
 ID 38324
 
 Speed_Min -100
-Speed_Max 34.7
+Speed_Max 50
 
 Steer_Min 60
 Steer_Max 120

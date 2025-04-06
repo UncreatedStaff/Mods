@@ -10,13 +10,6 @@ CrawlerTrackSteering_Torque 6
 CrawlerTrackSteering_SidewaysFrictionMultiplier 1.0
 CrawlerTrackSteering_MaxSpeedScale 1.0
 
-
-// I've added this here because it makes vehicles move faster in water if it causes any issues remove it
-Engine Boat
-
-Override_Center_Of_Mass true
-Center_Of_Mass (0, -2, 0)
-
 Brake 40
 
 Fuel_Min 2000
@@ -310,7 +303,7 @@ WheelConfigurations
 	}
 ]
 
-ReverseGearRatio 17
+ReverseGearRatio 11.5
 ForwardGearRatios
 [
 	21
