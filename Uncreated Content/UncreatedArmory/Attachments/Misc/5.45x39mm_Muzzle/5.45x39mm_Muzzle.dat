@@ -7,6 +7,9 @@ Size_X 1
 Size_Y 1
 Size_Z 0.15
 
+Calibers 1
+Caliber_0 31397
+
 Recoil_X 0.9
 Recoil_Y 0.9
 
