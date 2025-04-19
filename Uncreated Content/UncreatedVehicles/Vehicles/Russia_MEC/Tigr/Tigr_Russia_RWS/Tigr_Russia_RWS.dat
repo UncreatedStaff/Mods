@@ -1,7 +1,7 @@
-GUID 9d2a0b14f5a642fbbd0740d6f2ab9a9c
+GUID 8dd7004ea6334cada265e2153b8ca675
 Type Vehicle
 Has_Clip_Prefab false
-ID 38378
+ID 38379
 
 Speed_Min -12
 Speed_Max 18
@@ -35,10 +35,10 @@ Tires_Invulnerable
 
 Turrets 1
 Turret_0_Seat_Index 1
-Turret_0_Item_ID 26038
-Turret_0_Yaw_Min -60
-Turret_0_Yaw_Max 60
-Turret_0_Pitch_Min 70
+Turret_0_Item_ID 38306
+Turret_0_Yaw_Min -1440
+Turret_0_Yaw_Max 1440
+Turret_0_Pitch_Min 40
 Turret_0_Pitch_Max 110
 
 Physics_Profile d6e80cc0abf94827b7646c37c2360ada
@@ -89,13 +89,13 @@ GearShift_UpThresholdRPM 4500
 GearShift_DownThresholdRPM 2800
 EngineIdleRPM 1000
 EngineMaxRPM 6000
-EngineMaxTorque 7.5
+EngineMaxTorque 6.5
 
 EngineSound_Type EngineRPMSimple
 EngineSound
 {
 	IdlePitch 0.7
-	IdleVolume 0.5
-	MaxPitch 1.4
-	MaxVolume 0.8
+	IdleVolume 0.7
+	MaxPitch 1.7
+	MaxVolume 1.2
 }
