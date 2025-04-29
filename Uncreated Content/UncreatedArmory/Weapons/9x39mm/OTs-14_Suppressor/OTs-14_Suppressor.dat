@@ -15,10 +15,6 @@ Volume 0.9
 Ballistic_Damage_Multiplier 0.9
 Ballistic_Drop 1.2
 
-Recoil_X 0.8
-Recoil_Y 0.8
-
-Spread 0.85
 Shake 0.9
 
 Paintable

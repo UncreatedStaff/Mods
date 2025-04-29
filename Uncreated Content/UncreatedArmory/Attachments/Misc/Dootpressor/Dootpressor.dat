@@ -10,8 +10,10 @@ Size_Z 0.125
 
 
 Silenced 
-Volume 2
+Volume 0.7
 
-Ballistic_Drop 1.1
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
 
 Paintable
