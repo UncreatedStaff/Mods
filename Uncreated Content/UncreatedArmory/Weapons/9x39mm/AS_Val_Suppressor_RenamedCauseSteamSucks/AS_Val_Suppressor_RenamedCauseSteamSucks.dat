@@ -19,3 +19,6 @@ Ballistic_Drop 1.2
 Shake 0.9
 
 Paintable
+
+// the name was mistakenly made as AS_Val_supressor and Steam's version control system didn't notice us changing the case 
+Bundle_Override_Path Weapons/9x39mm/AS_Val_Suppressor
