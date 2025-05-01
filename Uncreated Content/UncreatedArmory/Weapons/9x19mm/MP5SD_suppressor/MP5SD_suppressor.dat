@@ -12,6 +12,8 @@ Caliber_0 31498
 Silenced 
 Volume 0.7
 
-Ballistic_Drop 1.1
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
 
 Paintable
