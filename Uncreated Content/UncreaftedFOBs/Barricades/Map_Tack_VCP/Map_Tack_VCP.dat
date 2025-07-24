@@ -1,0 +1,15 @@
+GUID f2346118d88f4799b5b7e52c54392990
+Type Barricade
+Useable Barricade
+Build Bed
+ID 38508
+
+Size_X 1
+Size_Y 1
+Size_Z 0.65
+
+Health 100
+Range 5
+Radius 0.2
+
+Explosion 37

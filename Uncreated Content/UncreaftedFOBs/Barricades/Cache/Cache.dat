@@ -1,7 +1,7 @@
 GUID 39051f33f24449b4b3417d0d666a4f27
 Type Barricade
 Useable Barricade
-Build Barricade
+Build Bed
 ID 38404
 
 Size_X 3
@@ -13,5 +13,3 @@ Range 5
 Offset 0.125
 
 Explosion 19
-
-Should_Close_When_Outside_Range true
