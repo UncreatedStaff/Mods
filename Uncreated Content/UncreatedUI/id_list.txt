@@ -46,6 +46,7 @@ FlagHUD: 26284
 DialogueBox: 26285
 DualSidedLeaderboardUI: 26286
 DutyUI: 26287
+KitSelectionUI: 26288
 
 26500-26750 - Icons
 
