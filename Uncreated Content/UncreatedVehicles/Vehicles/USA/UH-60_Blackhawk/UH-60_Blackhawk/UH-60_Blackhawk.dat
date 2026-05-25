@@ -3,6 +3,9 @@ Type Vehicle
 Has_Clip_Prefab false
 ID 38311
 
+Override_Center_Of_Mass true
+Center_Of_Mass (0, 1.0, 0.7)
+
 Speed_Min -100
 Speed_Max 34.7
 
@@ -18,7 +21,7 @@ Health 490
 
 Exit 3
 
-Cam_Follow_Distance 16
+Cam_Follow_Distance 18.5
 
 Passenger_Explosion_Armor 0.01
 
