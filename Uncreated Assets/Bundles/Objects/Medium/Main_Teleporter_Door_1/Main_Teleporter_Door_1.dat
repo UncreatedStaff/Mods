@@ -5,7 +5,7 @@ Type Medium
 LOD None
 
 Chart IGNORE
-Exclude_From_Satellite_Capture
+Exclude_From_Satellite_Capture true
 
 Interactability QUEST
 
