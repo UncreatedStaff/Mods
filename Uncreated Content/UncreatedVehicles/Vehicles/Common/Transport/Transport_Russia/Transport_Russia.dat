@@ -30,6 +30,8 @@ Traction
 Trunk_Storage_X 9
 Trunk_Storage_Y 6
 
+Cam_Follow_Distance 7.5
+
 Explosion 38380
 Tires_Invulnerable
 
@@ -53,32 +55,49 @@ WheelConfigurations
 	}
 	{
 		WheelColliderPath Tires/Tire_2
-		IsColliderSteered false
-		IsColliderPowered false
 		ModelPath Wheels/Wheel_2
 		ModelUseColliderPose true
 	}
 	{
 		WheelColliderPath Tires/Tire_3
-		IsColliderSteered false
-		IsColliderPowered false
 		ModelPath Wheels/Wheel_3
 		ModelUseColliderPose true
 	}
     {
 		WheelColliderPath Tires/Tire_4
-		IsColliderSteered false
 		IsColliderPowered true
 		ModelPath Wheels/Wheel_4
 		ModelUseColliderPose true
 	}
 	{
 		WheelColliderPath Tires/Tire_5
-		IsColliderSteered false
 		IsColliderPowered true
 		ModelPath Wheels/Wheel_5
 		ModelUseColliderPose true
 	}
+]
+
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+    Glass
+	Siding
+    Objects/Steer
+    Wheels/Wheel_0/Model_0
+    Wheels/Wheel_0/Model_1
+    Wheels/Wheel_1/Model_0
+    Wheels/Wheel_1/Model_1
+    Wheels/Wheel_2/Model_0
+    Wheels/Wheel_2/Model_1
+    Wheels/Wheel_3/Model_0
+    Wheels/Wheel_3/Model_1
+    Wheels/Wheel_4/Model_0
+    Wheels/Wheel_4/Model_1
+    Wheels/Wheel_5/Model_0
+    Wheels/Wheel_5/Model_1
+    Headlights_Model
+    Taillights_Model
 ]
 
 ReverseGearRatio 6

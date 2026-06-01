@@ -59,6 +59,7 @@ ExplosionBurnMaterialSections
     Wheels/Wheel_1
     Wheels/Wheel_2
     Wheels/Wheel_3
+	Objects/Steer
 ]
 
 WheelConfigurations
