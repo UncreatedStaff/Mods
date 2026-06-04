@@ -1,0 +1,5 @@
+Name Lobby Flag MEC
+Interact [{0}] Join MEC
+Interactability_Reward_0 Joining MEC
+Interactability_Condition_0 Joining MEC
+Interactability_Condition_1 MEC Full

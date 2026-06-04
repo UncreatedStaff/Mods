@@ -1,0 +1,30 @@
+GUID c948fd61f8db4ddb9cd9ce6e70c5d11d
+Type Medium
+
+LOD None
+
+Chart IGNORE
+Exclude_From_Satellite_Capture true
+
+Interactability QUEST
+
+// 56405 value
+//  -1 = joining
+//   0 = full
+//   1 = able to join
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type FLAG_SHORT
+Interactability_Condition_0_ID 56405
+Interactability_Condition_0_Logic NOT_EQUAL
+Interactability_Condition_0_Value -1
+Interactability_Condition_1_Type FLAG_SHORT
+Interactability_Condition_1_ID 56405
+Interactability_Condition_1_Logic NOT_EQUAL
+Interactability_Condition_1_Value 0
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type FLAG_SHORT
+Interactability_Reward_0_ID 56405
+Interactability_Reward_0_Value -1
+Interactability_Reward_0_Modification ASSIGN

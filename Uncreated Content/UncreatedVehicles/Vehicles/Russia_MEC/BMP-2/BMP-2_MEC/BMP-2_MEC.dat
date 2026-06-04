@@ -129,7 +129,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
@@ -141,7 +141,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
@@ -153,7 +153,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
@@ -165,7 +165,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
@@ -177,7 +177,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects ForwardOnly
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
@@ -201,7 +201,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
@@ -213,7 +213,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
@@ -225,7 +225,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
@@ -237,7 +237,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
@@ -249,7 +249,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects ForwardOnly
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
@@ -261,7 +261,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
@@ -273,7 +273,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
@@ -285,7 +285,7 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
@@ -297,10 +297,57 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects BackwardOnly
+		MotionEffects None
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
+]
+
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+    Glass
+	Objects/Steer/Model_0
+	Objects/Steer/Model_1
+    Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_0
+    Turrets/Turret_2/Yaw/Model_0
+    Turrets/Turret_2/Yaw/Pitch/Model_0
+    Headlights_Model
+    Wheels/Wheel_L0/Model_0
+    Wheels/Wheel_L0/Model_1
+    Wheels/Wheel_L1/Model_0
+    Wheels/Wheel_L1/Model_1
+    Wheels/Wheel_L2/Model_0
+    Wheels/Wheel_L2/Model_1
+    Wheels/Wheel_L3/Model_0
+    Wheels/Wheel_L3/Model_1
+    Wheels/Wheel_L4/Model_0
+    Wheels/Wheel_L4/Model_1
+    Wheels/Wheel_L5/Model_0
+    Wheels/Wheel_L5/Model_1
+    Wheels/Wheel_LAux_0/Model_0
+    Wheels/Wheel_LAux_0/Model_1
+    Wheels/Wheel_LAux_1/Model_0
+    Wheels/Wheel_LAux_1/Model_1
+    Wheels/Wheel_R0/Model_0
+    Wheels/Wheel_R0/Model_1
+    Wheels/Wheel_R1/Model_0
+    Wheels/Wheel_R1/Model_1
+    Wheels/Wheel_R2/Model_0
+    Wheels/Wheel_R2/Model_1
+    Wheels/Wheel_R3/Model_0
+    Wheels/Wheel_R3/Model_1
+    Wheels/Wheel_R4/Model_0
+    Wheels/Wheel_R4/Model_1
+    Wheels/Wheel_R5/Model_0
+    Wheels/Wheel_R5/Model_1
+    Wheels/Wheel_RAux_0/Model_0
+    Wheels/Wheel_RAux_0/Model_1
+    Wheels/Wheel_RAux_1/Model_0
+    Wheels/Wheel_RAux_1/Model_1
+	Model_2
 ]
 
 ReverseGearRatio 11.5

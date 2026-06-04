@@ -1,7 +1,7 @@
-GUID 728fe69f80ed49099e06ab17692950cd
+GUID 46df86225f804b29b686274912ecf46a
 Type Vehicle
 Has_Clip_Prefab false
-ID 38302
+ID 38380
 
 Speed_Min -12
 Speed_Max 18
@@ -35,7 +35,7 @@ Tires_Invulnerable
 
 Turrets 1
 Turret_0_Seat_Index 1
-Turret_0_Item_ID 38387
+Turret_0_Item_ID 38306
 Turret_0_Yaw_Min -1440
 Turret_0_Yaw_Max 1440
 Turret_0_Pitch_Min 40
@@ -82,8 +82,11 @@ ExplosionBurnMaterialSections
 	Objects/Steer/Model_0
 	Objects/Steer/Model_1
     Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_1/Yaw/Model_1
     Turrets/Turret_1/Yaw/Pitch/Model_0
-    Turrets/Turret_1/Yaw/Pitch/Model_1
+    Headlights_Model
+    Taillights_Model
+    Glass
     Wheels/Wheel_0/Model_0
     Wheels/Wheel_0/Model_1
     Wheels/Wheel_1/Model_0
@@ -92,9 +95,6 @@ ExplosionBurnMaterialSections
     Wheels/Wheel_2/Model_1
     Wheels/Wheel_3/Model_0
     Wheels/Wheel_3/Model_1
-    Headlights_Model
-    Taillights_Model
-    Glass
     SpareTire_0
     SpareTire_1
 ]

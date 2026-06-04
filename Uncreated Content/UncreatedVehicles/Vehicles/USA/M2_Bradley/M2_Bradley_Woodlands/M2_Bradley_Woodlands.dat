@@ -26,6 +26,7 @@ Health 850
 
 Exit 4
 
+Cam_Driver_Offset 0.1
 Cam_Follow_Distance 10.5
 
 Bumper_Multiplier 2
