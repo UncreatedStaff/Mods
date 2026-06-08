@@ -6,6 +6,9 @@ ID 38344
 Speed_Min -26
 Speed_Max 40
 
+Steer_Min 48
+Steer_Max 64
+
 CrawlerTrackSteering_Torque 10
 CrawlerTrackSteering_SidewaysFrictionMultiplier 1.0
 CrawlerTrackSteering_MaxSpeedScale 1.0
