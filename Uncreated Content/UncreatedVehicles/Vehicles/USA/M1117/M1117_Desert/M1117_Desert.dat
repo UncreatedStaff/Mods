@@ -1,7 +1,7 @@
-GUID 9ad4011fd08548e580460a5566f90d11
+GUID 7869ddfc42c0449c84b47b5a1dcf9332
 Type Vehicle
 Has_Clip_Prefab false
-ID 38341
+ID 38384
 
 Speed_Min -9
 Speed_Max 15

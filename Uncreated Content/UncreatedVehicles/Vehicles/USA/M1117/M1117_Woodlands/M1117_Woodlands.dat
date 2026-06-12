@@ -1,7 +1,7 @@
-GUID 9ad4011fd08548e580460a5566f90d11
+GUID a0105041dbdf49998bfe2ca827510d50
 Type Vehicle
 Has_Clip_Prefab false
-ID 38341
+ID 38385
 
 Speed_Min -9
 Speed_Max 15
@@ -135,4 +135,3 @@ EngineSound
 	MaxPitch 1.7
 	MaxVolume 1.2
 }
-
