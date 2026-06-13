@@ -47,8 +47,8 @@ ExplosionBurnMaterialSections
 [
     Model_0
     Model_1
+    Model_2
     Turrets/Turret_1/Yaw/Model_0
-    Turrets/Turret_1/Yaw/Model_1
     Turrets/Turret_1/Yaw/Pitch/Model_0
     Headlights_Model
     Taillights_Model
