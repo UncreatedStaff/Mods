@@ -5,6 +5,8 @@ Useable Barricade
 Build Storage
 ID 38343
 
+Has_Clip_Prefab false
+
 Size_X 7
 Size_Y 5
 Size_Z 0.65
@@ -22,3 +24,5 @@ Unpickupable
 Unsaveable
 
 Should_Close_When_Outside_Range true
+
+PlacementAudioClip Barricades/Use_Wood.mp3

@@ -4,6 +4,8 @@ Useable Barricade
 Build Bed
 ID 38489
 
+Has_Clip_Prefab false
+
 Size_X 3
 Size_Y 2
 Size_Z 0.65

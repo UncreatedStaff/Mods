@@ -4,6 +4,8 @@ Useable Barricade
 Build Bed
 ID 38344
 
+Has_Clip_Prefab false
+
 Size_X 5
 Size_Y 4
 Size_Z 0.65
@@ -17,3 +19,5 @@ Explosion 19
 Unrepairable
 Unpickupable
 Unsaveable
+
+PlacementAudioClip Barricades/Use_Wood.mp3
