@@ -1,0 +1,19 @@
+GUID f1c2c8c10ca8472b8758c06c7a0aac32
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 38517
+
+Has_Clip_Prefab false
+
+Size_X 3
+Size_Y 3
+Size_Z 0.65
+
+Health 50
+Range 10
+Offset 0.125
+
+Explosion 19
+
+PlacementAudioClip Barricades/Use_Wood.mp3
