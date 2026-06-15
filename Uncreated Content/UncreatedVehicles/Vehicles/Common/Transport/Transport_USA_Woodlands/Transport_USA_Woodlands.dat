@@ -24,6 +24,7 @@ Exit 4
 Passenger_Explosion_Armor 0.3
 
 Environment_Invulnerable
+Bumper_SelfDamageMultiplier 0.25
 
 Traction
 
