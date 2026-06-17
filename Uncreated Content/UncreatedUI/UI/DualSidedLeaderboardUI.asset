@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID 30f6029be72249de94c17a4d06a7cd49
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26286
+    Lifetime_Spread 0
+    Bundle_Override_Path UI/DualSidedLeaderboardUI
+}

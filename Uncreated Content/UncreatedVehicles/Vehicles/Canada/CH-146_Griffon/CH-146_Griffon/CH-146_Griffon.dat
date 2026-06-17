@@ -1,9 +1,10 @@
 GUID 0b54c7ce5d00469fafa26a8faa7f2a3a
 Type Vehicle
+Has_Clip_Prefab false
 ID 38324
 
 Speed_Min -100
-Speed_Max 36.5
+Speed_Max 50
 
 Steer_Min 60
 Steer_Max 120

@@ -1,0 +1,13 @@
+"Metadata"
+{
+	"GUID" "6fda4f0fee9a444aa7f6d4221b281a9a"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp"
+}
+"Asset"
+{
+    Type Small
+    Chart IGNORE
+    Landmark_Quality MEDIUM
+    Exclude_From_Culling_Volumes true
+    Exclude_From_Level_Batching true
+}

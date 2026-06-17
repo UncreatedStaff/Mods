@@ -1,0 +1,19 @@
+GUID 3dc2b9b3d06a40888444e1c9e113b0bc
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 38480
+
+Has_Clip_Prefab false
+
+Size_X 1
+Size_Y 1
+Size_Z 0.65
+
+Health 100
+Range 5
+Radius 0.2
+
+Explosion 37
+
+PlacementAudioClip Barricades/Use_Wood.mp3

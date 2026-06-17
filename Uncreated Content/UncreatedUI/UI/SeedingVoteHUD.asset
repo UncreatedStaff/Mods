@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID afdf11b38722485c9f4e9847c583f013
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    Lifetime_Spread 0
+    Bundle_Override_Path UI/SeedingVoteHUD
+    Bypass_ID_Limit
+}

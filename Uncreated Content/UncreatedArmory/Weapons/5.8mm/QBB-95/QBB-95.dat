@@ -68,6 +68,9 @@ Recoil_Min_Y 3
 Recoil_Max_X 2
 Recoil_Max_Y 4
 
+Recoil_Crouch 0.5
+Recoil_Prone 0.5
+
 Recover_X 0.6
 Recover_Y 0.6
 

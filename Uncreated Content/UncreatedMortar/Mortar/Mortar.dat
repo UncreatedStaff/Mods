@@ -1,5 +1,6 @@
 GUID 94bf8feb05bc4680ac26464bc175460c
 Type Vehicle
+Has_Clip_Prefab false
 ID 38313
 
 Speed_Min -5

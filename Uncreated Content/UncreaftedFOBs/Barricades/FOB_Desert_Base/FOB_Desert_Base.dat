@@ -1,0 +1,20 @@
+GUID 92b8b7dd56da42c2a744a7100eac5790
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 38532
+
+Has_Clip_Prefab false
+
+Size_X 3
+Size_Y 3
+Size_Z 0.65
+
+Health 100
+Range 10
+Offset 0.125
+
+Explosion 19
+
+PlacementAudioClip Barricades/Use_Wood.mp3
+PlacementPreviewPrefab Barricades/FOB_Desert/Barricade.prefab

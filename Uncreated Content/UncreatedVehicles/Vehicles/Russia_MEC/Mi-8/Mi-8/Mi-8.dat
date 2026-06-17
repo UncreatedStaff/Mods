@@ -1,9 +1,13 @@
 GUID 18a6b283dbd245d0a13e0daa09b84aed
 Type Vehicle
+Has_Clip_Prefab false
 ID 38312
 
+Override_Center_Of_Mass true
+Center_Of_Mass (0, 2, 0)
+
 Speed_Min -100
-Speed_Max 36.5
+Speed_Max 50
 
 Steer_Min 60
 Steer_Max 120

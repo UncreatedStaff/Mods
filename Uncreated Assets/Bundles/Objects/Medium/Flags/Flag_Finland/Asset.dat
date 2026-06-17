@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "37b5752b48c048f5a27c6e8fb6c45e7a"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp"
+}
+"Asset"
+{
+    Type Medium
+    
+    Snowshoe
+
+    Interactability Rubble
+    Interactability_Reset 300
+    Interactability_Health 100
+    Interactability_Effect 72
+}

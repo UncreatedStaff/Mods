@@ -1,15 +1,14 @@
 GUID 16f55b999e9b4f158be12645e41dd753
-Type Barricade
-Useable Barricade
-Build Barricade
+Type Throwable
+Useable Throwable
 ID 38398
 
 Size_X 3
 Size_Y 2
-Size_Z 0.65
+Size_Z 0.4
 
-Health 300
-Range 5
-Offset 0.0625
+Strong_Throw_Force 150
+Weak_Throw_Force  20
 
-Explosion 19
+Fuse_Length 1.5
+

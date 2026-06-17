@@ -3,4 +3,6 @@ Type Large
 ID 28162
 
 LOD Area
-Material_Palette 8b9c16b409d5404f8c268dc54c0ae37b
+Material_Palette 40b90798d5f241d880e2338e6de1c02d
+
+Exclude_From_Level_Batching true

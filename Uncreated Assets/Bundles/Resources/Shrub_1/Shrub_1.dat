@@ -9,3 +9,5 @@ Scale 0.3
 Explosion 100
 
 Reset 450
+
+Exclude_From_Level_Batching true

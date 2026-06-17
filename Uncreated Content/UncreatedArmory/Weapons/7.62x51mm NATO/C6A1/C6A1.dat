@@ -1,0 +1,107 @@
+GUID 79225c97e4594153a05cbef7ba419780
+Type Gun
+Useable Gun
+Slot Primary
+ID 32341
+
+Size_X 5
+Size_Y 2
+Size_Z 0.47
+Size2_Z 0.6
+
+Sight 32535
+Magazine 32335
+
+Hook_Sight
+Hook_Barrel
+
+Ammo_Min 0
+Ammo_Max 75
+
+Safety
+Auto
+
+Attachment_Calibers 3
+Attachment_Caliber_0 31399
+Attachment_Caliber_1 31464
+Attachment_Caliber_2 31469
+
+Magazine_Calibers 1
+Magazine_Caliber_0 32335
+
+Range 300
+Firerate 4
+Action Trigger
+
+Fire_Delay_Seconds 0.1
+
+Player_Damage 65
+Player_Leg_Multiplier 0.3
+Player_Arm_Multiplier 0.25
+Player_Spine_Multiplier 1.00
+Player_Skull_Multiplier 1.28
+
+Zombie_Damage 65
+Zombie_Leg_Multiplier 0.25
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.5
+Zombie_Skull_Multiplier 2.45
+
+Animal_Damage 65
+Animal_Leg_Multiplier 0.25
+Animal_Spine_Multiplier 1.00
+Animal_Skull_Multiplier 1.28
+
+Barricade_Damage 20
+Structure_Damage 15
+Vehicle_Damage 35
+Resource_Damage 15
+Object_Damage 1
+
+Durability 0.12
+
+Spread_Aim 0.08
+Spread_Hip 0.13
+
+Recoil_Min_X -2.5
+Recoil_Min_Y 5.5
+Recoil_Max_X 2.5
+Recoil_Max_Y 5.5
+
+Recoil_Crouch 0.5
+Recoil_Prone 0.5
+
+Recover_X 0.6
+Recover_Y 0.6
+
+Ballistic_Drop 0.0005
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Muzzle 3
+
+Shell 31405
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Tool 76
+Blueprint_0_Level 1
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 32334
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 2
+Blueprint_1_Output_1_ID 61
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27

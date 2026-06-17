@@ -4,4 +4,4 @@ Asset_Bundle_Name uncreated_vehicles.masterbundle
 // Unity subfolders should match 1:1 with dat subfolders.
 Asset_Prefix Assets/UncreatedVehicles
 
-Asset_Bundle_Version 4
+Asset_Bundle_Version 6

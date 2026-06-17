@@ -1,0 +1,6 @@
+Name Main Teleporter Door #1
+Interact [{0}] Exit to Main Base
+Interactability_Reward_0 Deploying to Main Base
+Interactability_Condition_0 Already Deployed
+Interactability_Condition_1 Request a Kit before deploying
+Interactability_Condition_2 Deploying to Main Base...

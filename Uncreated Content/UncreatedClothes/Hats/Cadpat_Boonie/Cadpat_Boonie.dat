@@ -1,0 +1,24 @@
+GUID a22b3acdd7404e6f99ec8d6823a94be0
+Type Hat
+Useable Clothing
+ID 30907
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 30907
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

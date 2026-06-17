@@ -16,7 +16,7 @@ Asset
     Size_Z 0.75
 
     Health 250
-    Range 4
+    Range 10
     Radius 0.5
     Offset 1.25
 

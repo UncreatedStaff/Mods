@@ -1,5 +1,6 @@
 GUID 6082d95b5fcb4805a7a2120e3e3c6f68
 Type Vehicle
+Has_Clip_Prefab false
 ID 38311
 
 Speed_Min -100
@@ -48,3 +49,19 @@ Turret_1_Pitch_Min 35
 Turret_1_Pitch_Max 135
 
 Physics_Profile 542cbb7fa3654621a11327df340829bf
+
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+    Glass
+    Objects/Steer
+    Rotors/Rotor_0/Model_0
+    Rotors/Rotor_1/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_1
+    Turrets/Turret_1/Yaw
+    Turrets/Turret_2/Yaw/Pitch/Model_0
+    Turrets/Turret_2/Yaw/Pitch/Model_1
+    Turrets/Turret_2/Yaw
+]

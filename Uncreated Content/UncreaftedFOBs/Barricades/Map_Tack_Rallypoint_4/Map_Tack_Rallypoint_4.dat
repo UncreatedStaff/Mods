@@ -1,0 +1,19 @@
+GUID 8d17afae0e844ceab3d2b57694924fa0
+Type Barricade
+Useable Barricade
+Build Bed
+ID 38493
+
+Has_Clip_Prefab false
+
+Size_X 1
+Size_Y 1
+Size_Z 0.65
+
+Health 100
+Range 5
+Radius 0.2
+
+Explosion 37
+
+PlacementAudioClip Barricades/Use_Wood.mp3

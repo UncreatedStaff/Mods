@@ -1,17 +1,27 @@
 GUID c0d11e0666694ddea667377b4c0580be
-Type Barricade
+Type Storage
 Useable Barricade
-Build Barricade
+Build Storage
 ID 38319
+
+Has_Clip_Prefab false
 
 Size_X 4
 Size_Y 3
 Size_Z 0.65
+
+Storage_X 13
+Storage_Y 14
 
 Health 600
 Range 5
 Offset 0.125
 
 Explosion 19
+Vulnerable
+Unrepairable
+Unpickupable
 
 Should_Close_When_Outside_Range true
+
+PlacementAudioClip Barricades/Use_Wood.mp3

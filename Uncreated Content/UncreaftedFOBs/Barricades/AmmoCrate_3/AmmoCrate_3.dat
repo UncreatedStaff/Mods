@@ -1,0 +1,14 @@
+GUID 08677ddc06604ac0b81f3ad8a65eb182
+Type Throwable
+Useable Throwable
+ID 38490
+
+Size_X 4
+Size_Y 3
+Size_Z 0.65
+
+Strong_Throw_Force 80
+Weak_Throw_Force  10
+
+Fuse_Length 1.5
+

@@ -1,5 +1,6 @@
 GUID b7b8c5f5af1c48ecabd201773895ed63
 Type Vehicle
+Has_Clip_Prefab false
 ID 38346
 
 Speed_Min -12
@@ -23,6 +24,7 @@ Exit 4
 Passenger_Explosion_Armor 0.15
 
 Environment_Invulnerable
+Bumper_SelfDamageMultiplier 0.25
 
 Traction
 

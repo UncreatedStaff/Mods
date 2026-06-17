@@ -7,3 +7,5 @@ LOD None
 Soft
 Snowshoe
 Chart Ground
+
+Exclude_From_Level_Batching true

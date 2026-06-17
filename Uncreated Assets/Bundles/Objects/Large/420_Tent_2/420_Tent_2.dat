@@ -3,3 +3,5 @@ Type Large
 ID 30182
 
 LOD Area
+
+Exclude_From_Level_Batching true

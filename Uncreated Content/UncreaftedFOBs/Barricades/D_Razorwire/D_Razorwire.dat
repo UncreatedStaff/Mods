@@ -4,17 +4,20 @@ Useable Barricade
 Build Spike
 ID 38359
 
+Has_Clip_Prefab false
+
 Size_X 3
 Size_Y 1
 Size_Z 0.2
 
 Health 500
 Range 4
-Radius 0.15
-Offset 0.2
+Offset 0.125
 
 Player_Damage 20
 Zombie_Damage 20
 Animal_Damage 20
 
 Explosion 36
+
+PlacementAudioClip Barricades/Use_Razorwire.mp3

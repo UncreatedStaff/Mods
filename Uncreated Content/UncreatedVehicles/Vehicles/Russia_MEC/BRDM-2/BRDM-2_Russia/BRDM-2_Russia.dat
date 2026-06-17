@@ -1,5 +1,6 @@
 GUID 64b0652ffdc54d7db4cd8a6dc3de9638
 Type Vehicle
+Has_Clip_Prefab false
 ID 38321
 
 Speed_Min -9
@@ -26,6 +27,8 @@ Passenger_Explosion_Armor 0.01
 Bumper_Invulnerable
 Environment_Invulnerable
 Child_Explosion_Armor_Multiplier 1
+Bumper_SelfDamageMultiplier 0.25
+
 
 Traction
 LockMouse
@@ -56,3 +59,81 @@ Turret_1_Pitch_Min 70
 Turret_1_Pitch_Max 100
 
 Physics_Profile a633273b839144d3b212d50dfc8800d8
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose true
+	}
+]
+
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+	Objects/Steer/Model_0
+	Objects/Steer/Model_1
+    Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_0
+    Wheels/Wheel_0/Model_0
+    Wheels/Wheel_0/Model_1
+    Wheels/Wheel_1/Model_0
+    Wheels/Wheel_1/Model_1
+    Wheels/Wheel_2/Model_0
+    Wheels/Wheel_2/Model_1
+    Wheels/Wheel_3/Model_0
+    Wheels/Wheel_3/Model_1
+    Headlights_Model
+    Taillights_Model
+    Glass
+]
+
+ReverseGearRatio 8
+ForwardGearRatios
+[
+	17
+    12.5
+    11.4
+    10.8
+]
+GearShift_Duration 0.2
+GearShift_Interval 0.5
+GearShift_UpThresholdRPM 4500
+GearShift_DownThresholdRPM 2800
+EngineIdleRPM 1000
+EngineMaxRPM 6000
+EngineMaxTorque 6.5
+
+EngineSound_Type EngineRPMSimple
+EngineSound
+{
+	IdlePitch 0.7
+	IdleVolume 0.7
+	MaxPitch 1.7
+	MaxVolume 1.2
+}

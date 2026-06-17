@@ -8,4 +8,4 @@ Scale 0.1
 
 Reset 1000
 
-Asset_Bundle_Version 2
+Exclude_From_Level_Batching true

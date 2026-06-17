@@ -2,9 +2,9 @@ GUID befe9d0ce6b94859a724858f0142be98
 Type Barrel
 ID 31484
 
-Size_X 3
+Size_X 2
 Size_Y 1
-Size_Z 0.125
+Size_Z 0.14
 
 Calibers 1
 Caliber_0 31484
@@ -14,9 +14,6 @@ Volume 0.9
 
 Ballistic_Damage_Multiplier 0.9
 Ballistic_Drop 1.2
-
-Recoil_X 0.9
-Recoil_Y 0.9
 
 Shake 0.9
 

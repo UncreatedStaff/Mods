@@ -1,5 +1,6 @@
 GUID 423d31c55cf84396914be9175ea70d0c
 Type Vehicle
+Has_Clip_Prefab false
 Rarity Legendary
 ID 38326
 
@@ -65,3 +66,61 @@ Turret_3_Pitch_Min 45
 Turret_3_Pitch_Max 135
 
 Physics_Profile 9958130d559c482e8fe3dcba95c9f2d9
+
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+    Glass
+    Objects/Steer
+]
+
+WheelConfigurations
+[
+    {
+        // physical front wheel
+        ModelPath Wheels/Wheel_0
+        ModelRadius 0.95
+        CopyColliderRpmIndex 1
+    }
+    {
+        // fake front left wheel collider
+        WheelColliderPath Tires/Tire_0
+        IsColliderPowered true
+        IsColliderSteered true
+        MotionEffects None
+        CanExplode false
+    }
+    {
+        // fake front right wheel collider
+        WheelColliderPath Tires/Tire_1
+        IsColliderPowered true
+        IsColliderSteered true
+        MotionEffects None
+        CanExplode false
+    }
+    {
+        // physical back left wheel
+        ModelPath Wheels/Wheel_1
+        ModelRadius 0.95
+        CopyColliderRpmIndex 4
+    }
+    {
+        // fake back left wheel collider
+        WheelColliderPath Tires/Tire_2
+        IsColliderPowered true
+        CanExplode false
+    }
+    {
+        // physical back left wheel
+        ModelPath Wheels/Wheel_2
+        ModelRadius 0.95
+        CopyColliderRpmIndex 6
+    }
+    {
+        // fake back left wheel collider
+        WheelColliderPath Tires/Tire_3
+        IsColliderPowered true
+        CanExplode false
+    }
+]

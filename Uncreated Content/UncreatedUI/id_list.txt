@@ -17,6 +17,7 @@ ConventionalLeaderboard: 26256
 TicketCount: 26257
 GameOverToast: 26258
 StagingPhaseCountdown: 26259
+LobbyHUD: 26260
 
 MediumToast: 26261
 MiniToast: 26262
@@ -25,17 +26,27 @@ TipToast: 26264
 CreditsHUD: 26265
 FlagListHUD: 26266
 SuppliesHUD: 26267
-FOBListHUD: 26268
+FOBListHUD: 26268 # deprecated
 KitMenuHUD: 26269
 RallyHUD: 26270
 PointsHUD: 26271
 ReviveHUD: 26272
-SquadMenuHUD: 26273
-SquadListHUD: 26274
+SquadMenuHUD: 26273 # deprecated
+SquadListHUD: 26274 # deprecated
 TeamSelectorHUD: 26275
-MutedNotificationHUD: 26276
+MutedUI: 26276
 Popup: 26277
 WarningToast: 26278
+SquadMenuHUD: 26279 # new
+PlayerSquadHUD: 26280
+FobHUD: 26281
+CaptureHUD: 26282
+PointsHUD: 26283
+FlagHUD: 26284
+DialogueBox: 26285
+DualSidedLeaderboardUI: 26286
+DutyUI: 26287
+KitSelectionUI: 26288
 
 26500-26750 - Icons
 

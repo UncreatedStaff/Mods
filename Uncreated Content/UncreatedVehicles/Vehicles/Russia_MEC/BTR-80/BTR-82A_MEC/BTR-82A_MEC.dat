@@ -1,9 +1,10 @@
 GUID 846856f6dcde48cca457ff24521daa97
 Type Vehicle
+Has_Clip_Prefab false
 ID 38342
 
 Speed_Min -9
-Speed_Max 16
+Speed_Max 18
 
 Steer_Min 24
 Steer_Max 48
@@ -36,7 +37,7 @@ Explosion 38379
 Invulnerable
 Tires_Invulnerable
 
-Cam_Driver_Offset 0.1
+Cam_Driver_Offset 0
 
 Turrets 2
 
@@ -56,3 +57,118 @@ Turret_1_Pitch_Min 30
 Turret_1_Pitch_Max 98
 
 Physics_Profile 468d92ece4074e8d910924a9ec9a5d96
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose true
+	}
+    {
+		WheelColliderPath Tires/Tire_4
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_4
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_5
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_5
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_6
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_6
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_7
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_7
+		ModelUseColliderPose true
+	}
+]
+
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+	Objects/Steer/Model_0
+	Objects/Steer/Model_1
+    Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_0
+    Turrets/Turret_2/Yaw/Model_0
+    Turrets/Turret_2/Yaw/Model_1
+    Wheels/Wheel_0/Model_0
+    Wheels/Wheel_0/Model_1
+    Wheels/Wheel_1/Model_0
+    Wheels/Wheel_1/Model_1
+    Wheels/Wheel_2/Model_0
+    Wheels/Wheel_2/Model_1
+    Wheels/Wheel_3/Model_0
+    Wheels/Wheel_3/Model_1
+    Wheels/Wheel_4/Model_0
+    Wheels/Wheel_4/Model_1
+    Wheels/Wheel_5/Model_0
+    Wheels/Wheel_5/Model_1
+    Wheels/Wheel_6/Model_0
+    Wheels/Wheel_6/Model_1
+    Wheels/Wheel_7/Model_0
+    Wheels/Wheel_7/Model_1
+    Headlights_Model
+    Glass
+]
+
+ReverseGearRatio 13
+ForwardGearRatios
+[
+	26.3
+	20.5
+	16.79
+    13.19
+]
+GearShift_Duration 0.4
+GearShift_Interval 1
+GearShift_UpThresholdRPM 4500
+GearShift_DownThresholdRPM 3200
+EngineIdleRPM 1000
+EngineMaxRPM 6000
+EngineMaxTorque 4
+
+EngineSound_Type EngineRPMSimple
+EngineSound
+{
+	IdlePitch 0.65
+	IdleVolume 0.7
+	MaxPitch 1.7
+	MaxVolume 1.2
+}

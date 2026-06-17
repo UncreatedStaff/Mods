@@ -4,3 +4,5 @@ ID 28050
 
 
 Material_Palette 09f574bcc56740d0b9da2f32c266f4fe
+
+Exclude_From_Level_Batching true

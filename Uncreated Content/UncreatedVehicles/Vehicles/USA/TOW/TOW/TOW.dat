@@ -1,5 +1,6 @@
 GUID 9d305050a6a142349376d6c49fb38362
 Type Vehicle
+Has_Clip_Prefab false
 ID 38315
 
 Speed_Min -5
@@ -20,12 +21,14 @@ Health 400
 
 Exit 1.5
 
+Explosion 38329
 Explosion_Min_Force_X -16
 Explosion_Min_Force_Y 128
 Explosion_Min_Force_Z -16
 Explosion_Max_Force_X 16
 Explosion_Max_Force_Y 128
 Explosion_Max_Force_Z 16
+ShouldExplosionCauseDamage false
 
 Bicycle
 Bicycle_Anim_Speed 0.25

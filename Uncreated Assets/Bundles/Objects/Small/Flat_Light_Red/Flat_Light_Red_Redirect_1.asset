@@ -1,0 +1,9 @@
+Metadata
+{
+    GUID 06c5d49a990048568068e5ca560da818
+    Type SDG.Unturned.RedirectorAsset, Assembly-CSharp
+}
+Asset
+{
+    TargetAsset 68a5684c218242a69b8eab2bd8ef9392
+}
