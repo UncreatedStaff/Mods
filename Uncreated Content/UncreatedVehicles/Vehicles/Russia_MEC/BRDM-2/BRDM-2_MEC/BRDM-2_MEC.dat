@@ -27,6 +27,8 @@ Passenger_Explosion_Armor 0.01
 Bumper_Invulnerable
 Environment_Invulnerable
 Child_Explosion_Armor_Multiplier 1
+Bumper_SelfDamageMultiplier 0.25
+
 
 Traction
 LockMouse
