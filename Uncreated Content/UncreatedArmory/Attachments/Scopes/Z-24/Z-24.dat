@@ -15,3 +15,5 @@ Caliber_0 38416
 Zoom 4
 
 Paintable
+
+Offset_Scope_Overlay_By_One_Texel True

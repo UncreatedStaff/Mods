@@ -12,3 +12,5 @@ Calibers 1
 Caliber_0 31469
 
 Zoom 2
+
+Offset_Scope_Overlay_By_One_Texel true

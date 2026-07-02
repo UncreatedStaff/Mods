@@ -13,3 +13,5 @@ Caliber_0 31462
 
 Spread 0.7
 Zoom 6
+
+Offset_Scope_Overlay_By_One_Texel True
