@@ -7,11 +7,12 @@ Size_X 2
 Size_Y 1
 Size_Z 0.15
 
-Shake 0.4
-
 Calibers 1
 Caliber_0 31462
 
 Zoom 2
 
 Offset_Scope_Overlay_By_One_Texel True
+Zoom 1.5
+
+Aim_Duration_Multiplier 1.15

@@ -17,3 +17,5 @@ Ballistic_Damage_Multiplier 0.9
 Ballistic_Drop 1.2
 
 Paintable
+
+Aim_Duration_Multiplier 1.25

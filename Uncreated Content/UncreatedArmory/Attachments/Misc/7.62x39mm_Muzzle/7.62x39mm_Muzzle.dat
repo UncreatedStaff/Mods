@@ -13,8 +13,8 @@ Caliber_0 31398
 Recoil_X 0.9
 Recoil_Y 0.9
 
-Ballistic_Damage_Multiplier 0.9
-
-Ballistic_Drop 1.2
+Ballistic_Drop 1.1
 
 Paintable
+
+Aim_Duration_Multiplier 1.1
