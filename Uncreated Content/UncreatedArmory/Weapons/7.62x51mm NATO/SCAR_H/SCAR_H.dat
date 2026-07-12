@@ -62,24 +62,28 @@ Object_Damage 2
 
 Durability 0.2
 
-Spread_Aim 0.06
-Spread_Hip 0.13
+Spread_Aim 0.045
+Spread_Angle_Degrees 4.5
+Spread_Crouch 0.93
+Spread_Prone 0.87
 
-Recoil_Min_X -2
-Recoil_Min_Y 5.5
-Recoil_Max_X 2
-Recoil_Max_Y 6.5
+Recoil_Min_X -1.7
+Recoil_Min_Y 3.75
+Recoil_Max_X 1.7
+Recoil_Max_Y 4.25
+Recoil_Crouch 0.93
+Recoil_Prone 0.87
 
 Recover_X 0.8
 Recover_Y 0.8
 
 Ballistic_Drop 0.0005
 
-Shake_Min_X -0.0025
-Shake_Min_Y 0.0025
+Shake_Min_X -0.003
+Shake_Min_Y -0.004
 Shake_Min_Z -0.01
-Shake_Max_X 0.0025
-Shake_Max_Y -0.0025
+Shake_Max_X 0.003
+Shake_Max_Y -0.002
 Shake_Max_Z -0.02
 
 Muzzle 3
@@ -101,3 +105,5 @@ Blueprint_1_Supply_0_ID 31416
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Aim_In_Duration 0.45

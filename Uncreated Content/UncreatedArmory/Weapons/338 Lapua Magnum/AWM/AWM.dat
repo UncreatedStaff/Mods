@@ -59,15 +59,19 @@ Object_Damage 3
 Durability 1
 Wear 3
 
-Spread_Aim 0.005
-Spread_Hip 0.13
+Spread_Aim 0.01
+Spread_Angle_Degrees 4.5
+Spread_Crouch 0.93
+Spread_Prone 0.87
 
 Recoil_Min_X -10
 Recoil_Min_Y 25
 Recoil_Max_X -10
-Recoil_Max_Y 40
+Recoil_Max_Y 35
+Recoil_Crouch 0.93
+Recoil_Prone 0.87
 
-Recover_X 0.25
+Recover_X 0.9
 Recover_Y 0.9
 
 Ballistic_Drop 0.0004
@@ -98,3 +102,8 @@ Blueprint_1_Supply_0_ID 31305
 Blueprint_1_Product 67
 Blueprint_1_Products 4
 Blueprint_1_Build 27
+
+Aim_In_Duration 0.5
+Aiming_Movement_Speed_Multiplier 0.5
+
+RechamberAfterShotDelay 1.25
