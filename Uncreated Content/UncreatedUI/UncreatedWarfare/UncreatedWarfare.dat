@@ -1,0 +1,54 @@
+Metadata
+{
+	Type SDG.Unturned.ServerListCurationAsset, Assembly-CSharp
+	GUID 6858da5c0e5d465581d482360cd6c5c0
+}
+Labels
+[
+    {
+        Name Verified
+        Text <color=green>Uncreated Network</color>
+    }
+    {
+        Name Test
+        Text <color=yellow>Private Test Server</color>
+    }
+    {
+        Name Unverified
+        Text <color=red>Unverified - Possible Imposter</color>
+    }
+    {
+        Name KnownFraud
+        Text <color=red>Known Imposter Server</color>
+    }
+]
+Rules
+[
+    {
+        Action Allow
+        Description Verify Uncreated Official Servers
+        Label Verified
+        Type IPv4
+        Filters
+        [
+            172.93.100.58:27015
+        ]
+    }
+    {
+        Action Deny
+        Description Hide "Battlefield LATAM" server (direct clone of UncreatedWarfare without permission).
+        Label KnownFraud
+        Type IPv4
+        Filters
+        [
+            170.23.93.53
+        ]
+    }
+    {
+        Action Deny
+        Description Label any unverified Uncreated servers.
+        Label Unverified
+        Type Name
+        Regex (?i)(Uncreated)
+    }
+]
