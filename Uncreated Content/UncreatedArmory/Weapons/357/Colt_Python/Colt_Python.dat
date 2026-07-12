@@ -26,19 +26,19 @@ Firerate 2
 Action Trigger
 
 Player_Damage 70
-Player_Leg_Multiplier 0.3
-Player_Arm_Multiplier 0.25
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.5
 Player_Spine_Multiplier 1.0
 Player_Skull_Multiplier 1.63
 
 Zombie_Damage 70
-Zombie_Leg_Multiplier 0.25
-Zombie_Arm_Multiplier 0.3
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.5
 Zombie_Spine_Multiplier 0.5
 Zombie_Skull_Multiplier 2.45
 
 Animal_Damage 70
-Animal_Leg_Multiplier 0.25
+Animal_Leg_Multiplier 0.6
 Animal_Spine_Multiplier 1.0
 Animal_Skull_Multiplier 1.63
 
@@ -86,4 +86,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 32331
 Blueprint_1_Product 67
 Blueprint_1_Products 2
-Blueprint_1_Build 27	
+Blueprint_1_Build 27
+
+Aim_Duration_Multiplier 0.18
