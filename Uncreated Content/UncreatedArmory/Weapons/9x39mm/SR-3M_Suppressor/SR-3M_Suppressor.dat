@@ -12,9 +12,11 @@ Caliber_0 31484
 Silenced 
 Volume 0.9
 
-Ballistic_Damage_Multiplier 0.9
-Ballistic_Drop 1.2
+Ballistic_Damage_Multiplier 0.95
+Ballistic_Drop 1.1
 
 Shake 0.9
 
 Paintable
+
+Aim_Duration_Multiplier 1.25
