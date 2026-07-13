@@ -62,15 +62,15 @@ Object_Damage 1
 
 Durability 0.12
 
-Spread_Aim 0.058
+Spread_Aim 0.055
 Spread_Angle_Degrees 4.5
 Spread_Crouch 0.93
 Spread_Prone 0.87
 
-Recoil_Min_X -1.6
-Recoil_Min_Y 2.35
-Recoil_Max_X 1.6
-Recoil_Max_Y 3.35
+Recoil_Min_X -1.35
+Recoil_Min_Y 2.5
+Recoil_Max_X 1.35
+Recoil_Max_Y 2.9
 Recoil_Crouch 0.93
 Recoil_Prone 0.87
 

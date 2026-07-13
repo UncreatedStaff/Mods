@@ -50,8 +50,8 @@ Object_Damage 1
 
 Durability 0.15
 
-Spread_Aim 0.14
-Spread_Hip 0.1
+Spread_Aim 0.19
+Spread_Angle_Degrees 3.5
 
 Recoil_Min_X -1.25
 Recoil_Min_Y 6
@@ -59,7 +59,7 @@ Recoil_Max_X 1.25
 Recoil_Max_Y 8
 
 Recover_X 0.7
-Recover_Y 0.5
+Recover_Y 0.7
 
 Ballistic_Drop 0.0013
 
@@ -88,4 +88,5 @@ Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
 
-Aim_Duration_Multiplier 0.18
+Aim_In_Duration 0.15
+Aiming_Movement_Speed_Multiplier 0.9
