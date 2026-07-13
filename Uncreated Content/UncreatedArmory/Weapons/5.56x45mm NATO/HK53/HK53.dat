@@ -63,10 +63,10 @@ Spread_Angle_Degrees 4.5
 Spread_Crouch 0.93
 Spread_Prone 0.87
 
-Recoil_Min_X -1.5
-Recoil_Min_Y 2.8
-Recoil_Max_X 1.5
-Recoil_Max_Y 3.5
+Recoil_Min_X -1.25
+Recoil_Min_Y 2.25
+Recoil_Max_X 1.25
+Recoil_Max_Y 2.75
 Recoil_Crouch 0.93
 Recoil_Prone 0.87
 
