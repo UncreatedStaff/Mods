@@ -12,9 +12,8 @@ Caliber_0 31463
 
 Zoom 10
 
-Paintable
-
-Offset_Scope_Overlay_By_One_Texel True
+DistanceMarkers
+[
 	{
 		Distance 100
 		LineOffset -0.005
@@ -43,6 +42,8 @@ Offset_Scope_Overlay_By_One_Texel True
 		LineWidth 0.01
 	}
 ]
+
+Offset_Scope_Overlay_By_One_Texel True
 
 Paintable
 

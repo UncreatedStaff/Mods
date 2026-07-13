@@ -6,9 +6,9 @@ Size_X 3
 Size_Y 2
 Size_Z 0.15
 
-Amount 200
+Amount 100
 Count_Min 0
-Count_Max 199
+Count_Max 99
 
 Calibers 1
 Caliber_0 38379

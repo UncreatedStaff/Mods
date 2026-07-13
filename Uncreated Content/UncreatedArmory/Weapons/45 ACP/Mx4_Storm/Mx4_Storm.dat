@@ -43,8 +43,8 @@ Player_Spine_Multiplier 1.0
 Player_Skull_Multiplier 1.91
 
 Zombie_Damage 35
-Player_Leg_Multiplier 0.5
-Player_Arm_Multiplier 0.3
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.5
 Zombie_Skull_Multiplier 2.87
 
@@ -61,7 +61,6 @@ Object_Damage 15
 
 Durability 0.6
 
-Spread_Aim 0.14
 Spread_Hip 0.1
 Spread_Aim 0.18
 Spread_Angle_Degrees 4
