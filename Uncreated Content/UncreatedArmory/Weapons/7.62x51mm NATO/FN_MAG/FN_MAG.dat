@@ -60,7 +60,7 @@ Object_Damage 1
 
 Durability 0.12
 
-Spread_Aim 0.065
+Spread_Aim 0.06
 Spread_Angle_Degrees 4.5
 Spread_Crouch 1
 Spread_Prone 1
@@ -69,8 +69,8 @@ Recoil_Min_X -2.5
 Recoil_Min_Y 5.5
 Recoil_Max_X 2.5
 Recoil_Max_Y 5.5
-Recoil_Crouch 0.18
-Recoil_Prone 0.18
+Recoil_Crouch 0.13
+Recoil_Prone 0.13
 
 Recover_X 0.75
 Recover_Y 0.75
@@ -107,7 +107,7 @@ Blueprint_1_Output_1_ID 61
 Blueprint_1_Output_1_Amount 1
 Blueprint_1_Build 27
 
-Aim_In_Duration 0.9
-Aiming_Movement_Speed_Multiplier 0.2
+Aim_In_Duration 0.65
+Aiming_Movement_Speed_Multiplier 0.5
 
 RechamberAfterMagazineAttached Always
