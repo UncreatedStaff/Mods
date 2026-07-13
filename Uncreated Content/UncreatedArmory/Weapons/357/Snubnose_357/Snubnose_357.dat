@@ -50,8 +50,8 @@ Object_Damage 1
 
 Durability 0.15
 
-Spread_Aim 0.14
-Spread_Hip 0.1
+Spread_Aim 0.19
+Spread_Angle_Degrees 3.5
 
 Recoil_Min_X -1
 Recoil_Min_Y 6
@@ -59,7 +59,7 @@ Recoil_Max_X 1
 Recoil_Max_Y 7
 
 Recover_X 0.7
-Recover_Y 0.1
+Recover_Y 0.7
 
 Ballistic_Drop 0.0013
 
