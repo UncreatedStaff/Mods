@@ -60,7 +60,7 @@ Object_Damage 15
 
 Durability 0.08
 
-Spread_Aim 0.057
+Spread_Aim 0.054
 Spread_Angle_Degrees 4.5
 Spread_Crouch 0.93
 Spread_Prone 0.87
