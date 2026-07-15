@@ -73,7 +73,7 @@ Recoil_Max_Y 1.75
 Recoil_Crouch 0.93
 Recoil_Prone 0.87
 
-Recover_X 0.7
+Recover_X 0.8
 Recover_Y 0.8
 
 Ballistic_Drop 0.0006
