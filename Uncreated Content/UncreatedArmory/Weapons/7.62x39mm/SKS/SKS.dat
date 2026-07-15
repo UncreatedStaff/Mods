@@ -57,25 +57,29 @@ Object_Damage 1
 
 Durability 0.12
 
-Spread_Aim 0.08
-Spread_Hip 0.13
+Spread_Aim 0.055
+Spread_Angle_Degrees 4.5
+Spread_Crouch 0.93
+Spread_Prone 0.87
 
-Recoil_Min_X -1.75
-Recoil_Min_Y 4.5
-Recoil_Max_X 1.75
-Recoil_Max_Y 5.5
+Recoil_Min_X -1.35
+Recoil_Min_Y 2.5
+Recoil_Max_X 1.35
+Recoil_Max_Y 2.9
+Recoil_Crouch 0.93
+Recoil_Prone 0.87
 
 Recover_X 0.6
 Recover_Y 0.6
 
-Ballistic_Drop 0.0005
+Ballistic_Drop 0.0007
 
-Shake_Min_X -0.0025
-Shake_Min_Y 0.0025
-Shake_Min_Z -0.01
-Shake_Max_X 0.0025
-Shake_Max_Y -0.0025
-Shake_Max_Z -0.02
+Shake_Min_X -0.003
+Shake_Min_Y -0.0035
+Shake_Min_Z -0.011
+Shake_Max_X 0.003
+Shake_Max_Y -0.002
+Shake_Max_Z -0.021
 
 Muzzle 3
 

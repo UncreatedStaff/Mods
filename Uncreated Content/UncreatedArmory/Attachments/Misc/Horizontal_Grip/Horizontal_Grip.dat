@@ -9,9 +9,10 @@ Size_Y 1
 Size_Z 0.2
 
 Recoil_X 0.8
-Recoil_Y 0.8
 
 Sway 0.75
 Shake 0.75
 
 Paintable
+
+Aim_Duration_Multiplier 0.9

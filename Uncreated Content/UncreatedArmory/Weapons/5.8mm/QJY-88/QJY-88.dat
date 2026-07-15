@@ -34,7 +34,7 @@ Range 300
 Firerate 4
 Action Trigger
 
-Fire_Delay_Seconds 0.08
+0.12
 
 Player_Damage 45
 Player_Leg_Multiplier 0.4

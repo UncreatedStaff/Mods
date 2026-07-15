@@ -6,9 +6,9 @@ Size_X 3
 Size_Y 1
 Size_Z 0.15
 
-Shake 0.4
-
 Calibers 1
 Caliber_0 31464
 
 Zoom 3
+
+Aim_Duration_Multiplier 1.3

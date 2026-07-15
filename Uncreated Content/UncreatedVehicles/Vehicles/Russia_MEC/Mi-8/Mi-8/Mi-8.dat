@@ -3,8 +3,11 @@ Type Vehicle
 Has_Clip_Prefab false
 ID 38312
 
+Override_Center_Of_Mass true
+Center_Of_Mass (0, 2, 0)
+
 Speed_Min -100
-Speed_Max 34.7
+Speed_Max 50
 
 Steer_Min 60
 Steer_Max 120

@@ -24,6 +24,7 @@ Exit 4
 Passenger_Explosion_Armor 0.15
 
 Environment_Invulnerable
+Bumper_SelfDamageMultiplier 0.25
 
 Traction
 
@@ -75,7 +76,31 @@ WheelConfigurations
 	}
 ]
 
-ReverseGearRatio 16
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+	Objects/Steer/Model_0
+	Objects/Steer/Model_1
+    Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_1
+    Wheels/Wheel_0/Model_0
+    Wheels/Wheel_0/Model_1
+    Wheels/Wheel_1/Model_0
+    Wheels/Wheel_1/Model_1
+    Wheels/Wheel_2/Model_0
+    Wheels/Wheel_2/Model_1
+    Wheels/Wheel_3/Model_0
+    Wheels/Wheel_3/Model_1
+    Headlights_Model
+    Taillights_Model
+    Glass
+    SpareTire_0
+    SpareTire_1
+]
+
+ReverseGearRatio 8
 ForwardGearRatios
 [
 	17

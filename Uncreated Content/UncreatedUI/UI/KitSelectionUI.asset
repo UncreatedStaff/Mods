@@ -1,0 +1,11 @@
+Metadata
+{
+    GUID 09c4d106c52c4c9d8c28b446acc7cfe3
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    ID 26288
+    Lifetime_Spread 0
+    Bundle_Override_Path UI/KitSelectionUI
+}

@@ -1,0 +1,14 @@
+Metadata
+{
+    GUID 6093290a7ce049b8a418be7fd79e89a0
+    Type SDG.Unturned.EffectAsset, Assembly-CSharp
+}
+Asset
+{
+    Bypass_ID_Limit
+    
+    Randomize_Rotation false
+    
+    Lifetime_Spread 0
+    Bundle_Path_Include_Filename True
+}

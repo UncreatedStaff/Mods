@@ -25,19 +25,19 @@ Firerate 2
 Action Break
 
 Player_Damage 30
-Player_Leg_Multiplier 0.2
-Player_Arm_Multiplier 0.2
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.4
 Player_Spine_Multiplier 1.0
 Player_Skull_Multiplier 1.25
 
 Zombie_Damage 30
-Zombie_Leg_Multiplier 0.2
-Zombie_Arm_Multiplier 0.2
+Zombie_Leg_Multiplier 0.4
+Zombie_Arm_Multiplier 0.4
 Zombie_Spine_Multiplier 1.0
 Zombie_Skull_Multiplier 1.25
 
 Animal_Damage 30
-Animal_Leg_Multiplier 0.2
+Animal_Leg_Multiplier 0.4
 Animal_Spine_Multiplier 1.0
 Animal_Skull_Multiplier 1.25
 
@@ -49,13 +49,17 @@ Object_Damage 12
 
 Durability 0.25
 
-Spread_Aim 0.45
-Spread_Hip 0.05
+Spread_Aim 1
+Spread_Angle_Degrees 3.5
+Spread_Crouch 1
+Spread_Prone 1
 
 Recoil_Min_X -10
 Recoil_Min_Y 15
 Recoil_Max_X 10
 Recoil_Max_Y 20
+Recoil_Crouch 0.93
+Recoil_Prone 0.87
 
 Recover_X 0.6
 Recover_Y 0.6
@@ -87,3 +91,5 @@ Blueprint_1_Output_0_Amount 2
 Blueprint_1_Output_1_ID 61
 Blueprint_1_Output_1_Amount 1
 Blueprint_1_Build 27
+
+Aim_In_Duration 0.4

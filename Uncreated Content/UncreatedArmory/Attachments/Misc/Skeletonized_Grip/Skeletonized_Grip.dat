@@ -10,7 +10,9 @@ Size_Z 0.2
 Recoil_X 0.8
 Recoil_Y 0.8
 
-Sway 0.75
-Shake 0.75
+Sway 0.85
+Shake 0.85
 
 Paintable
+
+Aim_Duration_Multiplier 1.08

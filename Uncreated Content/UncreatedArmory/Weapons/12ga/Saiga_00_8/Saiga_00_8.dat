@@ -14,8 +14,8 @@ Calibers 1
 Caliber_0 31372
 
 Pellets 8
-Spread 3.5
-Ballistic_Damage_Multiplier 1.00
+Spread 1
+Ballistic_Damage_Multiplier 1
 
 Tracer 33312
 

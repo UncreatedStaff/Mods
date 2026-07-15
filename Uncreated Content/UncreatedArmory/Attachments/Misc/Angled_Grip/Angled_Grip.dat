@@ -5,12 +5,11 @@ ID 12519
 
 Size_X 1
 Size_Y 2
-Size_Z 0.2
+Size_Z 0.38
 
-Recoil_X 0.8
-Recoil_Y 0.8
-
-Sway 0.75
+Sway 0.6
 Shake 0.75
 
 Paintable
+
+Aim_Duration_Multiplier 0.75

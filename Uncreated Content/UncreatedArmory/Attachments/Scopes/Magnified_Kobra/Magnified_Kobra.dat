@@ -7,11 +7,11 @@ Size_X 2
 Size_Y 1
 Size_Z 0.1
 
-Shake 0.4
-
 Calibers 1
 Caliber_0 31462
 
 Zoom 3
 
 Paintable
+
+Aim_Duration_Multiplier 1.3

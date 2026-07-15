@@ -9,12 +9,6 @@ Speed_Max 18
 Steer_Min 24
 Steer_Max 48
 
-// I've added this here because it makes vehicles move faster in water if it causes any issues remove it
-Engine Boat
-
-Override_Center_Of_Mass true
-Center_Of_Mass (0, -1, 0)
-
 Brake 40
 
 Fuel_Min 2000
@@ -124,7 +118,37 @@ WheelConfigurations
 	}
 ]
 
-ReverseGearRatio 16
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+	Objects/Steer/Model_0
+	Objects/Steer/Model_1
+    Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_0
+    Turrets/Turret_2/Yaw/Model_0
+    Turrets/Turret_2/Yaw/Model_1
+    Wheels/Wheel_0/Model_0
+    Wheels/Wheel_0/Model_1
+    Wheels/Wheel_1/Model_0
+    Wheels/Wheel_1/Model_1
+    Wheels/Wheel_2/Model_0
+    Wheels/Wheel_2/Model_1
+    Wheels/Wheel_3/Model_0
+    Wheels/Wheel_3/Model_1
+    Wheels/Wheel_4/Model_0
+    Wheels/Wheel_4/Model_1
+    Wheels/Wheel_5/Model_0
+    Wheels/Wheel_5/Model_1
+    Wheels/Wheel_6/Model_0
+    Wheels/Wheel_6/Model_1
+    Wheels/Wheel_7/Model_0
+    Wheels/Wheel_7/Model_1
+    Headlights_Model
+    Glass
+]
+
+ReverseGearRatio 13
 ForwardGearRatios
 [
 	26.3

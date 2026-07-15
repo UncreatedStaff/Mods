@@ -26,19 +26,19 @@ Firerate 2
 Action Trigger
 
 Player_Damage 65
-Player_Leg_Multiplier 0.3
-Player_Arm_Multiplier 0.25
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.5
 Player_Spine_Multiplier 1.0
 Player_Skull_Multiplier 1.63
 
 Zombie_Damage 65
-Zombie_Leg_Multiplier 0.25
-Zombie_Arm_Multiplier 0.3
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.5
 Zombie_Spine_Multiplier 0.5
 Zombie_Skull_Multiplier 2.45
 
 Animal_Damage 65
-Animal_Leg_Multiplier 0.25
+Animal_Leg_Multiplier 0.6
 Animal_Spine_Multiplier 1.0
 Animal_Skull_Multiplier 1.63
 
@@ -50,8 +50,8 @@ Object_Damage 1
 
 Durability 0.15
 
-Spread_Aim 0.14
-Spread_Hip 0.1
+Spread_Aim 0.19
+Spread_Angle_Degrees 3.5
 
 Recoil_Min_X -1
 Recoil_Min_Y 6
@@ -59,7 +59,7 @@ Recoil_Max_X 1
 Recoil_Max_Y 7
 
 Recover_X 0.7
-Recover_Y 0.1
+Recover_Y 0.7
 
 Ballistic_Drop 0.0013
 
@@ -86,4 +86,7 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 31337
 Blueprint_1_Product 67
 Blueprint_1_Products 2
-Blueprint_1_Build 27	
+Blueprint_1_Build 27
+
+Aim_In_Duration 0.15
+Aiming_Movement_Speed_Multiplier 0.9

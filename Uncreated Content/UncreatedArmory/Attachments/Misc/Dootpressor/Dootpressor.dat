@@ -6,12 +6,16 @@ ID 12499
 
 Size_X 2
 Size_Y 1
-Size_Z 0.125
+Size_Z 0.19
 
 
 Silenced 
-Volume 2
+Volume 0.7
 
-Ballistic_Drop 1.1
+Ballistic_Damage_Multiplier 0.9
+
+Ballistic_Drop 1.2
 
 Paintable
+
+Aim_Duration_Multiplier 1.25

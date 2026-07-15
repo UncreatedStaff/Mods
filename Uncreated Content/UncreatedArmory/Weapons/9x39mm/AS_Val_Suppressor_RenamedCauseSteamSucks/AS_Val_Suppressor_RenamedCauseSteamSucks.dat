@@ -1,0 +1,26 @@
+GUID bddc58b1a9254c6b937cffb086e31b2a
+Type Barrel
+Rarity Legendary
+ID 31421
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 31421
+
+Silenced 
+Volume 0.9
+
+Ballistic_Damage_Multiplier 0.95
+Ballistic_Drop 1.1
+
+Shake 0.9
+
+Paintable
+
+// the name was mistakenly made as AS_Val_supressor and Steam's version control system didn't notice us changing the case 
+Bundle_Override_Path Weapons/9x39mm/AS_Val_Suppressor
+
+Aim_Duration_Multiplier 1.25

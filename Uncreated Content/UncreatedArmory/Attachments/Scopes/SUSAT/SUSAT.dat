@@ -2,14 +2,11 @@ GUID a5d5c1048cd4423fb5cdc43095e778ef
 
 
 Type Sight
-Rarity Uncommon
 ID 12506
 
 Size_X 2
 Size_Y 1
 Size_Z 0.1
-
-Shake 0.4
 
 Calibers 1
 Caliber_0 31464
@@ -17,3 +14,5 @@ Caliber_0 31464
 Zoom 3
 
 Paintable
+
+Aim_Duration_Multiplier 1.3

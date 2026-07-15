@@ -4,12 +4,16 @@ Useable Barricade
 Build Barricade
 ID 38368
 
+Has_Clip_Prefab false
+
 Size_X 3
 Size_Y 3
 Size_Z 0.65
 
-Health 100
+Health 500
 Range 5
 Offset 0.1
 
 Explosion 19
+
+PlacementAudioClip Barricades/Use_Wood.mp3

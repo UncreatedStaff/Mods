@@ -8,6 +8,6 @@
     Type Small
     Chart IGNORE
     Landmark_Quality MEDIUM
-    Exclude_From_Culling_Volumes
+    Exclude_From_Culling_Volumes true
     Exclude_From_Level_Batching true
 }

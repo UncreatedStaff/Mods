@@ -4,11 +4,13 @@ Useable Barricade
 Build Bed
 ID 38367
 
+Has_Clip_Prefab false
+
 Size_X 4
 Size_Y 3
 Size_Z 0.65
 
-Health 80
+Health 500
 Range 5
 Offset 0.125
 Radius 0.2
@@ -17,3 +19,5 @@ Explosion 19
 Unrepairable
 Unpickupable
 Unsaveable
+
+PlacementAudioClip Barricades/Use_Wood.mp3

@@ -24,6 +24,7 @@ Exit 4
 Passenger_Explosion_Armor 0.15
 
 Environment_Invulnerable
+Bumper_SelfDamageMultiplier 0.25
 
 Traction
 
@@ -35,7 +36,7 @@ Tires_Invulnerable
 
 Turrets 1
 Turret_0_Seat_Index 1
-Turret_0_Item_ID 38301
+Turret_0_Item_ID 38386
 Turret_0_Yaw_Min -1440
 Turret_0_Yaw_Max 1440
 Turret_0_Pitch_Min 40
@@ -75,7 +76,7 @@ WheelConfigurations
 	}
 ]
 
-ReverseGearRatio 16
+ReverseGearRatio 8
 ForwardGearRatios
 [
 	17

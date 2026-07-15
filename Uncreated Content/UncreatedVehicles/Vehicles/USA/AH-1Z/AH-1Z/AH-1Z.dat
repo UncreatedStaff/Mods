@@ -50,3 +50,17 @@ Turret_1_Pitch_Max 180
 Turret_1_Seat_Index 1
 
 Physics_Profile 0d86c231ad6347bf88dbb96331c10959
+
+ExplosionBurnMaterialSections
+[
+    Model_0
+    Model_1
+    Model_2
+    Model_3
+    Glass
+    Objects/Steer
+    Rotors/Rotor_0/Model_0
+    Rotors/Rotor_1/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Gun
+    Turrets/Turret_1/Yaw/Pitch/Turret
+]

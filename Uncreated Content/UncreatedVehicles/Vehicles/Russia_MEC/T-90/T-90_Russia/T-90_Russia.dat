@@ -6,6 +6,9 @@ ID 38319
 Speed_Min -26
 Speed_Max 40
 
+Steer_Min 48
+Steer_Max 64
+
 CrawlerTrackSteering_Torque 10
 CrawlerTrackSteering_SidewaysFrictionMultiplier 1.0
 CrawlerTrackSteering_MaxSpeedScale 1.0
@@ -252,7 +255,47 @@ WheelConfigurations
 	}
 ]
 
-ReverseGearRatio 19
+ExplosionBurnMaterialSections
+[
+    Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_1/Yaw/Pitch/Model_0
+    Turrets/Turret_2/Yaw/Pitch/MG
+    Turrets/Turret_2/Yaw/Model_0
+    Turrets/Turret_2/Yaw/Model_1
+    Model_0
+    Model_1
+    Glass
+    Headlights_Model
+	Objects/Steer/Model_0
+	Objects/Steer/Model_1
+	Model_2
+    Wheels/Wheel_L0/Model_0
+    Wheels/Wheel_L0/Model_1
+    Wheels/Wheel_L1/Model_0
+    Wheels/Wheel_L1/Model_1
+    Wheels/Wheel_L2/Model_0
+    Wheels/Wheel_L2/Model_1
+    Wheels/Wheel_L3/Model_0
+    Wheels/Wheel_L3/Model_1
+    Wheels/Wheel_L4/Model_0
+    Wheels/Wheel_L4/Model_1
+    Wheels/Wheel_L5/Model_0
+    Wheels/Wheel_L5/Model_1
+    Wheels/Wheel_R0/Model_0
+    Wheels/Wheel_R0/Model_1
+    Wheels/Wheel_R1/Model_0
+    Wheels/Wheel_R1/Model_1
+    Wheels/Wheel_R2/Model_0
+    Wheels/Wheel_R2/Model_1
+    Wheels/Wheel_R3/Model_0
+    Wheels/Wheel_R3/Model_1
+    Wheels/Wheel_R4/Model_0
+    Wheels/Wheel_R4/Model_1
+    Wheels/Wheel_R5/Model_0
+    Wheels/Wheel_R5/Model_1
+]
+
+ReverseGearRatio 13
 ForwardGearRatios
 [
 	24

@@ -4,6 +4,8 @@ Useable Barricade
 Build Barricade
 ID 38354
 
+Has_Clip_Prefab false
+
 Size_X 2
 Size_Y 2
 Size_Z 0.65
@@ -13,3 +15,6 @@ Range 5
 Offset 0.25
 
 Explosion 19
+
+PlacementAudioClip Barricades/Use_Wood.mp3
+PlacementPreviewPrefab Barricades/D_Sandbag_Ring/Barricade.prefab

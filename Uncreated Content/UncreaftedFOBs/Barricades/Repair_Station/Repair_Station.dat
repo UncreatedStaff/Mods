@@ -4,6 +4,8 @@ Useable Barricade
 Build Storage
 ID 38319
 
+Has_Clip_Prefab false
+
 Size_X 4
 Size_Y 3
 Size_Z 0.65
@@ -19,6 +21,7 @@ Explosion 19
 Vulnerable
 Unrepairable
 Unpickupable
-Unsaveable
 
 Should_Close_When_Outside_Range true
+
+PlacementAudioClip Barricades/Use_Wood.mp3

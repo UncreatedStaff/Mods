@@ -10,12 +10,10 @@ Size_Z 0.1
 Calibers 1
 Caliber_0 31463
 
-Spread 0.7
 Zoom 10
 
 DistanceMarkers
 [
-
 	{
 		Distance 100
 		LineOffset -0.005
@@ -45,4 +43,8 @@ DistanceMarkers
 	}
 ]
 
+Offset_Scope_Overlay_By_One_Texel True
+
 Paintable
+
+Aim_Duration_Multiplier 1.8
