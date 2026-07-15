@@ -106,7 +106,7 @@ Blueprint_1_Output_1_ID 61
 Blueprint_1_Output_1_Amount 1
 Blueprint_1_Build 27
 
-Aim_In_Duration 0.65
-Aiming_Movement_Speed_Multiplier 0.5
+Aim_In_Duration 0.7
+Aiming_Movement_Speed_Multiplier 0.3
 
 RechamberAfterMagazineAttached Always
