@@ -70,8 +70,8 @@ Recoil_Min_Y 4
 Recoil_Max_X 1.7
 Recoil_Max_Y 5
 
-Recover_X 0.8
-Recover_Y 0.8
+Recover_X 0.9
+Recover_Y 0.9
 
 Ballistic_Drop 0.0005
 

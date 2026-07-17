@@ -61,7 +61,7 @@ Object_Damage 1
 
 Durability 0.12
 
-Spread_Aim 0.054
+Spread_Aim 0.06
 Spread_Angle_Degrees 4.5
 Spread_Crouch 1
 Spread_Prone 1
@@ -73,8 +73,8 @@ Recoil_Max_Y 5.5
 Recoil_Crouch 0.13
 Recoil_Prone 0.13
 
-Recover_X 0.75
-Recover_Y 0.75
+Recover_X 0.5
+Recover_Y 0.5
 
 Ballistic_Drop 0.0005
 

@@ -69,12 +69,12 @@ Spread_Prone 0.87
 Recoil_Min_X -1.25
 Recoil_Min_Y 2
 Recoil_Max_X 1.25
-Recoil_Max_Y 2.6
+Recoil_Max_Y 3
 Recoil_Crouch 0.93
 Recoil_Prone 0.87
 
-Recover_X 0.5
-Recover_Y 0.6
+Recover_X 0.8
+Recover_Y 0.8
 
 Ballistic_Drop 0.0006
 
