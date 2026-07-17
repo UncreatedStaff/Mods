@@ -66,9 +66,9 @@ Spread_Crouch 0.93
 Spread_Prone 0.87
 
 Recoil_Min_X -1
-Recoil_Min_Y 1.6
+Recoil_Min_Y 2
 Recoil_Max_X 1
-Recoil_Max_Y 1.8
+Recoil_Max_Y 2.25
 Recoil_Crouch 0.93
 Recoil_Prone 0.87
 
