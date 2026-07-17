@@ -1,5 +1,0 @@
-Asset_Bundle_Name bcommonzones.masterbundle
-
-// Path to the asset bundle within Unity.
-// Unity subfolders should match 1:1 with dat subfolders.
-Asset_Prefix Assets/Standalone/B_CommonZones
