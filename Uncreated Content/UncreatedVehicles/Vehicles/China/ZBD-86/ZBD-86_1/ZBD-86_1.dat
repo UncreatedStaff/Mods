@@ -57,7 +57,7 @@ Turret_1_Seat_Index 1
 Turret_1_Item_ID 26056
 Turret_1_Yaw_Min -1440
 Turret_1_Yaw_Max 1440
-Turret_1_Pitch_Min 65
+Turret_1_Pitch_Min 30
 Turret_1_Pitch_Max 98
 
 Turret_2_Seat_Index 2
