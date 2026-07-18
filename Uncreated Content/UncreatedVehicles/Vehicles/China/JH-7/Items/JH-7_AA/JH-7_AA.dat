@@ -22,7 +22,7 @@ Zombie_Damage 60
 Animal_Damage 60
 Barricade_Damage 50
 Structure_Damage 50
-Vehicle_Damage 252
+Vehicle_Damage 400
 Resource_Damage 400
 Object_Damage 300
 

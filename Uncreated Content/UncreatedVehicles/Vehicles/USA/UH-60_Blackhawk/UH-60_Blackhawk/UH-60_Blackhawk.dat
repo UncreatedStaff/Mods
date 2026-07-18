@@ -4,7 +4,7 @@ Has_Clip_Prefab false
 ID 38311
 
 Speed_Min -100
-Speed_Max 36.5
+Speed_Max 50
 
 Steer_Min 60
 Steer_Max 120
@@ -14,7 +14,7 @@ Fuel_Burn_Rate 5
 
 Health_Min 200
 Health_Max 300
-Health 500
+Health 490
 
 Exit 3
 

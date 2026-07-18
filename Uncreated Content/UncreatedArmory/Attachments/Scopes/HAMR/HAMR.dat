@@ -7,11 +7,124 @@ Size_X 2
 Size_Y 1
 Size_Z 0.1
 
-Shake 0.4
-
 Calibers 1
 Caliber_0 31464
 
 Zoom 3.75
+
+Aim_Duration_Multiplier 1.4
+
+DistanceMarkers
+[
+
+	{
+		Distance 150
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 200
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+	{
+		Distance 250
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 300
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+	{
+		Distance 350
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 400
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+	{
+		Distance 450
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 500
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+	{
+		Distance 550
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 600
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+	{
+		Distance 650
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 700
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+	{
+		Distance 750
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 800
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+	{
+		Distance 850
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 900
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+	{
+		Distance 950
+		LineOffset -0.005
+		LineWidth 0.01
+		HasLabel false
+	}
+	{
+		Distance 1000
+		LineOffset -0.01
+		LineWidth 0.02
+		HasLabel false
+	}
+]
 
 Paintable

@@ -56,25 +56,27 @@ Object_Damage 3
 Durability 1
 Wear 3
 
-Spread_Aim 0.06
-Spread_Hip 0.12
+Spread_Aim 0.04
+Spread_Angle_Degrees 4.5
+Spread_Crouch 0.93
+Spread_Prone 0.87
 
 Recoil_Min_X -2
 Recoil_Min_Y 5.5
 Recoil_Max_X 2
 Recoil_Max_Y 6
 
-Recover_X 0.4
-Recover_Y 0.65
+Recover_X 0.7
+Recover_Y 0.7
 
 Ballistic_Drop 0.0006
 
-Shake_Min_X -0.005
-Shake_Min_Y 0.005
-Shake_Min_Z -0.05
-Shake_Max_X 0.005
-Shake_Max_Y -0.005
-Shake_Max_Z -0.1
+Shake_Min_X -0.002
+Shake_Min_Y -0.0015
+Shake_Min_Z -0.01
+Shake_Max_X 0.002
+Shake_Max_Y -0.001
+Shake_Max_Z -0.015
 
 Muzzle 4
 

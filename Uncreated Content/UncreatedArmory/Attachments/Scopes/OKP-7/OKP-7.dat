@@ -10,7 +10,7 @@ Size_Z 0.1
 Calibers 1
 Caliber_0 31462
 
-Spread 0.9
-
 Zoom_Using_Eyes True
 Holographic
+
+Aim_Duration_Multiplier 1.05

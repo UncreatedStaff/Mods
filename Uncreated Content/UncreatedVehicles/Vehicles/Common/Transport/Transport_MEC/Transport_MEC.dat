@@ -6,6 +6,8 @@ ID 38338
 Speed_Min -6
 Speed_Max 14.5
 
+Valid_Speed_Horizontal "30" // 30 m/s = 108 kmh or 67.1 mph
+
 Steer_Min 24
 Steer_Max 48
 
