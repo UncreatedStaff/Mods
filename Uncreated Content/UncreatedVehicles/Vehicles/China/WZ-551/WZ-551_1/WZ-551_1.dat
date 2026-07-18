@@ -51,7 +51,7 @@ Turret_1_Seat_Index 1
 Turret_1_Item_ID 26050
 Turret_1_Yaw_Min -1440
 Turret_1_Yaw_Max 1440
-Turret_1_Pitch_Min 30
+Turret_1_Pitch_Min 65
 Turret_1_Pitch_Max 98
 
 Physics_Profile 468d92ece4074e8d910924a9ec9a5d96
