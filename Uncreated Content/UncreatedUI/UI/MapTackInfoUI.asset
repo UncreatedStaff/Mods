@@ -6,7 +6,6 @@ Metadata
 Asset
 {
     Bypass_ID_Limit
-    
     Lifetime_Spread 0
     Bundle_Path_Include_Filename True
 }

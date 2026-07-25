@@ -5,7 +5,8 @@ Metadata
 }
 Asset
 {
-    ID 26261
-    Lifetime_Spread 0
+    Bypass_ID_Limit
     Lifetime 4
+    Lifetime_Spread 0
+    Bundle_Path_Include_Filename True
 }
