@@ -1,0 +1,32 @@
+GUID 9a9eba54b85e411486c5aa7aa7b492cf
+Type Trap
+Useable Barricade
+Build Spike
+ID 31917
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1
+Range 4
+Radius 0.1
+Offset 0.0625
+
+Player_Damage 250
+Zombie_Damage 250
+Animal_Damage 250
+Barricade_Damage 75
+Structure_Damage 75
+Vehicle_Damage 175
+Resource_Damage 625
+Object_Damage 100
+
+Range2 12
+Explosion2 31303
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
