@@ -93,3 +93,6 @@ Blueprint_2_Supply_0_ID 31490
 Blueprint_2_Tool 141
 Blueprint_2_State_Transfer
 Blueprint_2_Build 27
+
+Aim_In_Duration 0.15
+Aiming_Movement_Speed_Multiplier 0.9
