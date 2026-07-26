@@ -47,7 +47,7 @@ Animal_Skull_Multiplier 2.0
 
 Barricade_Damage 600
 Structure_Damage 600
-Vehicle_Damage 400
+Vehicle_Damage 430
 Resource_Damage 2000
 Object_Damage 1000
 
@@ -61,7 +61,7 @@ Wear 5
 Spread_Aim 0.1
 Spread_Hip 0.1
 
-Ballistic_Force 2000
+Ballistic_Force 2200
 
 Recoil_Min_X -9
 Recoil_Min_Y 10

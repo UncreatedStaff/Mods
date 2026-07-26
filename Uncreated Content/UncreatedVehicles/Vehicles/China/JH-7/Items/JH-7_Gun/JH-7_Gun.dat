@@ -17,7 +17,7 @@ Range 600
 Firerate 2
 Action Trigger
 
-Player_Damage 180
+Player_Damage 153
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 1.0
@@ -36,7 +36,7 @@ Animal_Skull_Multiplier 1.0
 
 Barricade_Damage 9
 Structure_Damage 9
-Vehicle_Damage 14
+Vehicle_Damage 12
 Resource_Damage 24
 Object_Damage 3
 
