@@ -5,7 +5,7 @@ Metadata
 }
 Asset
 {
-    ID 26278
+    Bypass_ID_Limit
     Lifetime_Spread 0
-    Bundle_Override_Path UI/WarningToast
+    Bundle_Path_Include_Filename True
 }

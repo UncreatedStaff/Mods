@@ -5,7 +5,7 @@ Metadata
 }
 Asset
 {
-    ID 26279
+    Bypass_ID_Limit
     Lifetime_Spread 0
-    Bundle_Override_Path UI/SquadMenuHUD
+    Bundle_Path_Include_Filename True
 }
