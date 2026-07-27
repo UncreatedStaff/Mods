@@ -34,7 +34,7 @@ Range 300
 Firerate 3
 Action Trigger
 
-0.12
+Fire_Delay_Seconds 0.12
 
 Player_Damage 45
 Player_Leg_Multiplier 0.4
@@ -61,17 +61,17 @@ Object_Damage 1
 
 Durability 0.2
 
-Spread_Aim 0.063
+Spread_Aim 0.07
 Spread_Angle_Degrees 4.5
 Spread_Crouch 1
 Spread_Prone 1
 
-Recoil_Min_X -2
-Recoil_Min_Y 4
-Recoil_Max_X 2
-Recoil_Max_Y 5
-Recoil_Crouch 0.13
-Recoil_Prone 0.13
+Recoil_Min_X -2.5
+Recoil_Min_Y 5.5
+Recoil_Max_X 2.5
+Recoil_Max_Y 5.5
+Recoil_Crouch 0.18
+Recoil_Prone 0.18
 
 Recover_X 0.35
 Recover_Y 0.35
