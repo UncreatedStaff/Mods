@@ -71,6 +71,8 @@ Recoil_Prone 0.87
 Recover_X 0.9
 Recover_Y 0.9
 
+Ballistic_Drop 0.0004
+
 Muzzle 4
 
 Shell 31406
