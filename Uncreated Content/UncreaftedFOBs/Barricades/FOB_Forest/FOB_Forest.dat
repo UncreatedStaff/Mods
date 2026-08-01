@@ -1,7 +1,8 @@
 GUID 61c349f10000498fa2b92c029d38e523
-Type Barricade
+Type Storage
+Rarity Epic
 Useable Barricade
-Build Barricade
+Build Storage
 ID 38311
 
 Has_Clip_Prefab false
@@ -14,6 +15,11 @@ Health 1300
 Range 10
 Offset 0.125
 
+Storage_X 13
+Storage_Y 14
+
 Explosion 19
+
+Should_Close_When_Outside_Range true
 
 PlacementAudioClip Barricades/Use_Wood.mp3
