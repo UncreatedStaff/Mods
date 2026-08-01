@@ -123,3 +123,6 @@ EngineSound
 	MaxPitch 1.4
 	MaxVolume 0.8
 }
+
+IgnitionAudioClip Vehicles/Common/Sounds/Truck_Ignition.mp3
+HornAudioClip Vehicles/Common/Sounds/Truck_Horn.mp3
