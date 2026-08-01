@@ -1,11 +1,12 @@
 Metadata
 {
-    GUID 09c4d106c52c4c9d8c28b446acc7cfe3
+    GUID a113a0f2d0af4db8b5e5bcbc17fc96c9
     Type SDG.Unturned.EffectAsset, Assembly-CSharp
 }
 Asset
 {
     Bypass_ID_Limit
+    Lifetime 1.83333
     Lifetime_Spread 0
     Bundle_Path_Include_Filename True
 }
