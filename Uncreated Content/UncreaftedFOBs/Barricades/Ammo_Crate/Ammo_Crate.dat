@@ -1,7 +1,7 @@
 GUID 6fe208519d7c45b0be38273118eea7fd
 Type Barricade
 Useable Barricade
-Build Barricade
+Build Bed
 ID 38317
 
 Has_Clip_Prefab false
@@ -15,7 +15,5 @@ Range 5
 Offset 0.125
 
 Explosion 19
-
-Should_Close_When_Outside_Range true
 
 PlacementAudioClip Barricades/Use_Wood.mp3
