@@ -1,0 +1,11 @@
+GUID d78d4f43e5c54af093f77f8d1d31b279
+Type Effect
+Bypass_ID_Limit
+
+Lifetime 25
+Lifetime_Spread 0
+Static
+Randomize_Rotation false
+Spawn_On_Dedicated_Server
+
+Bundle_Override_Path Effects/Physical_SupplyCrate_1

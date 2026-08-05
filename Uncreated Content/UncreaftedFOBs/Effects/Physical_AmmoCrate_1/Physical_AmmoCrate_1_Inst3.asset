@@ -1,0 +1,11 @@
+GUID f48a15d6c2ea432cadcd3ca3a2a03a58
+Type Effect
+Bypass_ID_Limit
+
+Lifetime 25
+Lifetime_Spread 0
+Static
+Randomize_Rotation false
+Spawn_On_Dedicated_Server
+
+Bundle_Override_Path Effects/Physical_AmmoCrate_1
