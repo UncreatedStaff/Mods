@@ -78,9 +78,11 @@ CrawlerTrackTilingMaterials
 		WheelIndices
 		[
 			0
+			1
 			2
+			3
 			4
-			6
+			5
 		]
 		RepeatDistance 1.5
 		UV_Direction (-1, 0)
@@ -90,10 +92,12 @@ CrawlerTrackTilingMaterials
 		MaterialIndex 1
 		WheelIndices
 		[
-			1
-			3
-			5
+			6
 			7
+			8
+			9
+			10
+			11
 		]
 		RepeatDistance 1.5
 		UV_Direction (-1, 0)
@@ -184,7 +188,7 @@ WheelConfigurations
 		ModelSuspensionSpeed 1
 		MotionEffects BackwardOnly
 		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
 		WheelColliderPath Tires/Tire_R1
@@ -196,7 +200,7 @@ WheelConfigurations
 		ModelSuspensionSpeed 1
 		MotionEffects BackwardOnly
 		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
 		WheelColliderPath Tires/Tire_R2
@@ -208,7 +212,7 @@ WheelConfigurations
 		ModelSuspensionSpeed 1
 		MotionEffects BackwardOnly
 		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
 		WheelColliderPath Tires/Tire_R3
@@ -220,7 +224,7 @@ WheelConfigurations
 		ModelSuspensionSpeed 1
 		MotionEffects BackwardOnly
 		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
 		WheelColliderPath Tires/Tire_R4
@@ -232,7 +236,7 @@ WheelConfigurations
 		ModelSuspensionSpeed 1
 		MotionEffects BackwardOnly
 		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
 		WheelColliderPath Tires/Tire_R5
@@ -244,11 +248,50 @@ WheelConfigurations
 		ModelSuspensionSpeed 1
 		MotionEffects BackwardOnly
 		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
+		CopyCrawlerTrackSpeedIndex 1
 	}
 ]
 
-ReverseGearRatio 19
+ExplosionBurnMaterialSections
+[
+    Turrets/Turret_1/Yaw/Pitch/Model_0
+	Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_2/Yaw/Pitch/Model_0
+    Turrets/Turret_2/Yaw/Model_0
+	Headlights_Model
+	Model_0
+    Model_1
+    Objects/Steer/Model_0
+    Objects/Steer/Model_1
+    Glass
+    Model_2
+    Wheels/Wheel_L0/Model_0
+    Wheels/Wheel_L0/Model_1
+    Wheels/Wheel_L1/Model_0
+    Wheels/Wheel_L1/Model_1
+    Wheels/Wheel_L2/Model_0
+    Wheels/Wheel_L2/Model_1
+    Wheels/Wheel_L3/Model_0
+    Wheels/Wheel_L3/Model_1
+    Wheels/Wheel_L4/Model_0
+    Wheels/Wheel_L4/Model_1
+    Wheels/Wheel_L5/Model_0
+    Wheels/Wheel_L5/Model_1
+    Wheels/Wheel_R0/Model_0
+    Wheels/Wheel_R0/Model_1
+    Wheels/Wheel_R1/Model_0
+    Wheels/Wheel_R1/Model_1
+    Wheels/Wheel_R2/Model_0
+    Wheels/Wheel_R2/Model_1
+    Wheels/Wheel_R3/Model_0
+    Wheels/Wheel_R3/Model_1
+    Wheels/Wheel_R4/Model_0
+    Wheels/Wheel_R4/Model_1
+    Wheels/Wheel_R5/Model_0
+    Wheels/Wheel_R5/Model_1
+]
+
+ReverseGearRatio 13
 ForwardGearRatios
 [
 	24

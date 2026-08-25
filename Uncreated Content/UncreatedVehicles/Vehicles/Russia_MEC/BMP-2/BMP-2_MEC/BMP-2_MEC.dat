@@ -254,50 +254,30 @@ WheelConfigurations
 		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
-		WheelColliderPath Tires/Tire_LAux_0
-		SteeringMode CrawlerTrack
-		IsColliderPowered true
+		IsColliderSteered false
 		ModelPath Wheels/Wheel_LAux_0
-		ModelUseColliderPose true
-		ModelSuspensionOffset 0.2
-		ModelSuspensionSpeed 1
-		MotionEffects None
+		ModelRadius 0.67
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
 	{
-		WheelColliderPath Tires/Tire_RAux_0
-		SteeringMode CrawlerTrack
-		IsColliderPowered true
+		IsColliderSteered false
 		ModelPath Wheels/Wheel_RAux_0
-		ModelUseColliderPose true
-		ModelSuspensionOffset 0.2
-		ModelSuspensionSpeed 1
-		MotionEffects None
+		ModelRadius 0.67
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
-		WheelColliderPath Tires/Tire_LAux_1
-		SteeringMode CrawlerTrack
-		IsColliderPowered true
+		IsColliderSteered false
 		ModelPath Wheels/Wheel_LAux_1
-		ModelUseColliderPose true
-		ModelSuspensionOffset 0.2
-		ModelSuspensionSpeed 1
-		MotionEffects None
+		ModelRadius 0.67
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 0
 	}
 	{
-		WheelColliderPath Tires/Tire_RAux_1
-		SteeringMode CrawlerTrack
-		IsColliderPowered true
+		IsColliderSteered false
 		ModelPath Wheels/Wheel_RAux_1
-		ModelUseColliderPose true
-		ModelSuspensionOffset 0.2
-		ModelSuspensionSpeed 1
-		MotionEffects None
+		ModelRadius 0.67
 		CanExplode false
 		CopyCrawlerTrackSpeedIndex 1
 	}
@@ -308,12 +288,23 @@ ExplosionBurnMaterialSections
     Model_0
     Model_1
     Glass
-	Objects/Steer/Model_0
-	Objects/Steer/Model_1
+    Objects/Seat_0
+    Objects/Steer
+    Objects/Seat_1
+    Objects/Seat_2
+    Objects/Seat_3
+    Objects/Seat_4
+    Objects/Seat_5
+    Objects/Seat_6
+    Objects/Seat_7
+    Objects/Seat_8
+    Objects/Seat_9
     Turrets/Turret_1/Yaw/Model_0
+    Turrets/Turret_1/Yaw/Model_1
     Turrets/Turret_1/Yaw/Pitch/Model_0
     Turrets/Turret_2/Yaw/Model_0
     Turrets/Turret_2/Yaw/Pitch/Model_0
+    Turrets/Turret_2/Yaw/Pitch/Model_1
     Headlights_Model
     Wheels/Wheel_L0/Model_0
     Wheels/Wheel_L0/Model_1
@@ -347,7 +338,7 @@ ExplosionBurnMaterialSections
     Wheels/Wheel_RAux_0/Model_1
     Wheels/Wheel_RAux_1/Model_0
     Wheels/Wheel_RAux_1/Model_1
-	Model_2
+    Model_2
 ]
 
 ReverseGearRatio 11.5
