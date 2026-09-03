@@ -2,9 +2,13 @@ GUID c0f74a9baea7479e8f42ddf6dc42f164
 Type Resource
 ID 38302
 
+Has_Clip_Prefab false
+Auto_Skybox
+
 Health 1250
-Radius 5
 Scale 0.3
+
+Ignore_Collision_Between_Stump_And_Debris false
 
 Explosion 23
 

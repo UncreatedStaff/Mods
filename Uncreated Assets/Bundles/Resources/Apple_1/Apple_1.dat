@@ -1,0 +1,16 @@
+GUID 321ff8e760e4444d9d58fc1fcffb8e70
+Type Resource
+ID 25999
+
+Has_Clip_Prefab false
+Auto_Skybox
+
+Health 2000
+Radius 5
+Scale 0.1
+
+Explosion 23
+
+Reset 1000
+
+Exclude_From_Level_Batching true

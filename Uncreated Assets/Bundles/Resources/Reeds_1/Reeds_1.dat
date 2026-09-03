@@ -2,6 +2,9 @@ GUID 3aa4ad26ff644388ae29d3c9b277a6e3
 Type Resource
 ID 29030
 
+Has_Clip_Prefab false
+Auto_Skybox
+
 Scale 0.1
 
 Exclude_From_Level_Batching true

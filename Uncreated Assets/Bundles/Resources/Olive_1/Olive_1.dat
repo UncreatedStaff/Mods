@@ -2,6 +2,9 @@ GUID 2730fd246e4745f1bbac3f27addd3188
 Type Resource
 ID 26001
 
+Has_Clip_Prefab false
+Auto_Skybox
+
 Health 2000
 Radius 5
 Scale 0.1
@@ -9,7 +12,5 @@ Scale 0.1
 Explosion 23
 
 Reset 1000
-
-Asset_Bundle_Version 2
 
 Exclude_From_Level_Batching true

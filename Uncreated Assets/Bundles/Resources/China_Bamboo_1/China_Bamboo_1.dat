@@ -2,6 +2,9 @@ GUID 044b87cacd5a41fba9fae007f129b354
 Type Resource
 ID 29100
 
+Has_Clip_Prefab false
+Auto_Skybox
+
 Health 800
 Radius 5
 Scale 0.3
@@ -9,8 +12,5 @@ Scale 0.3
 Explosion 100
 
 Reset 450
-
-SpeedTree
-SpeedTree_Default_LOD_Weights
 
 Exclude_From_Level_Batching true

@@ -2,6 +2,9 @@ GUID 2ad13c5076264a9fa85ce8062075614a
 Type Resource
 ID 29109
 
+Has_Clip_Prefab false
+Auto_Skybox
+
 Health 800
 Radius 4
 Scale 0.3

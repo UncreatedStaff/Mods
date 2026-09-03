@@ -2,6 +2,8 @@ GUID ee69245fcdfc412783a460de48d0a254
 Type Resource
 ID 29012
 
+Has_Clip_Prefab false
+
 Health 1
 Radius 3
 Scale 0.1

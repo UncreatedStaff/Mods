@@ -1,0 +1,13 @@
+GUID e4beb4542e024e78a285c7d07ec83ca0
+Type Resource
+Bypass_ID_Limit
+
+Has_Clip_Prefab false
+
+Health 1
+RandomUniformScale_Min 0.9
+RandomUniformScale_Max 1.1
+
+Reset 1000
+
+Exclude_From_Level_Batching true
