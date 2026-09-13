@@ -1,0 +1,18 @@
+GUID a0ae190dff82448a9a742929c2fd5212
+Type Resource
+ID 29122
+
+Has_Clip_Prefab false
+Auto_Skybox
+
+Health 1150
+RandomUniformScale_Min 0.8
+RandomUniformScale_Max 1.25
+
+Ignore_Collision_Between_Stump_And_Debris false
+
+Explosion 23
+
+Reset 800
+
+Exclude_From_Level_Batching true

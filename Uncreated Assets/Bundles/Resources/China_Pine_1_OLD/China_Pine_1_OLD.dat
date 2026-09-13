@@ -1,0 +1,20 @@
+GUID 4313d5c6ebc8495bae005569d4c764d7
+Type Resource
+ID 29132
+
+Has_Clip_Prefab false
+Auto_Skybox
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 100
+Reward_ID 517
+Reward_XP 4
+Reward_Min 7
+Reward_Max 10
+
+Reset 450
+
+Exclude_From_Level_Batching true

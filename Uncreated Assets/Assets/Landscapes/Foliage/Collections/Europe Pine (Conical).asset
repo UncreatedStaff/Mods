@@ -1,0 +1,32 @@
+Metadata
+{
+	GUID 1431d6858c8146ac847257fc1932c335
+	Type SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp
+}
+Asset
+{
+	Foliage
+	[
+		{
+			Asset 26cd55863f3e4d0684cfd7d5f668cd0f
+		}
+		{
+			Asset 5ab66d76dea64e3e8f61f7eb7ebb6569
+		}
+		{
+			Asset 2ead6ef297d843cfb05deddb8b168ac9
+			Weight 1.25
+		}
+		{
+			Asset a39574b5a8544c21930071542820d894
+			Weight 0.35
+		}
+		{
+			Asset f808274d43004fe1b35ed7d3de7e348c
+		}
+		{
+			Asset 84baf448103d4c9eabeed915426913ea
+			Weight 2.0
+		}
+	]
+}
