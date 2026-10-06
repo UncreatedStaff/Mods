@@ -15,9 +15,9 @@ CrawlerTrackSteering_MaxSpeedScale 1.0
 
 Brake 40
 
-Fuel_Min 3000
-Fuel_Max 3000
-Fuel 3000
+Fuel_Min 2000
+Fuel_Max 2000
+Fuel 2000
 Fuel_Burn_Rate 3.25
 
 Health_Min 1000
@@ -41,6 +41,11 @@ Crawler
 Explosion 38384
 Invulnerable
 Tires_Invulnerable
+
+Cam_Follow_Distance 10
+
+Pitch_Idle 0.8
+Pitch_Drive 0.08
 
 Trunk_Storage_X 6
 Trunk_Storage_Y 6
@@ -74,7 +79,7 @@ CrawlerTrackTilingMaterials
 [
 	{
 		Path Model_2
-		MaterialIndex 0
+		MaterialIndex 1
 		WheelIndices
 		[
 			0
@@ -83,26 +88,24 @@ CrawlerTrackTilingMaterials
 			3
 			4
 			5
-			6
 		]
 		RepeatDistance 1.5
-		UV_Direction (-1, 0)
+		UV_Direction (1, 0)
 	}
 	{
 		Path Model_2
-		MaterialIndex 1
+		MaterialIndex 0
 		WheelIndices
 		[
+			6
 			7
 			8
 			9
 			10
 			11
-			12
-			13
 		]
 		RepeatDistance 1.5
-		UV_Direction (-1, 0)
+		UV_Direction (1, 0)
 	}
 ]
 
@@ -173,18 +176,6 @@ WheelConfigurations
 		SteeringMode CrawlerTrack
 		IsColliderPowered true
 		ModelPath Wheels/Wheel_L5
-		ModelUseColliderPose true
-		ModelSuspensionOffset 0.2
-		ModelSuspensionSpeed 1
-		MotionEffects None
-		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
-	}
-	{
-		WheelColliderPath Tires/Tire_L6
-		SteeringMode CrawlerTrack
-		IsColliderPowered true
-		ModelPath Wheels/Wheel_L6
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
@@ -260,21 +251,9 @@ WheelConfigurations
 		ModelUseColliderPose true
 		ModelSuspensionOffset 0.2
 		ModelSuspensionSpeed 1
-		MotionEffects None
-		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
-	}
-	{
-		WheelColliderPath Tires/Tire_R6
-		SteeringMode CrawlerTrack
-		IsColliderPowered true
-		ModelPath Wheels/Wheel_R6
-		ModelUseColliderPose true
-		ModelSuspensionOffset 0.2
-		ModelSuspensionSpeed 1
 		MotionEffects ForwardOnly
 		CanExplode false
-		CopyCrawlerTrackSpeedIndex 0
+		CopyCrawlerTrackSpeedIndex 1
 	}
 	{
 		IsColliderSteered false
@@ -311,20 +290,22 @@ ExplosionBurnMaterialSections
     Turrets/Turret_1/Yaw/Pitch/Model_0
     Turrets/Turret_1/Yaw/Model_0
     Turrets/Turret_1/Yaw/Model_1
+    Turrets/Turret_2/Yaw/Pitch/Model_0
+    Turrets/Turret_2/Yaw/Model_0
     Model_0
     Model_1
     Glass
     Headlights_Model
-    Taillights_Model
-    Objects/Steer/Model_0
+    Objects/Steer
     Model_2
+    Model_3
+    Model_4
     Wheels/Wheel_L0
     Wheels/Wheel_L1
     Wheels/Wheel_L2
     Wheels/Wheel_L3
     Wheels/Wheel_L4
     Wheels/Wheel_L5
-    Wheels/Wheel_L6
     Wheels/Wheel_LAux_0
     Wheels/Wheel_LAux_1
     Wheels/Wheel_R0
@@ -333,12 +314,11 @@ ExplosionBurnMaterialSections
     Wheels/Wheel_R3
     Wheels/Wheel_R4
     Wheels/Wheel_R5
-    Wheels/Wheel_R6
     Wheels/Wheel_RAux_0
     Wheels/Wheel_RAux_1
 ]
 
-ReverseGearRatio 19
+ReverseGearRatio 13
 ForwardGearRatios
 [
 	24

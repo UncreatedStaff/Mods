@@ -6,8 +6,8 @@ ID 38382
 Speed_Min -12
 Speed_Max 18
 
-Steer_Min 24
-Steer_Max 48
+Steer_Min 16
+Steer_Max 36
 
 Brake 40
 

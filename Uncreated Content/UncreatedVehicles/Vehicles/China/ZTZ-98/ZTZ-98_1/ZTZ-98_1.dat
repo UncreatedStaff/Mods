@@ -3,8 +3,8 @@ Type Vehicle
 Has_Clip_Prefab false
 ID 38354
 
-Speed_Min -40
-Speed_Max 50
+Speed_Min -26
+Speed_Max 40
 
 Steer_Min 48
 Steer_Max 64
@@ -13,11 +13,11 @@ CrawlerTrackSteering_Torque 10
 CrawlerTrackSteering_SidewaysFrictionMultiplier 1.0
 CrawlerTrackSteering_MaxSpeedScale 1.0
 
-Brake 80
+Brake 40
 
-Fuel_Min 3000
-Fuel_Max 3000
-Fuel 3000
+Fuel_Min 2000
+Fuel_Max 2000
+Fuel 2000
 Fuel_Burn_Rate 3.25
 
 Health_Min 1000
@@ -45,7 +45,8 @@ Tires_Invulnerable
 Cam_Driver_Offset 0.19
 Cam_Follow_Distance 10
 
-Pitch_Drive 0.04
+Pitch_Idle 0.8
+Pitch_Drive 0.08
 
 Trunk_Storage_X 6
 Trunk_Storage_Y 6
@@ -74,6 +75,7 @@ Turret_2_Pitch_Min 40
 Turret_2_Pitch_Max 110
 
 Physics_Profile 78597309a568451a911665ddde93fdf1
+
 
 CrawlerTrackTilingMaterials
 [
