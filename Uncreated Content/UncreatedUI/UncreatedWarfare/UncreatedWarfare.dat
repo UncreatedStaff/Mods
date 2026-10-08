@@ -19,7 +19,7 @@ Labels
     }
     {
         Name KnownFraud
-        Text <color=red>Known Imposter Server</color>
+        Text <color=red>Known Fraudulent Server</color>
     }
 ]
 Rules
