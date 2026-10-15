@@ -5,8 +5,8 @@ ID 38356
 
 Valid_Speed_Horizontal 150
 
-Speed_Min -12
-Speed_Max 18
+Speed_Min -12.5
+Speed_Max 22.5
 
 Steer_Min 30
 Steer_Max 60

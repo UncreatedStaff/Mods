@@ -10,8 +10,8 @@ Speed_Max 155
 Steer_Min 30
 Steer_Max 54
 
-Brake 40
-Lift 12
+Brake 32
+Lift 14
 
 Fuel 4000
 Fuel_Burn_Rate 4
@@ -23,13 +23,13 @@ Health 450
 LockMouse
 Engine Plane
 
-Cam_Follow_Distance 9
+Cam_Follow_Distance 8
 
 Passenger_Explosion_Armor 0
 
 Air_Turn_Responsiveness 5
-Air_Steer_Min 40
-Air_Steer_Max 10
+Air_Steer_Min 50
+Air_Steer_Max 50
 
 Explosion 38381
 Tires_Invulnerable
